@@ -345,7 +345,7 @@
             "last_commit": "2026-01-23T04:09:35Z",
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22186
+            "stars": 22187
           }
         },
         {
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T16:23:38.834Z",
+    "last_updated": "2026-08-14T16:14:24.862Z",
     "original_repository": "vulab-AI/Awesome-Spatial-VLMs",
     "original_repository_sha": "72988f4f8d09325872f244b9cf893426e69d7b02",
     "enhanced_repository": "enhansome/enhansome-Awesome-Spatial-VLMs",
