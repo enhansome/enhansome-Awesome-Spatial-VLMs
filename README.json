@@ -157,7 +157,7 @@
             "last_commit": "2024-06-06T19:14:00Z",
             "owner": "UMass-Embodied-AGI",
             "repo": "3D-LLM",
-            "stars": 1209
+            "stars": 1210
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-06-05T08:17:03Z",
             "owner": "cpystan",
             "repo": "SD-VLM",
-            "stars": 441
+            "stars": 412
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2026-01-23T04:09:35Z",
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22189
+            "stars": 22190
           }
         },
         {
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T15:44:17.582Z",
+    "last_updated": "2026-08-16T15:45:07.762Z",
     "original_repository": "vulab-AI/Awesome-Spatial-VLMs",
     "original_repository_sha": "72988f4f8d09325872f244b9cf893426e69d7b02",
     "enhanced_repository": "enhansome/enhansome-Awesome-Spatial-VLMs",
