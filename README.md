@@ -103,7 +103,7 @@ This repository uses the framework from our survey paper to systematically organ
 
 * \[CVPR2024] Compositional Chain-of-Thought Prompting for Large Multimodal Models (*University of California, Berkeley*) [\[paper\]](https://arxiv.org/pdf/2311.17076) [\[code\]](https://github.com/chancharikmitra/CCoT) ⭐ 142 | 🐛 0 | 🌐 Python | 📅 2024-06-20;
 
-* \[EMNLP2024] Reasoning Paths with Reference Objects Elicit Quantitative Spatial Reasoning in Large Vision-Language Models (*University of Toronto*) [\[paper\]](https://arxiv.org/abs/2409.09788) [\[code\]](https://github.com/andrewliao11/Q-Spatial-Bench-code) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2024-10-30;
+* \[EMNLP2024] Reasoning Paths with Reference Objects Elicit Quantitative Spatial Reasoning in Large Vision-Language Models (*University of Toronto*) [\[paper\]](https://arxiv.org/abs/2409.09788) [\[code\]](https://github.com/andrewliao11/Q-Spatial-Bench-code) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2024-10-30;
 
 * \[NeurIPS2024] SpatialPIN: Enhancing Spatial Reasoning Capabilities of Vision-Language Models through Prompting and Interacting 3D Priors (*University of Oxford*) [\[paper\]](https://arxiv.org/pdf/2403.13438) [\[code\]](https://github.com/dannymcy/zeroshot_task_hallucination_code) ⭐ 11 | 🐛 1 | 📅 2025-01-05;
 
@@ -139,7 +139,7 @@ This repository uses the framework from our survey paper to systematically organ
   <summary><b>Hybrid Prompting</b></summary>
   - [arXiv2024] Image-of-Thought Prompting for Visual Reasoning Refinement in Multimodal Large Language Models (_Westlake University_) [[paper]](https://arxiv.org/pdf/2405.13872);
 
-* \[NeurIPS2024] Visual SKETCHPAD: Sketching as a visual chain of thought for multimodal language models (*University of Washington*) [\[paper\]](https://arxiv.org/pdf/2406.09403) [\[code\]](https://github.com/Yushi-Hu/VisualSketchpad) ⭐ 288 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2025-08-05;
+* \[NeurIPS2024] Visual SKETCHPAD: Sketching as a visual chain of thought for multimodal language models (*University of Washington*) [\[paper\]](https://arxiv.org/pdf/2406.09403) [\[code\]](https://github.com/Yushi-Hu/VisualSketchpad) ⭐ 289 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2025-08-05;
 * \[CVPR2025] SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding (*HKUST(GZ)*) [\[paper\]](https://arxiv.org/pdf/2412.04383) [\[code\]](https://github.com/iris0329/SeeGround) ⭐ 223 | 🐛 1 | 🌐 Python | 📅 2025-04-21;
 * \[arXiv2026] CoV: Chain-of-View Prompting for Spatial Reasoning (*Zhejiang University*) [\[paper\]](https://arxiv.org/pdf/2601.05172) [\[code\]](https://github.com/ziplab/CoV?tab=readme-ov-file) ⭐ 63 | 🐛 0 | 🌐 Python | 📅 2026-04-07;
 * \[COLING2025] Scaffolding coordinates to promote vision-language coordination in large multi-modal models (*Tsinghua University*) [\[paper\]](https://arxiv.org/pdf/2402.12058) [\[code\]](https://github.com/THUNLP-MT/Scaffold) ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2024-12-16;
@@ -171,9 +171,9 @@ This repository uses the framework from our survey paper to systematically organ
 
 * \[arXiv2025] SpaceR: Reinforcing MLLMs in Video Spatial Reasoning (*Peking University*) [\[paper\]](https://arxiv.org/pdf/2504.01805v2) [\[code\]](https://github.com/OuyangKun10/SpaceR?tab=readme-ov-file) ⭐ 111 | 🐛 8 | 🌐 Python | 📅 2025-07-09 [\[checkpoint\]](https://huggingface.co/RUBBISHLIKE/SpaceR);
 
-* \[arXiv2025] SpatialLadder: Progressive Training for Spatial Reasoning in Vision-Language Models (*Zhejiang University*) [\[paper\]](https://arxiv.org/pdf/2510.08531) [\[code\]](https://github.com/zju-real/SpatialLadder) ⭐ 99 | 🐛 0 | 🌐 Python | 📅 2026-06-09 [\[checkpoint\]](https://huggingface.co/hongxingli/SpatialLadder-3B);
+* \[arXiv2025] ViLaSR: Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing (*Institute of Automation, Chinese Academy of Sciences*) [\[paper\]](https://arxiv.org/abs/2506.09965) [\[code\]](https://github.com/AntResearchNLP/ViLaSR) ⭐ 99 | 🐛 4 | 🌐 Python | 📅 2025-07-27 [\[checkpoint\]](https://huggingface.co/inclusionAI/ViLaSR/tree/main);
 
-* \[arXiv2025] ViLaSR: Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing (*Institute of Automation, Chinese Academy of Sciences*) [\[paper\]](https://arxiv.org/abs/2506.09965) [\[code\]](https://github.com/AntResearchNLP/ViLaSR) ⭐ 98 | 🐛 4 | 🌐 Python | 📅 2025-07-27 [\[checkpoint\]](https://huggingface.co/inclusionAI/ViLaSR/tree/main);
+* \[arXiv2025] SpatialLadder: Progressive Training for Spatial Reasoning in Vision-Language Models (*Zhejiang University*) [\[paper\]](https://arxiv.org/pdf/2510.08531) [\[code\]](https://github.com/zju-real/SpatialLadder) ⭐ 99 | 🐛 0 | 🌐 Python | 📅 2026-06-09 [\[checkpoint\]](https://huggingface.co/hongxingli/SpatialLadder-3B);
 
 * \[arXiv2025] Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning (*Tsinghua University*) [\[paper\]](https://arxiv.org/pdf/2504.12680) [\[code\]](https://github.com/EmbodiedCity/Embodied-R.code) ⭐ 95 | 🐛 0 | 🌐 Python | 📅 2026-08-07 [\[checkpoint\]](https://huggingface.co/EmbodiedCity/Embodied-R);
 
@@ -228,7 +228,7 @@ This repository uses the framework from our survey paper to systematically organ
 <details>
   <summary><b>Architectural Enhancements</b></summary>
 
-* \[NeurIPS2024] Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLM (*New York University*) [\[paper\]](https://arxiv.org/pdf/2406.16860) [\[code\]](https://github.com/cambrian-mllm/cambrian) ⭐ 2,014 | 🐛 48 | 🌐 Python | 📅 2025-11-07 [\[checkpoint\]](https://huggingface.co/collections/nyu-visionx/cambrian-1-models-666fa7116d5420e514b0f23c);
+* \[NeurIPS2024] Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLM (*New York University*) [\[paper\]](https://arxiv.org/pdf/2406.16860) [\[code\]](https://github.com/cambrian-mllm/cambrian) ⭐ 2,013 | 🐛 48 | 🌐 Python | 📅 2025-11-07 [\[checkpoint\]](https://huggingface.co/collections/nyu-visionx/cambrian-1-models-666fa7116d5420e514b0f23c);
 
 * \[CVPR2024] Honeybee: Locality Enhanced Projector for Multimodal LLM (*Kakao Brain*) [\[paper\]](https://arxiv.org/pdf/2312.06742) [\[code\]](https://github.com/khanrc/honeybee) ⭐ 470 | 🐛 1 | 🌐 Python | 📅 2024-05-10 [\[checkpoint\]](https://github.com/khanrc/honeybee) ⭐ 470 | 🐛 1 | 🌐 Python | 📅 2024-05-10;
 
@@ -249,7 +249,7 @@ This repository uses the framework from our survey paper to systematically organ
 <details>
   <summary><b>Encoder-Level Improvements</b></summary>
 
-* \[NeurIPS2024] Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLM (*New York University*) [\[paper\]](https://arxiv.org/pdf/2406.16860) [\[code\]](https://github.com/cambrian-mllm/cambrian) ⭐ 2,014 | 🐛 48 | 🌐 Python | 📅 2025-11-07 [\[checkpoint\]](https://huggingface.co/collections/nyu-visionx/cambrian-1-models-666fa7116d5420e514b0f23c);
+* \[NeurIPS2024] Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLM (*New York University*) [\[paper\]](https://arxiv.org/pdf/2406.16860) [\[code\]](https://github.com/cambrian-mllm/cambrian) ⭐ 2,013 | 🐛 48 | 🌐 Python | 📅 2025-11-07 [\[checkpoint\]](https://huggingface.co/collections/nyu-visionx/cambrian-1-models-666fa7116d5420e514b0f23c);
 
 * \[ICML2024] Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models (*Stanford University*) [\[paper\]](https://arxiv.org/pdf/2402.07865) [\[code\]](https://github.com/TRI-ML/prismatic-vlms?tab=readme-ov-file#pretrained-models) ⭐ 1,009 | 🐛 21 | 🌐 Python | 📅 2024-07-04 [\[checkpoint\]](https://github.com/TRI-ML/prismatic-vlms) ⭐ 1,009 | 🐛 21 | 🌐 Python | 📅 2024-07-04;
 
@@ -257,7 +257,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[ICLR2025] Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models (*NVIDIA*) [\[paper\]](https://arxiv.org/pdf/2501.14818) [\[code\]](https://github.com/NVlabs/EAGLE?tab=readme-ov-file) ⭐ 3,403 | 🐛 62 | 🌐 Python | 📅 2026-06-24 [\[checkpoint\]](https://huggingface.co/nvidia/Eagle2.5-8B);
+* \[ICLR2025] Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models (*NVIDIA*) [\[paper\]](https://arxiv.org/pdf/2501.14818) [\[code\]](https://github.com/NVlabs/EAGLE?tab=readme-ov-file) ⭐ 3,406 | 🐛 62 | 🌐 Python | 📅 2026-06-24 [\[checkpoint\]](https://huggingface.co/nvidia/Eagle2.5-8B);
 
 * \[arXiv2025] G2VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning (*Shanghai AI Lab*) [\[paper\]](https://arxiv.org/pdf/2511.21688) [\[code\]](https://github.com/InternRobotics/G2VLM) ⭐ 349 | 🐛 11 | 🌐 Python | 📅 2026-04-18 [\[checkpoint\]](https://huggingface.co/InternRobotics/G2VLM-2B-MoT)
 
@@ -328,7 +328,7 @@ This repository uses the framework from our survey paper to systematically organ
 
 * \[NeurIPS2025] SD-VLM: Spatial Measuring and Understanding with Depth-Encoded Vision-Language Models (*Zhejiang University*) [\[paper\]](https://arxiv.org/pdf/2509.17664) [\[code\]](https://github.com/cpystan/SD-VLM) ⭐ 412 | 🐛 6 | 🌐 Python | 📅 2026-06-05 [\[checkpoint\]](https://huggingface.co/cpystan/SD-VLM-7B);
 
-* \[ICRA2025] SpatialBot: Precise Spatial Understanding with Vision Language Models (*Shanghai Jiao Tong University*) [\[paper\]](https://arxiv.org/pdf/2406.13642) [\[code\]](https://github.com/BAAI-DCAI/SpatialBot) ⭐ 348 | 🐛 5 | 🌐 Python | 📅 2026-07-26 [\[checkpoint\]](https://huggingface.co/RussRobin/SpatialBot-3B);
+* \[ICRA2025] SpatialBot: Precise Spatial Understanding with Vision Language Models (*Shanghai Jiao Tong University*) [\[paper\]](https://arxiv.org/pdf/2406.13642) [\[code\]](https://github.com/BAAI-DCAI/SpatialBot) ⭐ 350 | 🐛 5 | 🌐 Python | 📅 2026-07-26 [\[checkpoint\]](https://huggingface.co/RussRobin/SpatialBot-3B);
 
 * \[NeurIPS2024] SpatialRGPT: Grounded Spatial Reasoning in Vision-Language Models (*UC San Diego*) [\[paper\]](https://arxiv.org/pdf/2406.01584) [\[code\]](https://github.com/AnjieCheng/SpatialRGPT) ⭐ 337 | 🐛 26 | 🌐 Python | 📅 2024-12-14 [\[checkpoint\]](https://huggingface.co/collections/a8cheng/spatialrgpt-grounded-spatial-reasoning-in-vlms-66fef10465966adc81819723);
 
@@ -356,7 +356,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[NeurIPS2025] SPATIALLM: Training Large Language Models for Structured Indoor Modeling (*Manycore Tech Inc.*) [\[paper\]](https://arxiv.org/pdf/2506.07491) [\[code\]](https://github.com/manycore-research/SpatialLM) ⭐ 4,705 | 🐛 5 | 🌐 Python | 📅 2026-06-26 [\[checkpoint\]](https://huggingface.co/manycore-research/SpatialLM1.1-Qwen-0.5B)
+* \[NeurIPS2025] SPATIALLM: Training Large Language Models for Structured Indoor Modeling (*Manycore Tech Inc.*) [\[paper\]](https://arxiv.org/pdf/2506.07491) [\[code\]](https://github.com/manycore-research/SpatialLM) ⭐ 4,707 | 🐛 5 | 🌐 Python | 📅 2026-06-26 [\[checkpoint\]](https://huggingface.co/manycore-research/SpatialLM1.1-Qwen-0.5B)
 
   <!-- New paper, excluded in survey -->
 
@@ -369,9 +369,9 @@ This repository uses the framework from our survey paper to systematically organ
 <details>
   <summary><b>Implicit 3D from Egocentric Views</b></summary>
 
-* \[arXiv2025] Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence (*Tsinghua University*) [\[paper\]](https://arxiv.org/pdf/2505.23747) [\[code\]](https://github.com/diankun-wu/Spatial-MLLM) ⭐ 482 | 🐛 8 | 🌐 Python | 📅 2026-02-05;
+* \[arXiv2025] Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence (*Tsinghua University*) [\[paper\]](https://arxiv.org/pdf/2505.23747) [\[code\]](https://github.com/diankun-wu/Spatial-MLLM) ⭐ 483 | 🐛 8 | 🌐 Python | 📅 2026-02-05;
 
-* \[arXiv2025] VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction (*UT Austin*) [\[paper\]](https://arxiv.org/pdf/2505.20279) [\[code\]](https://github.com/VITA-Group/VLM-3R) ⭐ 439 | 🐛 10 | 🌐 Python | 📅 2026-07-15;
+* \[arXiv2025] VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction (*UT Austin*) [\[paper\]](https://arxiv.org/pdf/2505.20279) [\[code\]](https://github.com/VITA-Group/VLM-3R) ⭐ 440 | 🐛 10 | 🌐 Python | 📅 2026-07-15;
 
   <!-- New paper, excluded in survey -->
 
@@ -435,7 +435,7 @@ This repository uses the framework from our survey paper to systematically organ
 <details>
   <summary><b>Manifesting Spatial Relations in 2D Images</b></summary>
 
-* \[ICLR2024] KOSMOS-2: Grounding Multimodal Large Language Models to the World (*Microsoft Research*) [\[paper\]](https://arxiv.org/pdf/2306.14824) [\[code\]](https://github.com/microsoft/unilm/tree/master/kosmos-2) ⭐ 22,190 | 🐛 684 | 🌐 Python | 📅 2026-01-23 [\[checkpoint\]](https://huggingface.co/microsoft/kosmos-2-patch14-224);
+* \[ICLR2024] KOSMOS-2: Grounding Multimodal Large Language Models to the World (*Microsoft Research*) [\[paper\]](https://arxiv.org/pdf/2306.14824) [\[code\]](https://github.com/microsoft/unilm/tree/master/kosmos-2) ⭐ 22,189 | 🐛 684 | 🌐 Python | 📅 2026-01-23 [\[checkpoint\]](https://huggingface.co/microsoft/kosmos-2-patch14-224);
 
 * \[ECCV2024] The All-Seeing Project V2: Towards General Relation Comprehension of the Open World (*Shanghai AI Laboratory*) [\[paper\]](https://arxiv.org/pdf/2402.19474) [\[code\]](https://github.com/OpenGVLab/all-seeing?tab=readme-ov-file) ⭐ 506 | 🐛 15 | 🌐 Python | 📅 2024-08-09 [\[checkpoint\]](https://huggingface.co/OpenGVLab/ASMv2);
 
@@ -584,4 +584,4 @@ If you find this survey or repository useful for your research, please cite our 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
