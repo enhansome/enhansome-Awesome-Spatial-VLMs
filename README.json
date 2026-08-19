@@ -1,432 +1,1251 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[CoRR2025] SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation (Tsinghua University) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 935160251,
+                "language": "Python",
+                "last_commit": "2025-06-30T12:14:11Z",
+                "owner": "qizekun",
+                "repo": "SoFar",
+                "stars": 247
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR2024] Compositional Chain-of-Thought Prompting for Large Multimodal Models (University of California, Berkeley) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 771085527,
+                "language": "Python",
+                "last_commit": "2024-06-20T14:41:37Z",
+                "owner": "chancharikmitra",
+                "repo": "CCoT",
+                "stars": 142
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[EMNLP2024] Reasoning Paths with Reference Objects Elicit Quantitative Spatial Reasoning in Large Vision-Language Models (University of Toronto) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 876490494,
+                "language": "Python",
+                "last_commit": "2024-10-30T02:49:42Z",
+                "owner": "andrewliao11",
+                "repo": "Q-Spatial-Bench-code",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[NeurIPS2024] SpatialPIN: Enhancing Spatial Reasoning Capabilities of Vision-Language Models through Prompting and Interacting 3D Priors (University of Oxford) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 773180383,
+                "language": null,
+                "last_commit": "2025-01-05T07:37:36Z",
+                "owner": "dannymcy",
+                "repo": "zeroshot_task_hallucination_code",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[arXiv2023] Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V (Microsoft Research, Redmond) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 705459649,
+                "language": "Python",
+                "last_commit": "2024-08-19T07:51:11Z",
+                "owner": "microsoft",
+                "repo": "SoM",
+                "stars": 1551
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[NeurIPS2023] Fine-Grained Visual Prompting (Nanjing University of Science and Technology) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 660112266,
+                "language": "Python",
+                "last_commit": "2024-02-01T17:14:29Z",
+                "owner": "ylingfeng",
+                "repo": "FGVP",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[arXiv2026] Think3D: Thinking with Space for Spatial Reasoning (Dalian University of Technology) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1020643624,
+                "language": "Python",
+                "last_commit": "2026-08-09T03:36:23Z",
+                "owner": "zhangzaibin",
+                "repo": "spagent",
+                "stars": 213
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[NeurIPS2025] Mindjourney: Test-time scaling with world models for spatial reasoning (UMass Amherst) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1020015762,
+                "language": "Python",
+                "last_commit": "2025-11-04T17:48:58Z",
+                "owner": "UMass-Embodied-AGI",
+                "repo": "MindJourney",
+                "stars": 151
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[NeurIPS2025] See&Trek: Training-Free Spatial Prompting for Multimodal Large Language Model (HKUST(GZ)) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1113133983,
+                "language": "Python",
+                "last_commit": "2025-12-22T09:01:45Z",
+                "owner": "Hoantrbl",
+                "repo": "SeeTrek",
+                "stars": 118
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[NeurIPS2024] Visual SKETCHPAD: Sketching as a visual chain of thought for multimodal language models (University of Washington) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 814867553,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-08-05T12:27:41Z",
+                "owner": "Yushi-Hu",
+                "repo": "VisualSketchpad",
+                "stars": 290
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR2025] SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding (HKUST(GZ)) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 899060565,
+                "language": "Python",
+                "last_commit": "2025-04-21T13:47:33Z",
+                "owner": "iris0329",
+                "repo": "SeeGround",
+                "stars": 223
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[arXiv2026] CoV: Chain-of-View Prompting for Spatial Reasoning (Zhejiang University) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1129016038,
+                "language": "Python",
+                "last_commit": "2026-04-07T04:54:29Z",
+                "owner": "ziplab",
+                "repo": "CoV",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[COLING2025] Scaffolding coordinates to promote vision-language coordination in large multi-modal models (Tsinghua University) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 759692587,
+                "language": "Python",
+                "last_commit": "2024-12-16T03:13:10Z",
+                "owner": "THUNLP-MT",
+                "repo": "Scaffold",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[NeurIPS2024] Mind's Eye of LLMs: Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models (Microsoft Research) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 830812263,
+                "language": "Python",
+                "last_commit": "2024-10-23T09:01:56Z",
+                "owner": "microsoft",
+                "repo": "visualization-of-thought",
+                "stars": 37
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Training-Free Prompting"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[arXiv2025] MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse (Northwestern University) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 944827376,
+                "language": "Python",
+                "last_commit": "2025-05-05T19:00:27Z",
+                "owner": "PzySeere",
+                "repo": "MetaSpatial",
+                "stars": 322
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[arXiv2025] SpaceR: Reinforcing MLLMs in Video Spatial Reasoning (Peking University) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 947882967,
+                "language": "Python",
+                "last_commit": "2025-07-09T06:04:01Z",
+                "owner": "OuyangKun10",
+                "repo": "SpaceR",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[arXiv2025] ViLaSR: Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing (Institute of Automation, Chinese Academy of Sciences) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 994255937,
+                "language": "Python",
+                "last_commit": "2025-07-27T03:38:38Z",
+                "owner": "AntResearchNLP",
+                "repo": "ViLaSR",
+                "stars": 99
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[arXiv2025] SpatialLadder: Progressive Training for Spatial Reasoning in Vision-Language Models (Zhejiang University) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1064469862,
+                "language": "Python",
+                "last_commit": "2026-06-09T07:34:50Z",
+                "owner": "ZJU-REAL",
+                "repo": "SpatialLadder",
+                "stars": 99
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[arXiv2025] Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning (Tsinghua University) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 965957370,
+                "language": "Python",
+                "last_commit": "2026-08-07T03:26:38Z",
+                "owner": "EmbodiedCity",
+                "repo": "Embodied-R.code",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[arXiv2025] M2-Reasoning: Empowering MLLMs with Unified General and Spatial Reasoning (Inclusion AI, Ant Group) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1012510145,
+                "language": "Python",
+                "last_commit": "2025-07-17T07:59:39Z",
+                "owner": "inclusionAI",
+                "repo": "M2-Reasoning",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[arXiv2025] Improved Visual-Spatial Reasoning via R1-Zero-Like Training (Shanghai Jiao Tong University) [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 957324664,
+                "language": null,
+                "last_commit": "2025-06-09T17:16:07Z",
+                "owner": "SJTU-DENG-Lab",
+                "repo": "R1-Zero-VSI",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[arXiv2025] DepthLM: Metric Depth From Vision Language Models (Meta) [paper]",
+              "description": "[code] [checkpoint]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1067555026,
+                "language": "Python",
+                "last_commit": "2026-06-01T23:40:40Z",
+                "owner": "facebookresearch",
+                "repo": "DepthLM_Official",
+                "stars": 368
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ICLR2025] Ross: Reconstructive Visual Instruction Tuning (Institute of Automation, Chinese Academy of Sciences) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 871131784,
+                "language": "Python",
+                "last_commit": "2025-04-09T02:25:22Z",
+                "owner": "Haochen-Wang409",
+                "repo": "ross",
+                "stars": 135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML2025] Imagine while Reasoning in Space: Multimodal Visualization-of-Thought (Microsoft Research) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 965149559,
+                "language": "Python",
+                "last_commit": "2025-04-12T14:41:12Z",
+                "owner": "chengzu-li",
+                "repo": "MVoT",
+                "stars": 78
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ICLR2025] Locality Alignment Improves Vision-Language Models (Stanford University) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 872706347,
+                "language": "Python",
+                "last_commit": "2025-01-17T01:44:50Z",
+                "owner": "iancovert",
+                "repo": "locality-alignment",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR2025] Perception Tokens Enhance Visual Reasoning in Multimodal Language Models (University of Washington) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 954240776,
+                "language": "Python",
+                "last_commit": "2026-02-18T19:14:52Z",
+                "owner": "mahtabbigverdi",
+                "repo": "Aurora-perception",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[NeurIPS2025] SpatialReasoner: Towards Explicit and Generalizable 3D Spatial Reasoning, (Johns Hopkins University) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 975038777,
+                "language": "Python",
+                "last_commit": "2026-04-05T18:14:50Z",
+                "owner": "johnson111788",
+                "repo": "SpatialReasoner",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[NeurIPS2024] Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLM (New York University) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 816163847,
+                "language": "Python",
+                "last_commit": "2025-11-07T03:26:25Z",
+                "owner": "cambrian-mllm",
+                "repo": "cambrian",
+                "stars": 2013
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR2024] Honeybee: Locality Enhanced Projector for Multimodal LLM (Kakao Brain) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 728251052,
+                "language": "Python",
+                "last_commit": "2024-05-10T06:53:11Z",
+                "owner": "khanrc",
+                "repo": "honeybee",
+                "stars": 470
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ECCV2024] Contrastive Region Guidance: Improving Grounding in Vision-Language Models without Training (UNC) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 764798080,
+                "language": "Python",
+                "last_commit": "2024-03-04T23:21:35Z",
+                "owner": "meetdavidwan",
+                "repo": "crg",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[EMNLP2024] To Preserve or To Compress: An In-Depth Study of Connector Selection in Multimodal Large Language Models (Digital Twin Institute, Eastern Institute of Technology, China) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 869974378,
+                "language": "Python",
+                "last_commit": "2024-12-13T06:25:05Z",
+                "owner": "EIT-NLP",
+                "repo": "Connector-Selection-for-MLLM",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[arXiv2025] Cambrian-S: Towards Spatial Supersensing in Video (New York University) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1075703212,
+                "language": "Python",
+                "last_commit": "2026-04-03T14:59:36Z",
+                "owner": "cambrian-mllm",
+                "repo": "cambrian-s",
+                "stars": 566
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML2025] Why is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas (City University of Hong Kong) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 868528586,
+                "language": "Python",
+                "last_commit": "2025-05-02T15:21:13Z",
+                "owner": "shiqichen17",
+                "repo": "AdaptVis",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[NeurIPS2024] Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLM (New York University) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 816163847,
+                "language": "Python",
+                "last_commit": "2025-11-07T03:26:25Z",
+                "owner": "cambrian-mllm",
+                "repo": "cambrian",
+                "stars": 2013
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML2024] Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models (Stanford University) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 756761504,
+                "language": "Python",
+                "last_commit": "2024-07-04T13:08:39Z",
+                "owner": "TRI-ML",
+                "repo": "prismatic-vlms",
+                "stars": 1009
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[arXiv2025] Introducing Visual Perception Token into Multimodal Large Language Model (National University of Singapore) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 901083683,
+                "language": "Python",
+                "last_commit": "2025-03-22T04:40:44Z",
+                "owner": "yu-rp",
+                "repo": "VisualPerceptionToken",
+                "stars": 136
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ICLR2025] Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models (NVIDIA) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 820789280,
+                "language": "Python",
+                "last_commit": "2026-06-24T18:12:11Z",
+                "owner": "NVlabs",
+                "repo": "Eagle",
+                "stars": 3417
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[arXiv2025] G2VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning (Shanghai AI Lab) [paper]",
+              "description": "[code] [checkpoint]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1105015985,
+                "language": "Python",
+                "last_commit": "2026-04-18T22:20:48Z",
+                "owner": "InternRobotics",
+                "repo": "G2VLM",
+                "stars": 351
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR2025] SpatialCLIP: Learning 3D-aware Image Representations from Spatially Discriminative Language (Zhejiang University) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 953361354,
+                "language": "Python",
+                "last_commit": "2025-12-09T13:01:02Z",
+                "owner": "SpatialVision",
+                "repo": "Spatial-CLIP",
+                "stars": 56
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Model-Centric Enhancements"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[ECCVWorkshops2024] GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest (The University of Hong Kong) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 663121272,
+                "language": "Python",
+                "last_commit": "2025-06-03T20:23:02Z",
+                "owner": "jshilong",
+                "repo": "GPT4RoI",
+                "stars": 555
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR2024] VCoder: Versatile Vision Encoders for Multimodal Large Language Models (Georgia Tech) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 732594854,
+                "language": "Python",
+                "last_commit": "2024-04-17T05:09:38Z",
+                "owner": "SHI-Labs",
+                "repo": "VCoder",
+                "stars": 280
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[EMNLP2022] PEVL: Position-enhanced Pre-training and Prompt Tuning for Vision-language Models (Tsinghua University) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 495242060,
+                "language": "Python",
+                "last_commit": "2022-11-10T13:05:21Z",
+                "owner": "thunlp",
+                "repo": "PEVL",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ICLR2024] CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding (UMass Amherst) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 715404914,
+                "language": "Python",
+                "last_commit": "2025-06-09T21:34:42Z",
+                "owner": "UMass-Embodied-AGI",
+                "repo": "CoVLM",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CoRR2023] Position-Enhanced Visual Instruction Tuning for Multimodal Large Language Models (Tsinghua University) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 691451746,
+                "language": "Python",
+                "last_commit": "2023-09-19T11:55:35Z",
+                "owner": "PVIT-official",
+                "repo": "PVIT",
+                "stars": 37
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Explicit 2D Information Injection"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[NeurIPS2023] 3D-LLM: Injecting the 3D World into Large Language Models (UCLA) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 670231330,
+                "language": "Python",
+                "last_commit": "2024-06-06T19:14:00Z",
+                "owner": "UMass-Embodied-AGI",
+                "repo": "3D-LLM",
+                "stars": 1210
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[NeurIPS2025] SD-VLM: Spatial Measuring and Understanding with Depth-Encoded Vision-Language Models (Zhejiang University) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1042504004,
+                "language": "Python",
+                "last_commit": "2026-06-05T08:17:03Z",
+                "owner": "cpystan",
+                "repo": "SD-VLM",
+                "stars": 412
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ICRA2025] SpatialBot: Precise Spatial Understanding with Vision Language Models (Shanghai Jiao Tong University) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 815824749,
+                "language": "Python",
+                "last_commit": "2026-07-26T17:18:08Z",
+                "owner": "BAAI-DCAI",
+                "repo": "SpatialBot",
+                "stars": 351
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[NeurIPS2024] SpatialRGPT: Grounded Spatial Reasoning in Vision-Language Models (UC San Diego) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 869405201,
+                "language": "Python",
+                "last_commit": "2024-12-14T23:41:03Z",
+                "owner": "AnjieCheng",
+                "repo": "SpatialRGPT",
+                "stars": 337
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR2024] LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning (Fudan University) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 724031176,
+                "language": "Python",
+                "last_commit": "2024-07-17T15:08:55Z",
+                "owner": "Open3DA",
+                "repo": "LL3DA",
+                "stars": 320
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR2024] VCoder: Versatile Vision Encoders for Multimodal Large Language Models (Georgia Tech) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 732594854,
+                "language": "Python",
+                "last_commit": "2024-04-17T05:09:38Z",
+                "owner": "SHI-Labs",
+                "repo": "VCoder",
+                "stars": 280
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[NeurIPS2025] RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics (Beihang University) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 995955094,
+                "language": "Python",
+                "last_commit": "2025-12-16T08:22:40Z",
+                "owner": "Zhoues",
+                "repo": "RoboRefer",
+                "stars": 266
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR2022] ScanQA: 3D Question Answering for Spatial Scene Understanding (Kyoto University) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 469148527,
+                "language": "Python",
+                "last_commit": "2023-08-23T08:26:23Z",
+                "owner": "ATR-DBI",
+                "repo": "ScanQA",
+                "stars": 163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR2025] 3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer (The University of Adelaide) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 952320700,
+                "language": "Python",
+                "last_commit": "2025-05-26T14:50:49Z",
+                "owner": "djiajunustc",
+                "repo": "3D-LLaVA",
+                "stars": 101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR2025] LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences (South China University of Technology) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 925256574,
+                "language": "C++",
+                "last_commit": "2025-03-29T04:55:57Z",
+                "owner": "Hoyyyaard",
+                "repo": "LSceneLLM",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR2024] Situational Awareness Matters in 3D Vision Language Reasoning (UIUC) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 813390439,
+                "language": "Python",
+                "last_commit": "2024-12-09T22:22:07Z",
+                "owner": "YunzeMan",
+                "repo": "Situation3D",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[NeurIPS2025] SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning (Westlake University) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 919339539,
+                "language": "CSS",
+                "last_commit": "2025-10-14T06:22:29Z",
+                "owner": "yliu-cs",
+                "repo": "SSR",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ICCVW2025] SmolRGPT: Efficient Spatial Reasoning for Warehouse Environments with 600M Parameters (Universit de Moncton) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1012662000,
+                "language": "Python",
+                "last_commit": "2026-04-02T14:37:23Z",
+                "owner": "abtraore",
+                "repo": "SmolRGPT",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[arXiv2025] Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence (Tsinghua University) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 992905954,
+                "language": "Python",
+                "last_commit": "2026-02-05T02:07:59Z",
+                "owner": "THU-SI",
+                "repo": "Spatial-MLLM",
+                "stars": 484
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[arXiv2025] VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction (UT Austin) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 990946981,
+                "language": "Python",
+                "last_commit": "2026-07-15T13:32:21Z",
+                "owner": "VITA-Group",
+                "repo": "VLM-3R",
+                "stars": 440
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[arXiv2025] GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models (The University of Hong Kong) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 920460485,
+                "language": "Python",
+                "last_commit": "2026-03-02T07:03:58Z",
+                "owner": "Qi-Zhangyang",
+                "repo": "GPT4Scene-and-VLN-R1",
+                "stars": 533
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML2024] An Embodied Generalist Agent in 3D World (Beijing Institute for General Artificial Intelligence (BIGAI)) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 716994089,
+                "language": "Python",
+                "last_commit": "2025-04-20T11:14:46Z",
+                "owner": "embodied-generalist",
+                "repo": "embodied-generalist",
+                "stars": 488
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[NeurIPS2024] Chat-Scene: Bridging 3D Scene and Large Language Models with Object Identifiers (Zhejiang University) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 730259473,
+                "language": "Python",
+                "last_commit": "2026-04-12T04:33:59Z",
+                "owner": "ZzZZCHS",
+                "repo": "Chat-Scene",
+                "stars": 217
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR2023] 3D Concept Learning and Reasoning from Multi-View Images (UCLA) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 656802996,
+                "language": "Python",
+                "last_commit": "2024-01-20T15:02:14Z",
+                "owner": "evelinehong",
+                "repo": "3D-CLR-Official",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ECCV2024] ScanReason: Empowering 3D Visual Grounding with Reasoning Capabilities (The University of Hong Kong) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 822705291,
+                "language": "Python",
+                "last_commit": "2024-10-10T06:09:05Z",
+                "owner": "ZCMax",
+                "repo": "ScanReason",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ICCV2025] MM-Spatial: Exploring 3D Spatial Understanding in Multimodal LLMs (Apple) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 952214741,
+                "language": "Python",
+                "last_commit": "2025-11-03T20:51:46Z",
+                "owner": "apple",
+                "repo": "ml-cubifyanything",
+                "stars": 439
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ICCV2025] LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D Capabilities (The University of Hong Kong) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 863057900,
+                "language": "Python",
+                "last_commit": "2025-10-21T20:34:47Z",
+                "owner": "ZCMax",
+                "repo": "LLaVA-3D",
+                "stars": 388
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR2025] Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning (Zhejiang University) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 939691815,
+                "language": "Python",
+                "last_commit": "2026-01-30T08:34:00Z",
+                "owner": "hanxunyu",
+                "repo": "Inst3D-LMM",
+                "stars": 134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ICCV2025] Robin3D: Improving 3D Large Language Model via Robust Instruction Tuning (University of Illinois Chicago) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 865628720,
+                "language": "Python",
+                "last_commit": "2025-10-19T13:16:26Z",
+                "owner": "WeitaiKang",
+                "repo": "Robin3D",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR2025] DSPNet: Dual-vision Scene Perception for Robust 3D Question Answering (Sun Yat-sen University) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 943097352,
+                "language": "Python",
+                "last_commit": "2025-04-18T10:04:32Z",
+                "owner": "LZ-CH",
+                "repo": "DSPNet",
+                "stars": 28
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "3D Information Enhancement"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[ICLR2024] KOSMOS-2: Grounding Multimodal Large Language Models to the World (Microsoft Research) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198350484,
+                "language": "Python",
+                "last_commit": "2026-01-23T04:09:35Z",
+                "owner": "microsoft",
+                "repo": "unilm",
+                "stars": 22192
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ECCV2024] The All-Seeing Project V2: Towards General Relation Comprehension of the Open World (Shanghai AI Laboratory) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 674106991,
+                "language": "Python",
+                "last_commit": "2024-08-09T06:39:51Z",
+                "owner": "OpenGVLab",
+                "repo": "all-seeing",
+                "stars": 506
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR2022] Pseudo-Q: Generating Pseudo Language Queries for Visual Grounding (Tsinghua University) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 469620485,
+                "language": "Python",
+                "last_commit": "2024-07-13T14:06:56Z",
+                "owner": "LeapLabTHU",
+                "repo": "Pseudo-Q",
+                "stars": 153
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[arXiv2023] Position-Enhanced Visual Instruction Tuning for Multimodal Large Language Models (Tsinghua University) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 691451746,
+                "language": "Python",
+                "last_commit": "2023-09-19T11:55:35Z",
+                "owner": "PVIT-official",
+                "repo": "PVIT",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR2024] SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities (Google DeepMind) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 758808044,
+                "language": "Python",
+                "last_commit": "2026-08-18T16:49:41Z",
+                "owner": "remyxai",
+                "repo": "VQASynth",
+                "stars": 587
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[arXiv2025] Multi-SpatialMLLM: Multi-Frame Spatial Understanding with MultiModal Large Language Models (Meta FAIR) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 989956007,
+                "language": "Python",
+                "last_commit": "2026-02-25T08:37:02Z",
+                "owner": "facebookresearch",
+                "repo": "Multi-SpatialMLLM",
+                "stars": 178
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[NeurIPS2024] Multi-modal Situated Reasoning in 3D Scenes (BIGAI) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 813930147,
+                "language": "Python",
+                "last_commit": "2025-12-02T06:13:03Z",
+                "owner": "MSR3D",
+                "repo": "MSR3D",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[ICML2025] Orient Anything: Learning Robust Object Orientation Estimation from Rendering 3D Models (Zhejiang University) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 904712528,
+                "language": "Python",
+                "last_commit": "2026-02-06T06:17:18Z",
+                "owner": "SpatialVision",
+                "repo": "Orient-Anything",
+                "stars": 392
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[CVPR2025] RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics (NVIDIA) [paper]",
+              "description": "[code];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 944753286,
+                "language": "Python",
+                "last_commit": "2026-06-17T00:50:17Z",
+                "owner": "NVlabs",
+                "repo": "RoboSpatial",
+                "stars": 149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[WACV2025] LLaVA-SpaceSGG: Visual Instruct Tuning for Open-vocabulary Scene Graph Generation with Enhanced Spatial Relations (City University of Hong Kong) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 886484984,
+                "language": "Python",
+                "last_commit": "2025-01-27T08:02:26Z",
+                "owner": "Endlinc",
+                "repo": "LLaVA-SpaceSGG",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[NeurIPS2025] Actial: Activate Spatial Reasoning Ability of Multimodal Large Language Models (Nanjing University) [paper]",
+              "description": "[code] [checkpoint];",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1123137750,
+                "language": "Python",
+                "last_commit": "2026-01-26T12:33:27Z",
+                "owner": "warmsnow-sh",
+                "repo": "Actial",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data-Centric Spatial Enhancement"
+        }
+      ],
       "title": "🚀 Awesome Papers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[CoRR2025] SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation (Tsinghua University) [paper]",
-          "description": "[code];",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-30T12:14:11Z",
-            "owner": "qizekun",
-            "repo": "SoFar",
-            "stars": 247
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[CVPR2024] Compositional Chain-of-Thought Prompting for Large Multimodal Models (University of California, Berkeley) [paper]",
-          "description": "[code];",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-20T14:41:37Z",
-            "owner": "chancharikmitra",
-            "repo": "CCoT",
-            "stars": 142
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[EMNLP2024] Reasoning Paths with Reference Objects Elicit Quantitative Spatial Reasoning in Large Vision-Language Models (University of Toronto) [paper]",
-          "description": "[code];",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-30T02:49:42Z",
-            "owner": "andrewliao11",
-            "repo": "Q-Spatial-Bench-code",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[NeurIPS2024] SpatialPIN: Enhancing Spatial Reasoning Capabilities of Vision-Language Models through Prompting and Interacting 3D Priors (University of Oxford) [paper]",
-          "description": "[code];",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-01-05T07:37:36Z",
-            "owner": "dannymcy",
-            "repo": "zeroshot_task_hallucination_code",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "Training-Free Prompting"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[ECCVWorkshops2024] GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest (The University of Hong Kong) [paper]",
-          "description": "[code] [checkpoint];",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-03T20:23:02Z",
-            "owner": "jshilong",
-            "repo": "GPT4RoI",
-            "stars": 555
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[CVPR2024] VCoder: Versatile Vision Encoders for Multimodal Large Language Models (Georgia Tech) [paper]",
-          "description": "[code] [checkpoint];",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-17T05:09:38Z",
-            "owner": "SHI-Labs",
-            "repo": "VCoder",
-            "stars": 280
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[EMNLP2022] PEVL: Position-enhanced Pre-training and Prompt Tuning for Vision-language Models (Tsinghua University) [paper]",
-          "description": "[code] [checkpoint];",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-11-10T13:05:21Z",
-            "owner": "thunlp",
-            "repo": "PEVL",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[ICLR2024] CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding (UMass Amherst) [paper]",
-          "description": "[code] [checkpoint];",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-09T21:34:42Z",
-            "owner": "UMass-Embodied-AGI",
-            "repo": "CoVLM",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[CoRR2023] Position-Enhanced Visual Instruction Tuning for Multimodal Large Language Models (Tsinghua University) [paper]",
-          "description": "[code] [checkpoint];",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-09-19T11:55:35Z",
-            "owner": "PVIT-official",
-            "repo": "PVIT",
-            "stars": 37
-          }
-        }
-      ],
-      "title": "Explicit 2D Information Injection"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[NeurIPS2023] 3D-LLM: Injecting the 3D World into Large Language Models (UCLA) [paper]",
-          "description": "[code];",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-06T19:14:00Z",
-            "owner": "UMass-Embodied-AGI",
-            "repo": "3D-LLM",
-            "stars": 1210
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[NeurIPS2025] SD-VLM: Spatial Measuring and Understanding with Depth-Encoded Vision-Language Models (Zhejiang University) [paper]",
-          "description": "[code] [checkpoint];",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-05T08:17:03Z",
-            "owner": "cpystan",
-            "repo": "SD-VLM",
-            "stars": 412
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[ICRA2025] SpatialBot: Precise Spatial Understanding with Vision Language Models (Shanghai Jiao Tong University) [paper]",
-          "description": "[code] [checkpoint];",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-26T17:18:08Z",
-            "owner": "BAAI-DCAI",
-            "repo": "SpatialBot",
-            "stars": 350
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[NeurIPS2024] SpatialRGPT: Grounded Spatial Reasoning in Vision-Language Models (UC San Diego) [paper]",
-          "description": "[code] [checkpoint];",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-14T23:41:03Z",
-            "owner": "AnjieCheng",
-            "repo": "SpatialRGPT",
-            "stars": 337
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[CVPR2024] LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning (Fudan University) [paper]",
-          "description": "[code];",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-17T15:08:55Z",
-            "owner": "Open3DA",
-            "repo": "LL3DA",
-            "stars": 320
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[CVPR2024] VCoder: Versatile Vision Encoders for Multimodal Large Language Models (Georgia Tech) [paper]",
-          "description": "[code] [checkpoint];",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-17T05:09:38Z",
-            "owner": "SHI-Labs",
-            "repo": "VCoder",
-            "stars": 280
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[NeurIPS2025] RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics (Beihang University) [paper]",
-          "description": "[code] [checkpoint];",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-16T08:22:40Z",
-            "owner": "Zhoues",
-            "repo": "RoboRefer",
-            "stars": 266
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[CVPR2022] ScanQA: 3D Question Answering for Spatial Scene Understanding (Kyoto University) [paper]",
-          "description": "[code];",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-08-23T08:26:23Z",
-            "owner": "ATR-DBI",
-            "repo": "ScanQA",
-            "stars": 163
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[CVPR2025] 3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer (The University of Adelaide) [paper]",
-          "description": "[code] [checkpoint];",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-05-26T14:50:49Z",
-            "owner": "djiajunustc",
-            "repo": "3D-LLaVA",
-            "stars": 101
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[CVPR2025] LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences (South China University of Technology) [paper]",
-          "description": "[code] [checkpoint];",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-03-29T04:55:57Z",
-            "owner": "Hoyyyaard",
-            "repo": "LSceneLLM",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[CVPR2024] Situational Awareness Matters in 3D Vision Language Reasoning (UIUC) [paper]",
-          "description": "[code];",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-09T22:22:07Z",
-            "owner": "YunzeMan",
-            "repo": "Situation3D",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[NeurIPS2025] SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning (Westlake University) [paper]",
-          "description": "[code] [checkpoint];",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2025-10-14T06:22:29Z",
-            "owner": "yliu-cs",
-            "repo": "SSR",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[ICCVW2025] SmolRGPT: Efficient Spatial Reasoning for Warehouse Environments with 600M Parameters (Universit de Moncton) [paper]",
-          "description": "[code] [checkpoint];",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-02T14:37:23Z",
-            "owner": "abtraore",
-            "repo": "SmolRGPT",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "3D Information Enhancement"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[ICLR2024] KOSMOS-2: Grounding Multimodal Large Language Models to the World (Microsoft Research) [paper]",
-          "description": "[code] [checkpoint];",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-23T04:09:35Z",
-            "owner": "microsoft",
-            "repo": "unilm",
-            "stars": 22190
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[ECCV2024] The All-Seeing Project V2: Towards General Relation Comprehension of the Open World (Shanghai AI Laboratory) [paper]",
-          "description": "[code] [checkpoint];",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-09T06:39:51Z",
-            "owner": "OpenGVLab",
-            "repo": "all-seeing",
-            "stars": 506
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[CVPR2022] Pseudo-Q: Generating Pseudo Language Queries for Visual Grounding (Tsinghua University) [paper]",
-          "description": "[code];",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-13T14:06:56Z",
-            "owner": "LeapLabTHU",
-            "repo": "Pseudo-Q",
-            "stars": 153
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[arXiv2023] Position-Enhanced Visual Instruction Tuning for Multimodal Large Language Models (Tsinghua University) [paper]",
-          "description": "[code] [checkpoint];",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-09-19T11:55:35Z",
-            "owner": "PVIT-official",
-            "repo": "PVIT",
-            "stars": 37
-          }
-        }
-      ],
-      "title": "Data-Centric Spatial Enhancement"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📚 Datasets and Benchmarks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Spatially-Oriented Training Corpora"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Evaluation Benchmarks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🏆 Spatial VLM Leaderboard & Evaluation Toolkit"
-    },
-    {
-      "description": "The table below presents the main results from our survey, comparing 38 VLMs across 9 benchmarks. Scores are QA Accuracy (%). Benchmarks are grouped by our Cognitive Hierarchy.\nWe invite the community to benchmark new models using our suite. Please to add your model's results!",
-      "items": [],
-      "title": "🏅 Main Leaderboard"
-    },
-    {
-      "description": "If you find this survey or repository useful for your research, please cite our paper:",
-      "items": [],
-      "title": "Citation"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:56:36.951Z",
+    "last_updated": "2026-08-19T12:08:16.860Z",
     "original_repository": "vulab-AI/Awesome-Spatial-VLMs",
+    "original_repository_id": 1017314390,
     "original_repository_sha": "72988f4f8d09325872f244b9cf893426e69d7b02",
     "enhanced_repository": "enhansome/enhansome-Awesome-Spatial-VLMs",
     "enhanced_repository_description": null,
