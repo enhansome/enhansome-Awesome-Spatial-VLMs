@@ -104,7 +104,7 @@
                 "archived": false,
                 "id": 1020643624,
                 "language": "Python",
-                "last_commit": "2026-08-09T03:36:23Z",
+                "last_commit": "2026-08-20T05:53:43Z",
                 "owner": "zhangzaibin",
                 "repo": "spagent",
                 "stars": 213
@@ -234,7 +234,7 @@
                 "last_commit": "2025-05-05T19:00:27Z",
                 "owner": "PzySeere",
                 "repo": "MetaSpatial",
-                "stars": 322
+                "stars": 321
               }
             },
             {
@@ -564,7 +564,7 @@
                 "last_commit": "2026-06-24T18:12:11Z",
                 "owner": "NVlabs",
                 "repo": "Eagle",
-                "stars": 3419
+                "stars": 3423
               }
             },
             {
@@ -698,7 +698,7 @@
                 "last_commit": "2024-06-06T19:14:00Z",
                 "owner": "UMass-Embodied-AGI",
                 "repo": "3D-LLM",
-                "stars": 1210
+                "stars": 1211
               }
             },
             {
@@ -713,7 +713,7 @@
                 "last_commit": "2026-06-05T08:17:03Z",
                 "owner": "cpystan",
                 "repo": "SD-VLM",
-                "stars": 412
+                "stars": 411
               }
             },
             {
@@ -998,7 +998,7 @@
                 "last_commit": "2025-11-03T20:51:46Z",
                 "owner": "apple",
                 "repo": "ml-cubifyanything",
-                "stars": 439
+                "stars": 440
               }
             },
             {
@@ -1028,7 +1028,7 @@
                 "last_commit": "2026-01-30T08:34:00Z",
                 "owner": "hanxunyu",
                 "repo": "Inst3D-LMM",
-                "stars": 134
+                "stars": 135
               }
             },
             {
@@ -1243,7 +1243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:56:44.108Z",
+    "last_updated": "2026-08-20T15:58:17.445Z",
     "original_repository": "vulab-AI/Awesome-Spatial-VLMs",
     "original_repository_id": 1017314390,
     "original_repository_sha": "72988f4f8d09325872f244b9cf893426e69d7b02",
