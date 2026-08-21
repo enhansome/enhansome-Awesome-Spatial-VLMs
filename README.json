@@ -77,7 +77,7 @@
                 "last_commit": "2024-08-19T07:51:11Z",
                 "owner": "microsoft",
                 "repo": "SoM",
-                "stars": 1551
+                "stars": 1553
               }
             },
             {
@@ -104,7 +104,7 @@
                 "archived": false,
                 "id": 1020643624,
                 "language": "Python",
-                "last_commit": "2026-08-20T05:53:43Z",
+                "last_commit": "2026-08-21T10:08:44Z",
                 "owner": "zhangzaibin",
                 "repo": "spagent",
                 "stars": 213
@@ -234,7 +234,7 @@
                 "last_commit": "2025-05-05T19:00:27Z",
                 "owner": "PzySeere",
                 "repo": "MetaSpatial",
-                "stars": 321
+                "stars": 320
               }
             },
             {
@@ -504,7 +504,7 @@
                 "last_commit": "2025-05-02T15:21:13Z",
                 "owner": "shiqichen17",
                 "repo": "AdaptVis",
-                "stars": 76
+                "stars": 75
               }
             },
             {
@@ -564,7 +564,7 @@
                 "last_commit": "2026-06-24T18:12:11Z",
                 "owner": "NVlabs",
                 "repo": "Eagle",
-                "stars": 3423
+                "stars": 3427
               }
             },
             {
@@ -579,7 +579,7 @@
                 "last_commit": "2026-04-18T22:20:48Z",
                 "owner": "InternRobotics",
                 "repo": "G2VLM",
-                "stars": 351
+                "stars": 350
               }
             },
             {
@@ -661,7 +661,7 @@
                 "last_commit": "2025-06-09T21:34:42Z",
                 "owner": "UMass-Embodied-AGI",
                 "repo": "CoVLM",
-                "stars": 46
+                "stars": 45
               }
             },
             {
@@ -713,7 +713,7 @@
                 "last_commit": "2026-06-05T08:17:03Z",
                 "owner": "cpystan",
                 "repo": "SD-VLM",
-                "stars": 411
+                "stars": 409
               }
             },
             {
@@ -758,7 +758,7 @@
                 "last_commit": "2024-07-17T15:08:55Z",
                 "owner": "Open3DA",
                 "repo": "LL3DA",
-                "stars": 320
+                "stars": 319
               }
             },
             {
@@ -1080,7 +1080,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22192
+                "stars": 22193
               }
             },
             {
@@ -1155,7 +1155,7 @@
                 "last_commit": "2026-02-25T08:37:02Z",
                 "owner": "facebookresearch",
                 "repo": "Multi-SpatialMLLM",
-                "stars": 178
+                "stars": 179
               }
             },
             {
@@ -1243,7 +1243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:58:17.445Z",
+    "last_updated": "2026-08-21T15:58:23.684Z",
     "original_repository": "vulab-AI/Awesome-Spatial-VLMs",
     "original_repository_id": 1017314390,
     "original_repository_sha": "72988f4f8d09325872f244b9cf893426e69d7b02",
