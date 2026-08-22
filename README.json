@@ -489,7 +489,7 @@
                 "last_commit": "2026-04-03T14:59:36Z",
                 "owner": "cambrian-mllm",
                 "repo": "cambrian-s",
-                "stars": 566
+                "stars": 567
               }
             },
             {
@@ -564,7 +564,7 @@
                 "last_commit": "2026-06-24T18:12:11Z",
                 "owner": "NVlabs",
                 "repo": "Eagle",
-                "stars": 3427
+                "stars": 3430
               }
             },
             {
@@ -1080,7 +1080,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22193
+                "stars": 22194
               }
             },
             {
@@ -1243,7 +1243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:58:23.684Z",
+    "last_updated": "2026-08-22T15:44:47.019Z",
     "original_repository": "vulab-AI/Awesome-Spatial-VLMs",
     "original_repository_id": 1017314390,
     "original_repository_sha": "72988f4f8d09325872f244b9cf893426e69d7b02",
