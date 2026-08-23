@@ -124,7 +124,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[arXiv2026] Think3D: Thinking with Space for Spatial Reasoning (*Dalian University of Technology*) [\[paper\]](https://arxiv.org/pdf/2601.13029) [\[code\]](https://github.com/zhangzaibin/spagent) ⭐ 213 | 🐛 49 | 🌐 Python | 📅 2026-08-21 [\[checkpoint\]](https://huggingface.co/jialianjie/SPAgent-4B);
+* \[arXiv2026] Think3D: Thinking with Space for Spatial Reasoning (*Dalian University of Technology*) [\[paper\]](https://arxiv.org/pdf/2601.13029) [\[code\]](https://github.com/zhangzaibin/spagent) ⭐ 214 | 🐛 49 | 🌐 Python | 📅 2026-08-21 [\[checkpoint\]](https://huggingface.co/jialianjie/SPAgent-4B);
 * \[NeurIPS2025] Mindjourney: Test-time scaling with world models for spatial reasoning (*UMass Amherst*) [\[paper\]](https://arxiv.org/pdf/2507.12508) [\[code\]](https://github.com/UMass-Embodied-AGI/MindJourney) ⭐ 151 | 🐛 2 | 🌐 Python | 📅 2025-11-04;
 * \[NeurIPS2025] See\&Trek: Training-Free Spatial Prompting for Multimodal Large Language Model (*HKUST(GZ)*) [\[paper\]](https://arxiv.org/pdf/2509.16087) [\[code\]](https://github.com/Hoantrbl/SeeTrek?tab=readme-ov-file) ⭐ 118 | 🐛 1 | 🌐 Python | 📅 2025-12-22;
 * \[arXiv2025] Abstract 3D Perception for Spatial Intelligence in Vision-Language Models (*Tsinghua University*) [\[paper\]](https://arxiv.org/pdf/2511.10946)
@@ -238,7 +238,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[arXiv2025] Cambrian-S: Towards Spatial Supersensing in Video (*New York University*) [\[paper\]](https://arxiv.org/pdf/2511.04670) [\[code\]](https://github.com/cambrian-mllm/cambrian-s) ⭐ 567 | 🐛 1 | 🌐 Python | 📅 2026-04-03 [\[checkpoint\]](https://huggingface.co/collections/nyu-visionx/cambrian-s-models);
+* \[arXiv2025] Cambrian-S: Towards Spatial Supersensing in Video (*New York University*) [\[paper\]](https://arxiv.org/pdf/2511.04670) [\[code\]](https://github.com/cambrian-mllm/cambrian-s) ⭐ 567 | 🐛 2 | 🌐 Python | 📅 2026-04-03 [\[checkpoint\]](https://huggingface.co/collections/nyu-visionx/cambrian-s-models);
 
 * \[ICML2025] Why is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas (*City University of Hong Kong*) [\[paper\]](https://arxiv.org/pdf/2503.01773) [\[code\]](https://github.com/shiqichen17/AdaptVis) ⭐ 75 | 🐛 5 | 🌐 Python | 📅 2025-05-02 [\[checkpoint\]](https://github.com/shiqichen17/AdaptVis) ⭐ 75 | 🐛 5 | 🌐 Python | 📅 2025-05-02;
 
@@ -257,7 +257,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[ICLR2025] Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models (*NVIDIA*) [\[paper\]](https://arxiv.org/pdf/2501.14818) [\[code\]](https://github.com/NVlabs/EAGLE?tab=readme-ov-file) ⭐ 3,430 | 🐛 62 | 🌐 Python | 📅 2026-06-24 [\[checkpoint\]](https://huggingface.co/nvidia/Eagle2.5-8B);
+* \[ICLR2025] Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models (*NVIDIA*) [\[paper\]](https://arxiv.org/pdf/2501.14818) [\[code\]](https://github.com/NVlabs/EAGLE?tab=readme-ov-file) ⭐ 3,433 | 🐛 62 | 🌐 Python | 📅 2026-06-24 [\[checkpoint\]](https://huggingface.co/nvidia/Eagle2.5-8B);
 
 * \[arXiv2025] G2VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning (*Shanghai AI Lab*) [\[paper\]](https://arxiv.org/pdf/2511.21688) [\[code\]](https://github.com/InternRobotics/G2VLM) ⭐ 350 | 🐛 11 | 🌐 Python | 📅 2026-04-18 [\[checkpoint\]](https://huggingface.co/InternRobotics/G2VLM-2B-MoT)
 
@@ -356,7 +356,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[NeurIPS2025] SPATIALLM: Training Large Language Models for Structured Indoor Modeling (*Manycore Tech Inc.*) [\[paper\]](https://arxiv.org/pdf/2506.07491) [\[code\]](https://github.com/manycore-research/SpatialLM) ⭐ 4,712 | 🐛 5 | 🌐 Python | 📅 2026-06-26 [\[checkpoint\]](https://huggingface.co/manycore-research/SpatialLM1.1-Qwen-0.5B)
+* \[NeurIPS2025] SPATIALLM: Training Large Language Models for Structured Indoor Modeling (*Manycore Tech Inc.*) [\[paper\]](https://arxiv.org/pdf/2506.07491) [\[code\]](https://github.com/manycore-research/SpatialLM) ⭐ 4,713 | 🐛 5 | 🌐 Python | 📅 2026-06-26 [\[checkpoint\]](https://huggingface.co/manycore-research/SpatialLM1.1-Qwen-0.5B)
 
   <!-- New paper, excluded in survey -->
 
@@ -371,7 +371,7 @@ This repository uses the framework from our survey paper to systematically organ
 
 * \[arXiv2025] Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence (*Tsinghua University*) [\[paper\]](https://arxiv.org/pdf/2505.23747) [\[code\]](https://github.com/diankun-wu/Spatial-MLLM) ⭐ 484 | 🐛 8 | 🌐 Python | 📅 2026-02-05;
 
-* \[arXiv2025] VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction (*UT Austin*) [\[paper\]](https://arxiv.org/pdf/2505.20279) [\[code\]](https://github.com/VITA-Group/VLM-3R) ⭐ 440 | 🐛 10 | 🌐 Python | 📅 2026-07-15;
+* \[arXiv2025] VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction (*UT Austin*) [\[paper\]](https://arxiv.org/pdf/2505.20279) [\[code\]](https://github.com/VITA-Group/VLM-3R) ⭐ 441 | 🐛 10 | 🌐 Python | 📅 2026-07-15;
 
   <!-- New paper, excluded in survey -->
 
@@ -381,7 +381,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[NeurIPS2025] Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors (*CUHK*) [\[paper\]](https://arxiv.org/pdf/2505.24625#page=3.50) [\[code\]](https://github.com/LaVi-Lab/VG-LLM) ⭐ 255 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2025-11-28
+* \[NeurIPS2025] Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors (*CUHK*) [\[paper\]](https://arxiv.org/pdf/2505.24625#page=3.50) [\[code\]](https://github.com/LaVi-Lab/VG-LLM) ⭐ 256 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2025-11-28
 
   <!-- New paper, excluded in survey -->
 
@@ -447,7 +447,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[arXiv2025] Scaling Spatial Intelligence with Multimodal Foundation  (*SenseTime Research*) [\[paper\]](https://arxiv.org/pdf/2511.13719) [\[code\]](https://github.com/OpenSenseNova/SenseNova-SI) ⭐ 294 | 🐛 0 | 🌐 Python | 📅 2026-05-14 [\[checkpoint\]](https://huggingface.co/collections/sensenova/sensenova-si);
+* \[arXiv2025] Scaling Spatial Intelligence with Multimodal Foundation  (*SenseTime Research*) [\[paper\]](https://arxiv.org/pdf/2511.13719) [\[code\]](https://github.com/OpenSenseNova/SenseNova-SI) ⭐ 296 | 🐛 0 | 🌐 Python | 📅 2026-05-14 [\[checkpoint\]](https://huggingface.co/collections/sensenova/sensenova-si);
 
 * \[NeurIPS2025] Stitch and Tell: A Structured Multimodal Data Augmentation Method for Spatial Understanding (*Beijing Institute of Technology*) [\[paper\]](https://www.arxiv.org/pdf/2512.06769);
 
@@ -476,7 +476,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[arXiv2025] Visual Spatial Tuning (*The University of Hong Kong*) [\[paper\]](https://arxiv.org/pdf/2511.05491) [\[code\]](https://github.com/Yangr116/VST) ⭐ 201 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-03-25 [\[checkpoint\]](https://huggingfgace.co/collections/rayruiyang/vst);
+* \[arXiv2025] Visual Spatial Tuning (*The University of Hong Kong*) [\[paper\]](https://arxiv.org/pdf/2511.05491) [\[code\]](https://github.com/Yangr116/VST) ⭐ 202 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-03-25 [\[checkpoint\]](https://huggingfgace.co/collections/rayruiyang/vst);
 
   <!-- New paper, excluded in survey -->
 
@@ -584,4 +584,4 @@ If you find this survey or repository useful for your research, please cite our 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
