@@ -81,7 +81,7 @@
             "last_commit": "2024-08-19T07:51:11Z",
             "owner": "microsoft",
             "repo": "SoM",
-            "stars": 1554
+            "stars": 1555
           }
         },
         {
@@ -696,7 +696,7 @@
             "last_commit": "2025-06-03T20:23:02Z",
             "owner": "jshilong",
             "repo": "GPT4RoI",
-            "stars": 554
+            "stars": 555
           }
         },
         {
@@ -1095,7 +1095,7 @@
             "last_commit": "2026-03-02T07:03:58Z",
             "owner": "Qi-Zhangyang",
             "repo": "GPT4Scene-and-VLN-R1",
-            "stars": 533
+            "stars": 534
           }
         },
         {
@@ -1251,7 +1251,7 @@
             "last_commit": "2026-01-23T04:09:35Z",
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22195
+            "stars": 22194
           }
         },
         {
@@ -1460,7 +1460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:25:35.262Z",
+    "last_updated": "2026-08-24T16:03:31.949Z",
     "original_repository": "vulab-AI/Awesome-Spatial-VLMs",
     "original_repository_id": 1017314390,
     "original_repository_sha": "72988f4f8d09325872f244b9cf893426e69d7b02",
