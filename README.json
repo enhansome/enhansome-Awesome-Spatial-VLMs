@@ -81,7 +81,7 @@
             "last_commit": "2024-08-19T07:51:11Z",
             "owner": "microsoft",
             "repo": "SoM",
-            "stars": 1555
+            "stars": 1556
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2025-08-05T12:27:41Z",
             "owner": "Yushi-Hu",
             "repo": "VisualSketchpad",
-            "stars": 290
+            "stars": 291
           }
         },
         {
@@ -378,7 +378,7 @@
             "last_commit": "2026-05-07T06:28:24Z",
             "owner": "zhangquanchen",
             "repo": "3DThinker",
-            "stars": 246
+            "stars": 247
           }
         },
         {
@@ -645,7 +645,7 @@
             "last_commit": "2026-06-24T18:12:11Z",
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3453
+            "stars": 3456
           }
         },
         {
@@ -993,7 +993,7 @@
             "last_commit": "2026-06-26T18:14:20Z",
             "owner": "manycore-research",
             "repo": "SpatialLM",
-            "stars": 4714
+            "stars": 4715
           }
         }
       ],
@@ -1407,7 +1407,7 @@
             "last_commit": "2026-02-06T06:17:18Z",
             "owner": "SpatialVision",
             "repo": "Orient-Anything",
-            "stars": 396
+            "stars": 401
           }
         },
         {
@@ -1422,7 +1422,7 @@
             "last_commit": "2026-06-17T00:50:17Z",
             "owner": "NVlabs",
             "repo": "RoboSpatial",
-            "stars": 149
+            "stars": 150
           }
         },
         {
@@ -1460,7 +1460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:19:35.361Z",
+    "last_updated": "2026-08-25T16:07:53.132Z",
     "original_repository": "vulab-AI/Awesome-Spatial-VLMs",
     "original_repository_id": 1017314390,
     "original_repository_sha": "72988f4f8d09325872f244b9cf893426e69d7b02",
