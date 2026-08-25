@@ -15,7 +15,7 @@
             "last_commit": "2025-06-30T12:14:11Z",
             "owner": "qizekun",
             "repo": "SoFar",
-            "stars": 247
+            "stars": 250
           }
         },
         {
@@ -645,7 +645,7 @@
             "last_commit": "2026-06-24T18:12:11Z",
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3449
+            "stars": 3453
           }
         },
         {
@@ -1251,7 +1251,7 @@
             "last_commit": "2026-01-23T04:09:35Z",
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22194
+            "stars": 22193
           }
         },
         {
@@ -1329,7 +1329,7 @@
             "archived": false,
             "id": 758808044,
             "language": "Python",
-            "last_commit": "2026-08-24T08:21:15Z",
+            "last_commit": "2026-08-24T16:37:31Z",
             "owner": "remyxai",
             "repo": "VQASynth",
             "stars": 588
@@ -1392,7 +1392,7 @@
             "last_commit": "2026-03-25T08:50:25Z",
             "owner": "Yangr116",
             "repo": "VST",
-            "stars": 202
+            "stars": 204
           }
         },
         {
@@ -1407,7 +1407,7 @@
             "last_commit": "2026-02-06T06:17:18Z",
             "owner": "SpatialVision",
             "repo": "Orient-Anything",
-            "stars": 392
+            "stars": 396
           }
         },
         {
@@ -1460,7 +1460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T16:03:31.949Z",
+    "last_updated": "2026-08-25T06:19:35.361Z",
     "original_repository": "vulab-AI/Awesome-Spatial-VLMs",
     "original_repository_id": 1017314390,
     "original_repository_sha": "72988f4f8d09325872f244b9cf893426e69d7b02",
