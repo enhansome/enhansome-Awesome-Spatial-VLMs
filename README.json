@@ -645,7 +645,7 @@
             "last_commit": "2026-06-24T18:12:11Z",
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3462
+            "stars": 3465
           }
         },
         {
@@ -993,7 +993,7 @@
             "last_commit": "2026-06-26T18:14:20Z",
             "owner": "manycore-research",
             "repo": "SpatialLM",
-            "stars": 4719
+            "stars": 4720
           }
         }
       ],
@@ -1392,7 +1392,7 @@
             "last_commit": "2026-03-25T08:50:25Z",
             "owner": "Yangr116",
             "repo": "VST",
-            "stars": 205
+            "stars": 206
           }
         },
         {
@@ -1407,7 +1407,7 @@
             "last_commit": "2026-02-06T06:17:18Z",
             "owner": "SpatialVision",
             "repo": "Orient-Anything",
-            "stars": 402
+            "stars": 404
           }
         },
         {
@@ -1460,9 +1460,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:35:50.311Z",
-    "original_repository": "vulab-AI/Awesome-Spatial-VLMs",
-    "original_repository_id": 1017314390,
+    "last_updated": "2026-08-27T11:24:13.611Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1017314390,
+      "language": "Python",
+      "last_commit": "2026-07-30T03:14:46Z",
+      "owner": "vulab-AI",
+      "repo": "Awesome-Spatial-VLMs",
+      "stars": 472
+    },
     "original_repository_sha": "72988f4f8d09325872f244b9cf893426e69d7b02",
     "enhanced_repository": "enhansome/enhansome-Awesome-Spatial-VLMs",
     "enhanced_repository_description": null,
