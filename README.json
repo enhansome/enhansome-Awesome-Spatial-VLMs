@@ -645,7 +645,7 @@
             "last_commit": "2026-06-24T18:12:11Z",
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3465
+            "stars": 3466
           }
         },
         {
@@ -711,7 +711,7 @@
             "last_commit": "2024-04-17T05:09:38Z",
             "owner": "SHI-Labs",
             "repo": "VCoder",
-            "stars": 280
+            "stars": 279
           }
         },
         {
@@ -873,7 +873,7 @@
             "last_commit": "2024-04-17T05:09:38Z",
             "owner": "SHI-Labs",
             "repo": "VCoder",
-            "stars": 280
+            "stars": 279
           }
         },
         {
@@ -963,7 +963,7 @@
             "last_commit": "2025-10-14T06:22:29Z",
             "owner": "yliu-cs",
             "repo": "SSR",
-            "stars": 40
+            "stars": 41
           }
         },
         {
@@ -1170,7 +1170,7 @@
             "last_commit": "2025-11-03T20:51:46Z",
             "owner": "apple",
             "repo": "ml-cubifyanything",
-            "stars": 442
+            "stars": 443
           }
         },
         {
@@ -1251,7 +1251,7 @@
             "last_commit": "2026-08-26T08:16:01Z",
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22194
+            "stars": 22197
           }
         },
         {
@@ -1460,7 +1460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:24:13.611Z",
+    "last_updated": "2026-08-28T00:29:37.238Z",
     "original_repository_info": {
       "archived": false,
       "id": 1017314390,
