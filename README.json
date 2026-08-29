@@ -543,7 +543,7 @@
             "open_issues": 0,
             "owner": "zhangquanchen",
             "repo": "3DThinker",
-            "stars": 247,
+            "stars": 248,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -949,7 +949,7 @@
             "open_issues": 62,
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3477,
+            "stars": 3479,
             "topics": [
               "demo",
               "eagle",
@@ -1479,10 +1479,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-06-26T18:14:20Z",
-            "open_issues": 4,
+            "open_issues": 3,
             "owner": "manycore-research",
             "repo": "SpatialLM",
-            "stars": 4722,
+            "stars": 4723,
             "topics": [
               "mllm",
               "point-clouds",
@@ -1829,7 +1829,7 @@
             "open_issues": 4,
             "owner": "LZ-CH",
             "repo": "DSPNet",
-            "stars": 28,
+            "stars": 29,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -2133,7 +2133,7 @@
             "open_issues": 13,
             "owner": "SpatialVision",
             "repo": "Orient-Anything",
-            "stars": 405,
+            "stars": 406,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:41:41.133Z",
+    "last_updated": "2026-08-29T18:44:34.653Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
