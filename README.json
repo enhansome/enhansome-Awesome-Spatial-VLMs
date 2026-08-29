@@ -16,7 +16,8 @@
             "owner": "qizekun",
             "repo": "SoFar",
             "stars": 250
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "chancharikmitra",
             "repo": "CCoT",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "andrewliao11",
             "repo": "Q-Spatial-Bench-code",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "dannymcy",
             "repo": "zeroshot_task_hallucination_code",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         }
       ],
       "title": "Textual Prompting Methods"
@@ -81,8 +85,9 @@
             "last_commit": "2024-08-19T07:51:11Z",
             "owner": "microsoft",
             "repo": "SoM",
-            "stars": 1557
-          }
+            "stars": 1558
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "ylingfeng",
             "repo": "FGVP",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "zhangzaibin",
             "repo": "spagent",
             "stars": 214
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "UMass-Embodied-AGI",
             "repo": "MindJourney",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "Hoantrbl",
             "repo": "SeeTrek",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         }
       ],
       "title": "Visual Prompting Methods"
@@ -163,7 +172,8 @@
             "owner": "Yushi-Hu",
             "repo": "VisualSketchpad",
             "stars": 291
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "iris0329",
             "repo": "SeeGround",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "ziplab",
             "repo": "CoV",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "THUNLP-MT",
             "repo": "Scaffold",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "microsoft",
             "repo": "visualization-of-thought",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         }
       ],
       "title": "Hybrid Prompting"
@@ -244,7 +258,8 @@
             "owner": "TencentARC",
             "repo": "GVT",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "PzySeere",
             "repo": "MetaSpatial",
             "stars": 320
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -274,7 +290,8 @@
             "owner": "OuyangKun10",
             "repo": "SpaceR",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "AntResearchNLP",
             "repo": "ViLaSR",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "ZJU-REAL",
             "repo": "SpatialLadder",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "EmbodiedCity",
             "repo": "Embodied-R.code",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "inclusionAI",
             "repo": "M2-Reasoning",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "SJTU-DENG-Lab",
             "repo": "R1-Zero-VSI",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "hunarbatra",
             "repo": "SpatialThinker",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "zhangquanchen",
             "repo": "3DThinker",
             "stars": 247
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "facebookresearch",
             "repo": "DepthLM_Official",
             "stars": 368
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -409,7 +434,8 @@
             "owner": "Haochen-Wang409",
             "repo": "ross",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -424,7 +450,8 @@
             "owner": "chengzu-li",
             "repo": "MVoT",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "iancovert",
             "repo": "locality-alignment",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "mahtabbigverdi",
             "repo": "Aurora-perception",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -469,7 +498,8 @@
             "owner": "johnson111788",
             "repo": "SpatialReasoner",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -484,7 +514,8 @@
             "owner": "zhangquanchen",
             "repo": "SIFThinker",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         }
       ],
       "title": "Advanced Training Strategies"
@@ -505,7 +536,8 @@
             "owner": "cambrian-mllm",
             "repo": "cambrian",
             "stars": 2013
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -519,8 +551,9 @@
             "last_commit": "2024-05-10T06:53:11Z",
             "owner": "khanrc",
             "repo": "honeybee",
-            "stars": 470
-          }
+            "stars": 471
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -535,7 +568,8 @@
             "owner": "meetdavidwan",
             "repo": "crg",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -550,7 +584,8 @@
             "owner": "EIT-NLP",
             "repo": "Connector-Selection-for-MLLM",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -564,8 +599,9 @@
             "last_commit": "2026-04-03T14:59:36Z",
             "owner": "cambrian-mllm",
             "repo": "cambrian-s",
-            "stars": 567
-          }
+            "stars": 568
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -580,7 +616,8 @@
             "owner": "shiqichen17",
             "repo": "AdaptVis",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         }
       ],
       "title": "Architectural Enhancements"
@@ -601,7 +638,8 @@
             "owner": "cambrian-mllm",
             "repo": "cambrian",
             "stars": 2013
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -615,8 +653,9 @@
             "last_commit": "2024-07-04T13:08:39Z",
             "owner": "TRI-ML",
             "repo": "prismatic-vlms",
-            "stars": 1009
-          }
+            "stars": 1010
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -631,7 +670,8 @@
             "owner": "yu-rp",
             "repo": "VisualPerceptionToken",
             "stars": 136
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -645,8 +685,9 @@
             "last_commit": "2026-06-24T18:12:11Z",
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3466
-          }
+            "stars": 3477
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -661,7 +702,8 @@
             "owner": "InternRobotics",
             "repo": "G2VLM",
             "stars": 352
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -676,7 +718,8 @@
             "owner": "SpatialVision",
             "repo": "Spatial-CLIP",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         }
       ],
       "title": "Encoder-Level Improvements"
@@ -697,7 +740,8 @@
             "owner": "jshilong",
             "repo": "GPT4RoI",
             "stars": 555
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -712,7 +756,8 @@
             "owner": "SHI-Labs",
             "repo": "VCoder",
             "stars": 279
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -727,7 +772,8 @@
             "owner": "thunlp",
             "repo": "PEVL",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -742,7 +788,8 @@
             "owner": "UMass-Embodied-AGI",
             "repo": "CoVLM",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -757,7 +804,8 @@
             "owner": "PVIT-official",
             "repo": "PVIT",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         }
       ],
       "title": "Object Region Guidance"
@@ -778,7 +826,8 @@
             "owner": "AlonMendelson",
             "repo": "SGVL",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         }
       ],
       "title": "Explicit Spatial Relationship"
@@ -799,7 +848,8 @@
             "owner": "UMass-Embodied-AGI",
             "repo": "3D-LLM",
             "stars": 1212
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -814,7 +864,8 @@
             "owner": "cpystan",
             "repo": "SD-VLM",
             "stars": 409
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -829,7 +880,8 @@
             "owner": "BAAI-DCAI",
             "repo": "SpatialBot",
             "stars": 351
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -844,7 +896,8 @@
             "owner": "AnjieCheng",
             "repo": "SpatialRGPT",
             "stars": 337
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -859,7 +912,8 @@
             "owner": "Open3DA",
             "repo": "LL3DA",
             "stars": 319
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -874,7 +928,8 @@
             "owner": "SHI-Labs",
             "repo": "VCoder",
             "stars": 279
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -889,7 +944,8 @@
             "owner": "Zhoues",
             "repo": "RoboRefer",
             "stars": 266
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -904,7 +960,8 @@
             "owner": "ATR-DBI",
             "repo": "ScanQA",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -919,7 +976,8 @@
             "owner": "djiajunustc",
             "repo": "3D-LLaVA",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -934,7 +992,8 @@
             "owner": "Hoyyyaard",
             "repo": "LSceneLLM",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -949,7 +1008,8 @@
             "owner": "YunzeMan",
             "repo": "Situation3D",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -964,7 +1024,8 @@
             "owner": "yliu-cs",
             "repo": "SSR",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -979,7 +1040,8 @@
             "owner": "abtraore",
             "repo": "SmolRGPT",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -993,8 +1055,9 @@
             "last_commit": "2026-06-26T18:14:20Z",
             "owner": "manycore-research",
             "repo": "SpatialLM",
-            "stars": 4720
-          }
+            "stars": 4722
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         }
       ],
       "title": "Explicit 3D Geometric Representations"
@@ -1015,7 +1078,8 @@
             "owner": "THU-SI",
             "repo": "Spatial-MLLM",
             "stars": 484
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -1030,7 +1094,8 @@
             "owner": "VITA-Group",
             "repo": "VLM-3R",
             "stars": 441
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -1045,7 +1110,8 @@
             "owner": "LaVi-Lab",
             "repo": "VG-LLM",
             "stars": 256
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -1060,7 +1126,8 @@
             "owner": "Visual-AI",
             "repo": "3DRS",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -1075,7 +1142,8 @@
             "owner": "hustvl",
             "repo": "Spa3R",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         }
       ],
       "title": "Implicit 3D from Egocentric Views"
@@ -1095,8 +1163,9 @@
             "last_commit": "2026-03-02T07:03:58Z",
             "owner": "Qi-Zhangyang",
             "repo": "GPT4Scene-and-VLN-R1",
-            "stars": 534
-          }
+            "stars": 535
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -1111,7 +1180,8 @@
             "owner": "embodied-generalist",
             "repo": "embodied-generalist",
             "stars": 488
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -1126,7 +1196,8 @@
             "owner": "ZzZZCHS",
             "repo": "Chat-Scene",
             "stars": 217
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -1141,7 +1212,8 @@
             "owner": "evelinehong",
             "repo": "3D-CLR-Official",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -1156,7 +1228,8 @@
             "owner": "ZCMax",
             "repo": "ScanReason",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -1171,7 +1244,8 @@
             "owner": "apple",
             "repo": "ml-cubifyanything",
             "stars": 443
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -1186,7 +1260,8 @@
             "owner": "ZCMax",
             "repo": "LLaVA-3D",
             "stars": 388
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -1201,7 +1276,8 @@
             "owner": "hanxunyu",
             "repo": "Inst3D-LMM",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -1216,7 +1292,8 @@
             "owner": "WeitaiKang",
             "repo": "Robin3D",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -1231,7 +1308,8 @@
             "owner": "LZ-CH",
             "repo": "DSPNet",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         }
       ],
       "title": "Scene-level Information + Ego-centric"
@@ -1251,8 +1329,9 @@
             "last_commit": "2026-08-26T08:16:01Z",
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22197
-          }
+            "stars": 22196
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -1267,7 +1346,8 @@
             "owner": "OpenGVLab",
             "repo": "all-seeing",
             "stars": 506
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -1282,7 +1362,8 @@
             "owner": "LeapLabTHU",
             "repo": "Pseudo-Q",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -1297,7 +1378,8 @@
             "owner": "PVIT-official",
             "repo": "PVIT",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -1312,7 +1394,8 @@
             "owner": "OpenSenseNova",
             "repo": "SenseNova-SI",
             "stars": 297
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         }
       ],
       "title": "Manifesting Spatial Relations in 2D Images"
@@ -1333,7 +1416,8 @@
             "owner": "remyxai",
             "repo": "VQASynth",
             "stars": 588
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -1348,7 +1432,8 @@
             "owner": "facebookresearch",
             "repo": "Multi-SpatialMLLM",
             "stars": 179
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -1363,7 +1448,8 @@
             "owner": "MSR3D",
             "repo": "MSR3D",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -1378,7 +1464,8 @@
             "owner": "AI9Stars",
             "repo": "SPRITE",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -1393,7 +1480,8 @@
             "owner": "Yangr116",
             "repo": "VST",
             "stars": 206
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -1407,8 +1495,9 @@
             "last_commit": "2026-02-06T06:17:18Z",
             "owner": "SpatialVision",
             "repo": "Orient-Anything",
-            "stars": 404
-          }
+            "stars": 405
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -1423,7 +1512,8 @@
             "owner": "NVlabs",
             "repo": "RoboSpatial",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -1438,7 +1528,8 @@
             "owner": "Endlinc",
             "repo": "LLaVA-SpaceSGG",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         },
         {
           "node_type": "item",
@@ -1453,14 +1544,15 @@
             "owner": "warmsnow-sh",
             "repo": "Actial",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
         }
       ],
       "title": "Manifesting Spatial Priors in 3D and Synthetic Worlds"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:29:37.238Z",
+    "last_updated": "2026-08-29T00:03:16.525Z",
     "original_repository_info": {
       "archived": false,
       "id": 1017314390,
