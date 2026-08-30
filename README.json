@@ -256,7 +256,7 @@
             "open_issues": 1,
             "owner": "iris0329",
             "repo": "SeeGround",
-            "stars": 223,
+            "stars": 224,
             "topics": [
               "3d-scene-understanding",
               "3d-visual-grounding",
@@ -726,7 +726,7 @@
             "open_issues": 48,
             "owner": "cambrian-mllm",
             "repo": "cambrian",
-            "stars": 2013,
+            "stars": 2014,
             "topics": [
               "chatbot",
               "clip",
@@ -875,7 +875,7 @@
             "open_issues": 48,
             "owner": "cambrian-mllm",
             "repo": "cambrian",
-            "stars": 2013,
+            "stars": 2014,
             "topics": [
               "chatbot",
               "clip",
@@ -949,7 +949,7 @@
             "open_issues": 62,
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3479,
+            "stars": 3485,
             "topics": [
               "demo",
               "eagle",
@@ -1039,7 +1039,7 @@
             "open_issues": 30,
             "owner": "jshilong",
             "repo": "GPT4RoI",
-            "stars": 555,
+            "stars": 556,
             "topics": [
               "computer-vision",
               "gpt",
@@ -1225,7 +1225,7 @@
             "open_issues": 5,
             "owner": "BAAI-DCAI",
             "repo": "SpatialBot",
-            "stars": 351,
+            "stars": 352,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1856,7 +1856,7 @@
             "open_issues": 684,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22196,
+            "stars": 22197,
             "topics": [
               "beit",
               "beit-3",
@@ -1973,7 +1973,7 @@
             "open_issues": 0,
             "owner": "OpenSenseNova",
             "repo": "SenseNova-SI",
-            "stars": 297,
+            "stars": 298,
             "topics": [
               "mllm",
               "mllm-for-3d",
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T18:44:34.653Z",
+    "last_updated": "2026-08-30T18:41:55.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
