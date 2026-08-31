@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "qizekun",
             "repo": "SoFar",
-            "stars": 250,
+            "stars": 253,
             "topics": [
               "3d-point-clouds",
               "navigation",
@@ -118,7 +118,7 @@
             "open_issues": 22,
             "owner": "microsoft",
             "repo": "SoM",
-            "stars": 1558,
+            "stars": 1560,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -160,7 +160,7 @@
             "open_issues": 48,
             "owner": "zhangzaibin",
             "repo": "spagent",
-            "stars": 214,
+            "stars": 215,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -543,7 +543,7 @@
             "open_issues": 0,
             "owner": "zhangquanchen",
             "repo": "3DThinker",
-            "stars": 248,
+            "stars": 252,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -564,7 +564,7 @@
             "open_issues": 1,
             "owner": "facebookresearch",
             "repo": "DepthLM_Official",
-            "stars": 368,
+            "stars": 367,
             "topics": [
               "3d",
               "depth-estimation",
@@ -907,7 +907,7 @@
             "open_issues": 21,
             "owner": "TRI-ML",
             "repo": "prismatic-vlms",
-            "stars": 1010,
+            "stars": 1011,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -949,7 +949,7 @@
             "open_issues": 62,
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3485,
+            "stars": 3491,
             "topics": [
               "demo",
               "eagle",
@@ -1183,7 +1183,7 @@
             "open_issues": 31,
             "owner": "UMass-Embodied-AGI",
             "repo": "3D-LLM",
-            "stars": 1212,
+            "stars": 1213,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1204,7 +1204,7 @@
             "open_issues": 6,
             "owner": "cpystan",
             "repo": "SD-VLM",
-            "stars": 409,
+            "stars": 408,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1541,7 +1541,7 @@
             "open_issues": 10,
             "owner": "VITA-Group",
             "repo": "VLM-3R",
-            "stars": 441,
+            "stars": 442,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1856,7 +1856,7 @@
             "open_issues": 684,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22197,
+            "stars": 22199,
             "topics": [
               "beit",
               "beit-3",
@@ -2001,11 +2001,11 @@
             "id": 758808044,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-24T16:37:31Z",
+            "last_commit": "2026-08-31T14:56:34Z",
             "open_issues": 3,
             "owner": "remyxai",
             "repo": "VQASynth",
-            "stars": 588,
+            "stars": 589,
             "topics": [
               "agent",
               "dataset-generation",
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:41:55.203Z",
+    "last_updated": "2026-08-31T20:56:49.759Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
@@ -2218,7 +2218,7 @@
       "open_issues": 3,
       "owner": "vulab-AI",
       "repo": "Awesome-Spatial-VLMs",
-      "stars": 472,
+      "stars": 471,
       "topics": [
         "awesome-list",
         "awesome-spatial-vlms",
