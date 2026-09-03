@@ -156,11 +156,11 @@
             "id": 1020643624,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-01T08:40:22Z",
+            "last_commit": "2026-09-03T09:11:05Z",
             "open_issues": 46,
             "owner": "zhangzaibin",
             "repo": "spagent",
-            "stars": 218,
+            "stars": 219,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -375,7 +375,7 @@
             "open_issues": 1,
             "owner": "PzySeere",
             "repo": "MetaSpatial",
-            "stars": 321,
+            "stars": 322,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -726,7 +726,7 @@
             "open_issues": 48,
             "owner": "cambrian-mllm",
             "repo": "cambrian",
-            "stars": 2014,
+            "stars": 2013,
             "topics": [
               "chatbot",
               "clip",
@@ -875,7 +875,7 @@
             "open_issues": 48,
             "owner": "cambrian-mllm",
             "repo": "cambrian",
-            "stars": 2014,
+            "stars": 2013,
             "topics": [
               "chatbot",
               "clip",
@@ -949,7 +949,7 @@
             "open_issues": 62,
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3508,
+            "stars": 3518,
             "topics": [
               "demo",
               "eagle",
@@ -1482,7 +1482,7 @@
             "open_issues": 4,
             "owner": "manycore-research",
             "repo": "SpatialLM",
-            "stars": 4726,
+            "stars": 4728,
             "topics": [
               "mllm",
               "point-clouds",
@@ -1562,7 +1562,7 @@
             "open_issues": 18,
             "owner": "LaVi-Lab",
             "repo": "VG-LLM",
-            "stars": 256,
+            "stars": 257,
             "topics": [
               "3d-scene-understanding",
               "mllm",
@@ -1656,7 +1656,7 @@
             "open_issues": 0,
             "owner": "embodied-generalist",
             "repo": "embodied-generalist",
-            "stars": 488,
+            "stars": 489,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1677,7 +1677,7 @@
             "open_issues": 12,
             "owner": "ZzZZCHS",
             "repo": "Chat-Scene",
-            "stars": 217,
+            "stars": 218,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1973,7 +1973,7 @@
             "open_issues": 0,
             "owner": "OpenSenseNova",
             "repo": "SenseNova-SI",
-            "stars": 298,
+            "stars": 299,
             "topics": [
               "mllm",
               "mllm-for-3d",
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T18:50:53.767Z",
+    "last_updated": "2026-09-03T18:49:05.399Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
