@@ -726,7 +726,7 @@
             "open_issues": 48,
             "owner": "cambrian-mllm",
             "repo": "cambrian",
-            "stars": 2013,
+            "stars": 2012,
             "topics": [
               "chatbot",
               "clip",
@@ -875,7 +875,7 @@
             "open_issues": 48,
             "owner": "cambrian-mllm",
             "repo": "cambrian",
-            "stars": 2013,
+            "stars": 2012,
             "topics": [
               "chatbot",
               "clip",
@@ -946,10 +946,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-06-24T18:12:11Z",
-            "open_issues": 62,
+            "open_issues": 63,
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3518,
+            "stars": 3522,
             "topics": [
               "demo",
               "eagle",
@@ -1183,7 +1183,7 @@
             "open_issues": 31,
             "owner": "UMass-Embodied-AGI",
             "repo": "3D-LLM",
-            "stars": 1213,
+            "stars": 1214,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1482,7 +1482,7 @@
             "open_issues": 4,
             "owner": "manycore-research",
             "repo": "SpatialLM",
-            "stars": 4728,
+            "stars": 4729,
             "topics": [
               "mllm",
               "point-clouds",
@@ -2133,7 +2133,7 @@
             "open_issues": 13,
             "owner": "SpatialVision",
             "repo": "Orient-Anything",
-            "stars": 406,
+            "stars": 407,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T18:49:05.399Z",
+    "last_updated": "2026-09-04T18:31:27.061Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
