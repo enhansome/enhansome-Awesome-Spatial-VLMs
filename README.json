@@ -540,7 +540,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-05-07T06:28:24Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "zhangquanchen",
             "repo": "3DThinker",
             "stars": 253,
@@ -657,7 +657,7 @@
             "open_issues": 9,
             "owner": "mahtabbigverdi",
             "repo": "Aurora-perception",
-            "stars": 51,
+            "stars": 52,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -907,7 +907,7 @@
             "open_issues": 21,
             "owner": "TRI-ML",
             "repo": "prismatic-vlms",
-            "stars": 1013,
+            "stars": 1014,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -949,7 +949,7 @@
             "open_issues": 63,
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3522,
+            "stars": 3524,
             "topics": [
               "demo",
               "eagle",
@@ -1514,7 +1514,7 @@
             "open_issues": 8,
             "owner": "THU-SI",
             "repo": "Spatial-MLLM",
-            "stars": 485,
+            "stars": 486,
             "topics": [
               "aigc",
               "llm",
@@ -1856,7 +1856,7 @@
             "open_issues": 684,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22203,
+            "stars": 22204,
             "topics": [
               "beit",
               "beit-3",
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T18:31:27.061Z",
+    "last_updated": "2026-09-05T17:26:52.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
