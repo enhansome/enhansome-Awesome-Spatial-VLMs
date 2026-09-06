@@ -124,7 +124,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[arXiv2026] Think3D: Thinking with Space for Spatial Reasoning (*Dalian University of Technology*) [\[paper\]](https://arxiv.org/pdf/2601.13029) [\[code\]](https://github.com/zhangzaibin/spagent) ⭐ 219 | 🐛 46 | 🌐 Python | 📅 2026-09-03 [\[checkpoint\]](https://huggingface.co/jialianjie/SPAgent-4B);
+* \[arXiv2026] Think3D: Thinking with Space for Spatial Reasoning (*Dalian University of Technology*) [\[paper\]](https://arxiv.org/pdf/2601.13029) [\[code\]](https://github.com/zhangzaibin/spagent) ⭐ 219 | 🐛 47 | 🌐 Python | 📅 2026-09-03 [\[checkpoint\]](https://huggingface.co/jialianjie/SPAgent-4B);
 * \[NeurIPS2025] Mindjourney: Test-time scaling with world models for spatial reasoning (*UMass Amherst*) [\[paper\]](https://arxiv.org/pdf/2507.12508) [\[code\]](https://github.com/UMass-Embodied-AGI/MindJourney) ⭐ 152 | 🐛 2 | 🌐 Python | 📅 2025-11-04;
 * \[NeurIPS2025] See\&Trek: Training-Free Spatial Prompting for Multimodal Large Language Model (*HKUST(GZ)*) [\[paper\]](https://arxiv.org/pdf/2509.16087) [\[code\]](https://github.com/Hoantrbl/SeeTrek?tab=readme-ov-file) ⭐ 118 | 🐛 1 | 🌐 Python | 📅 2025-12-22;
 * \[arXiv2025] Abstract 3D Perception for Spatial Intelligence in Vision-Language Models (*Tsinghua University*) [\[paper\]](https://arxiv.org/pdf/2511.10946)
@@ -192,7 +192,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[arXiv2025] Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views (*Tsinghua University*) [\[paper\]](https://arxiv.org/pdf/2510.18632) [\[code\]](https://github.com/zhangquanchen/3DThinker) ⭐ 253 | 🐛 1 | 🌐 Python | 📅 2026-05-07
+* \[arXiv2025] Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views (*Tsinghua University*) [\[paper\]](https://arxiv.org/pdf/2510.18632) [\[code\]](https://github.com/zhangquanchen/3DThinker) ⭐ 253 | 🐛 0 | 🌐 Python | 📅 2026-05-07
   <!-- ![RL-based](https://img.shields.io/badge/RL--based-blue?) -->
 
   <!-- New paper, excluded in survey -->
@@ -238,7 +238,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[arXiv2025] Cambrian-S: Towards Spatial Supersensing in Video (*New York University*) [\[paper\]](https://arxiv.org/pdf/2511.04670) [\[code\]](https://github.com/cambrian-mllm/cambrian-s) ⭐ 568 | 🐛 1 | 🌐 Python | 📅 2026-04-03 [\[checkpoint\]](https://huggingface.co/collections/nyu-visionx/cambrian-s-models);
+* \[arXiv2025] Cambrian-S: Towards Spatial Supersensing in Video (*New York University*) [\[paper\]](https://arxiv.org/pdf/2511.04670) [\[code\]](https://github.com/cambrian-mllm/cambrian-s) ⭐ 567 | 🐛 1 | 🌐 Python | 📅 2026-04-03 [\[checkpoint\]](https://huggingface.co/collections/nyu-visionx/cambrian-s-models);
 
 * \[ICML2025] Why is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas (*City University of Hong Kong*) [\[paper\]](https://arxiv.org/pdf/2503.01773) [\[code\]](https://github.com/shiqichen17/AdaptVis) ⭐ 75 | 🐛 5 | 🌐 Python | 📅 2025-05-02 [\[checkpoint\]](https://github.com/shiqichen17/AdaptVis) ⭐ 75 | 🐛 5 | 🌐 Python | 📅 2025-05-02;
 
@@ -257,7 +257,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[ICLR2025] Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models (*NVIDIA*) [\[paper\]](https://arxiv.org/pdf/2501.14818) [\[code\]](https://github.com/NVlabs/EAGLE?tab=readme-ov-file) ⭐ 3,524 | 🐛 63 | 🌐 Python | 📅 2026-06-24 [\[checkpoint\]](https://huggingface.co/nvidia/Eagle2.5-8B);
+* \[ICLR2025] Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models (*NVIDIA*) [\[paper\]](https://arxiv.org/pdf/2501.14818) [\[code\]](https://github.com/NVlabs/EAGLE?tab=readme-ov-file) ⭐ 3,530 | 🐛 63 | 🌐 Python | 📅 2026-06-24 [\[checkpoint\]](https://huggingface.co/nvidia/Eagle2.5-8B);
 
 * \[arXiv2025] G2VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning (*Shanghai AI Lab*) [\[paper\]](https://arxiv.org/pdf/2511.21688) [\[code\]](https://github.com/InternRobotics/G2VLM) ⭐ 353 | 🐛 11 | 🌐 Python | 📅 2026-04-18 [\[checkpoint\]](https://huggingface.co/InternRobotics/G2VLM-2B-MoT)
 
@@ -371,7 +371,7 @@ This repository uses the framework from our survey paper to systematically organ
 
 * \[arXiv2025] Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence (*Tsinghua University*) [\[paper\]](https://arxiv.org/pdf/2505.23747) [\[code\]](https://github.com/diankun-wu/Spatial-MLLM) ⭐ 486 | 🐛 8 | 🌐 Python | 📅 2026-02-05;
 
-* \[arXiv2025] VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction (*UT Austin*) [\[paper\]](https://arxiv.org/pdf/2505.20279) [\[code\]](https://github.com/VITA-Group/VLM-3R) ⭐ 443 | 🐛 10 | 🌐 Python | 📅 2026-07-15;
+* \[arXiv2025] VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction (*UT Austin*) [\[paper\]](https://arxiv.org/pdf/2505.20279) [\[code\]](https://github.com/VITA-Group/VLM-3R) ⭐ 444 | 🐛 10 | 🌐 Python | 📅 2026-07-15;
 
   <!-- New paper, excluded in survey -->
 
@@ -418,7 +418,7 @@ This repository uses the framework from our survey paper to systematically organ
 
 * \[ICCV2025] Robin3D: Improving 3D Large Language Model via Robust Instruction Tuning (*University of Illinois Chicago*) [\[paper\]](https://arxiv.org/pdf/2410.00255) [\[code\]](https://github.com/WeitaiKang/Robin3D?tab=readme-ov-file) ⭐ 71 | 🐛 4 | 🌐 Python | 📅 2025-10-19 [\[checkpoint\]](https://drive.google.com/drive/folders/14Si8bdWI3N5NEeVDLhmAlxilWPl0f_Wp?usp=sharing);
 
-* \[CVPR2025] DSPNet: Dual-vision Scene Perception for Robust 3D Question Answering (*Sun Yat-sen University*) [\[paper\]](https://arxiv.org/pdf/2503.03190) [\[code\]](https://github.com/LZ-CH/DSPNet) ⭐ 29 | 🐛 4 | 🌐 Python | 📅 2025-04-18 [\[checkpoint\]](https://github.com/LZ-CH/DSPNet) ⭐ 29 | 🐛 4 | 🌐 Python | 📅 2025-04-18;
+* \[CVPR2025] DSPNet: Dual-vision Scene Perception for Robust 3D Question Answering (*Sun Yat-sen University*) [\[paper\]](https://arxiv.org/pdf/2503.03190) [\[code\]](https://github.com/LZ-CH/DSPNet) ⭐ 30 | 🐛 4 | 🌐 Python | 📅 2025-04-18 [\[checkpoint\]](https://github.com/LZ-CH/DSPNet) ⭐ 30 | 🐛 4 | 🌐 Python | 📅 2025-04-18;
 
 * \[arXiv2025] Beyond Flatlands: Unlocking Spatial Intelligence by Decoupling 3D Reasoning from Numerical Regression (*Beijing Institute of Technology*) [\[paper\]](https://arxiv.org/pdf/2511.11239)
 
@@ -584,4 +584,4 @@ If you find this survey or repository useful for your research, please cite our 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

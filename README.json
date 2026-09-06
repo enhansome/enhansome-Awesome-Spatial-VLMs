@@ -157,7 +157,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-09-03T09:11:05Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "zhangzaibin",
             "repo": "spagent",
             "stars": 219,
@@ -540,7 +540,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-05-07T06:28:24Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "zhangquanchen",
             "repo": "3DThinker",
             "stars": 253,
@@ -821,7 +821,7 @@
             "open_issues": 1,
             "owner": "cambrian-mllm",
             "repo": "cambrian-s",
-            "stars": 568,
+            "stars": 567,
             "topics": [
               "computer-vision",
               "llm",
@@ -949,7 +949,7 @@
             "open_issues": 63,
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3524,
+            "stars": 3530,
             "topics": [
               "demo",
               "eagle",
@@ -1541,7 +1541,7 @@
             "open_issues": 10,
             "owner": "VITA-Group",
             "repo": "VLM-3R",
-            "stars": 443,
+            "stars": 444,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1829,7 +1829,7 @@
             "open_issues": 4,
             "owner": "LZ-CH",
             "repo": "DSPNet",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T17:26:52.334Z",
+    "last_updated": "2026-09-06T17:38:22.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
