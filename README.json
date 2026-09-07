@@ -543,7 +543,7 @@
             "open_issues": 0,
             "owner": "zhangquanchen",
             "repo": "3DThinker",
-            "stars": 253,
+            "stars": 254,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -758,7 +758,7 @@
             "open_issues": 1,
             "owner": "khanrc",
             "repo": "honeybee",
-            "stars": 472,
+            "stars": 473,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -928,7 +928,7 @@
             "open_issues": 13,
             "owner": "yu-rp",
             "repo": "VisualPerceptionToken",
-            "stars": 136,
+            "stars": 137,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -949,7 +949,7 @@
             "open_issues": 63,
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3530,
+            "stars": 3532,
             "topics": [
               "demo",
               "eagle",
@@ -1482,7 +1482,7 @@
             "open_issues": 4,
             "owner": "manycore-research",
             "repo": "SpatialLM",
-            "stars": 4729,
+            "stars": 4730,
             "topics": [
               "mllm",
               "point-clouds",
@@ -1541,7 +1541,7 @@
             "open_issues": 10,
             "owner": "VITA-Group",
             "repo": "VLM-3R",
-            "stars": 444,
+            "stars": 445,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1562,7 +1562,7 @@
             "open_issues": 18,
             "owner": "LaVi-Lab",
             "repo": "VG-LLM",
-            "stars": 257,
+            "stars": 258,
             "topics": [
               "3d-scene-understanding",
               "mllm",
@@ -1608,7 +1608,7 @@
             "open_issues": 0,
             "owner": "hustvl",
             "repo": "Spa3R",
-            "stars": 52,
+            "stars": 53,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1635,7 +1635,7 @@
             "open_issues": 19,
             "owner": "Qi-Zhangyang",
             "repo": "GPT4Scene-and-VLN-R1",
-            "stars": 537,
+            "stars": 538,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1856,7 +1856,7 @@
             "open_issues": 684,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22204,
+            "stars": 22205,
             "topics": [
               "beit",
               "beit-3",
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:38:22.000Z",
+    "last_updated": "2026-09-07T19:19:44.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
