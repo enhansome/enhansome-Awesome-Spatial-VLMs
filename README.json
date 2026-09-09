@@ -160,7 +160,7 @@
             "open_issues": 47,
             "owner": "zhangzaibin",
             "repo": "spagent",
-            "stars": 220,
+            "stars": 221,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -208,7 +208,7 @@
             "open_issues": 1,
             "owner": "Hoantrbl",
             "repo": "SeeTrek",
-            "stars": 118,
+            "stars": 119,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -726,7 +726,7 @@
             "open_issues": 48,
             "owner": "cambrian-mllm",
             "repo": "cambrian",
-            "stars": 2012,
+            "stars": 2011,
             "topics": [
               "chatbot",
               "clip",
@@ -875,7 +875,7 @@
             "open_issues": 48,
             "owner": "cambrian-mllm",
             "repo": "cambrian",
-            "stars": 2012,
+            "stars": 2011,
             "topics": [
               "chatbot",
               "clip",
@@ -907,7 +907,7 @@
             "open_issues": 21,
             "owner": "TRI-ML",
             "repo": "prismatic-vlms",
-            "stars": 1014,
+            "stars": 1016,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -949,7 +949,7 @@
             "open_issues": 64,
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3535,
+            "stars": 3540,
             "topics": [
               "demo",
               "eagle",
@@ -1039,7 +1039,7 @@
             "open_issues": 30,
             "owner": "jshilong",
             "repo": "GPT4RoI",
-            "stars": 556,
+            "stars": 555,
             "topics": [
               "computer-vision",
               "gpt",
@@ -1129,7 +1129,7 @@
             "open_issues": 2,
             "owner": "PVIT-official",
             "repo": "PVIT",
-            "stars": 37,
+            "stars": 36,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1225,7 +1225,7 @@
             "open_issues": 5,
             "owner": "BAAI-DCAI",
             "repo": "SpatialBot",
-            "stars": 353,
+            "stars": 354,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1482,7 +1482,7 @@
             "open_issues": 4,
             "owner": "manycore-research",
             "repo": "SpatialLM",
-            "stars": 4731,
+            "stars": 4733,
             "topics": [
               "mllm",
               "point-clouds",
@@ -1761,7 +1761,7 @@
             "open_issues": 26,
             "owner": "ZCMax",
             "repo": "LLaVA-3D",
-            "stars": 388,
+            "stars": 387,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1782,7 +1782,7 @@
             "open_issues": 4,
             "owner": "hanxunyu",
             "repo": "Inst3D-LMM",
-            "stars": 135,
+            "stars": 134,
             "topics": [
               "3d-llms",
               "embodied-agent",
@@ -1952,7 +1952,7 @@
             "open_issues": 2,
             "owner": "PVIT-official",
             "repo": "PVIT",
-            "stars": 37,
+            "stars": 36,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -2107,7 +2107,7 @@
             "open_issues": 1,
             "owner": "Yangr116",
             "repo": "VST",
-            "stars": 206,
+            "stars": 207,
             "topics": [
               "spatial-intelligence",
               "spatial-reasoning",
@@ -2133,7 +2133,7 @@
             "open_issues": 13,
             "owner": "SpatialVision",
             "repo": "Orient-Anything",
-            "stars": 407,
+            "stars": 408,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T18:51:41.204Z",
+    "last_updated": "2026-09-09T18:45:38.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
@@ -2218,7 +2218,7 @@
       "open_issues": 3,
       "owner": "vulab-AI",
       "repo": "Awesome-Spatial-VLMs",
-      "stars": 471,
+      "stars": 472,
       "topics": [
         "awesome-list",
         "awesome-spatial-vlms",
