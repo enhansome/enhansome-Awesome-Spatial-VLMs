@@ -160,7 +160,7 @@
             "open_issues": 47,
             "owner": "zhangzaibin",
             "repo": "spagent",
-            "stars": 221,
+            "stars": 222,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -946,10 +946,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-06-24T18:12:11Z",
-            "open_issues": 64,
+            "open_issues": 65,
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3540,
+            "stars": 3541,
             "topics": [
               "demo",
               "eagle",
@@ -1183,7 +1183,7 @@
             "open_issues": 31,
             "owner": "UMass-Embodied-AGI",
             "repo": "3D-LLM",
-            "stars": 1214,
+            "stars": 1215,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1482,7 +1482,7 @@
             "open_issues": 4,
             "owner": "manycore-research",
             "repo": "SpatialLM",
-            "stars": 4733,
+            "stars": 4732,
             "topics": [
               "mllm",
               "point-clouds",
@@ -1856,7 +1856,7 @@
             "open_issues": 685,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22205,
+            "stars": 22208,
             "topics": [
               "beit",
               "beit-3",
@@ -1973,7 +1973,7 @@
             "open_issues": 0,
             "owner": "OpenSenseNova",
             "repo": "SenseNova-SI",
-            "stars": 299,
+            "stars": 300,
             "topics": [
               "mllm",
               "mllm-for-3d",
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T18:45:38.707Z",
+    "last_updated": "2026-09-10T18:36:19.672Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",

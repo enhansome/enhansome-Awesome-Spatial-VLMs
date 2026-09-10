@@ -124,7 +124,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[arXiv2026] Think3D: Thinking with Space for Spatial Reasoning (*Dalian University of Technology*) [\[paper\]](https://arxiv.org/pdf/2601.13029) [\[code\]](https://github.com/zhangzaibin/spagent) ⭐ 221 | 🐛 47 | 🌐 Python | 📅 2026-09-03 [\[checkpoint\]](https://huggingface.co/jialianjie/SPAgent-4B);
+* \[arXiv2026] Think3D: Thinking with Space for Spatial Reasoning (*Dalian University of Technology*) [\[paper\]](https://arxiv.org/pdf/2601.13029) [\[code\]](https://github.com/zhangzaibin/spagent) ⭐ 222 | 🐛 47 | 🌐 Python | 📅 2026-09-03 [\[checkpoint\]](https://huggingface.co/jialianjie/SPAgent-4B);
 * \[NeurIPS2025] Mindjourney: Test-time scaling with world models for spatial reasoning (*UMass Amherst*) [\[paper\]](https://arxiv.org/pdf/2507.12508) [\[code\]](https://github.com/UMass-Embodied-AGI/MindJourney) ⭐ 152 | 🐛 2 | 🌐 Python | 📅 2025-11-04;
 * \[NeurIPS2025] See\&Trek: Training-Free Spatial Prompting for Multimodal Large Language Model (*HKUST(GZ)*) [\[paper\]](https://arxiv.org/pdf/2509.16087) [\[code\]](https://github.com/Hoantrbl/SeeTrek?tab=readme-ov-file) ⭐ 119 | 🐛 1 | 🌐 Python | 📅 2025-12-22;
 * \[arXiv2025] Abstract 3D Perception for Spatial Intelligence in Vision-Language Models (*Tsinghua University*) [\[paper\]](https://arxiv.org/pdf/2511.10946)
@@ -257,7 +257,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[ICLR2025] Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models (*NVIDIA*) [\[paper\]](https://arxiv.org/pdf/2501.14818) [\[code\]](https://github.com/NVlabs/EAGLE?tab=readme-ov-file) ⭐ 3,540 | 🐛 64 | 🌐 Python | 📅 2026-06-24 [\[checkpoint\]](https://huggingface.co/nvidia/Eagle2.5-8B);
+* \[ICLR2025] Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models (*NVIDIA*) [\[paper\]](https://arxiv.org/pdf/2501.14818) [\[code\]](https://github.com/NVlabs/EAGLE?tab=readme-ov-file) ⭐ 3,541 | 🐛 65 | 🌐 Python | 📅 2026-06-24 [\[checkpoint\]](https://huggingface.co/nvidia/Eagle2.5-8B);
 
 * \[arXiv2025] G2VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning (*Shanghai AI Lab*) [\[paper\]](https://arxiv.org/pdf/2511.21688) [\[code\]](https://github.com/InternRobotics/G2VLM) ⭐ 354 | 🐛 11 | 🌐 Python | 📅 2026-04-18 [\[checkpoint\]](https://huggingface.co/InternRobotics/G2VLM-2B-MoT)
 
@@ -324,7 +324,7 @@ This repository uses the framework from our survey paper to systematically organ
 <details>
   <summary><b>Explicit 3D Geometric Representations</b></summary>
 
-* \[NeurIPS2023] 3D-LLM: Injecting the 3D World into Large Language Models (*UCLA*) [\[paper\]](https://arxiv.org/pdf/2307.12981) [\[code\]](https://github.com/UMass-Embodied-AGI/3D-LLM) ⭐ 1,214 | 🐛 31 | 🌐 Python | 📅 2024-06-06;
+* \[NeurIPS2023] 3D-LLM: Injecting the 3D World into Large Language Models (*UCLA*) [\[paper\]](https://arxiv.org/pdf/2307.12981) [\[code\]](https://github.com/UMass-Embodied-AGI/3D-LLM) ⭐ 1,215 | 🐛 31 | 🌐 Python | 📅 2024-06-06;
 
 * \[NeurIPS2025] SD-VLM: Spatial Measuring and Understanding with Depth-Encoded Vision-Language Models (*Zhejiang University*) [\[paper\]](https://arxiv.org/pdf/2509.17664) [\[code\]](https://github.com/cpystan/SD-VLM) ⭐ 408 | 🐛 6 | 🌐 Python | 📅 2026-06-05 [\[checkpoint\]](https://huggingface.co/cpystan/SD-VLM-7B);
 
@@ -356,7 +356,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[NeurIPS2025] SPATIALLM: Training Large Language Models for Structured Indoor Modeling (*Manycore Tech Inc.*) [\[paper\]](https://arxiv.org/pdf/2506.07491) [\[code\]](https://github.com/manycore-research/SpatialLM) ⭐ 4,733 | 🐛 4 | 🌐 Python | 📅 2026-06-26 [\[checkpoint\]](https://huggingface.co/manycore-research/SpatialLM1.1-Qwen-0.5B)
+* \[NeurIPS2025] SPATIALLM: Training Large Language Models for Structured Indoor Modeling (*Manycore Tech Inc.*) [\[paper\]](https://arxiv.org/pdf/2506.07491) [\[code\]](https://github.com/manycore-research/SpatialLM) ⭐ 4,732 | 🐛 4 | 🌐 Python | 📅 2026-06-26 [\[checkpoint\]](https://huggingface.co/manycore-research/SpatialLM1.1-Qwen-0.5B)
 
   <!-- New paper, excluded in survey -->
 
@@ -435,7 +435,7 @@ This repository uses the framework from our survey paper to systematically organ
 <details>
   <summary><b>Manifesting Spatial Relations in 2D Images</b></summary>
 
-* \[ICLR2024] KOSMOS-2: Grounding Multimodal Large Language Models to the World (*Microsoft Research*) [\[paper\]](https://arxiv.org/pdf/2306.14824) [\[code\]](https://github.com/microsoft/unilm/tree/master/kosmos-2) ⭐ 22,205 | 🐛 685 | 🌐 Python | 📅 2026-08-26 [\[checkpoint\]](https://huggingface.co/microsoft/kosmos-2-patch14-224);
+* \[ICLR2024] KOSMOS-2: Grounding Multimodal Large Language Models to the World (*Microsoft Research*) [\[paper\]](https://arxiv.org/pdf/2306.14824) [\[code\]](https://github.com/microsoft/unilm/tree/master/kosmos-2) ⭐ 22,208 | 🐛 685 | 🌐 Python | 📅 2026-08-26 [\[checkpoint\]](https://huggingface.co/microsoft/kosmos-2-patch14-224);
 
 * \[ECCV2024] The All-Seeing Project V2: Towards General Relation Comprehension of the Open World (*Shanghai AI Laboratory*) [\[paper\]](https://arxiv.org/pdf/2402.19474) [\[code\]](https://github.com/OpenGVLab/all-seeing?tab=readme-ov-file) ⭐ 506 | 🐛 15 | 🌐 Python | 📅 2024-08-09 [\[checkpoint\]](https://huggingface.co/OpenGVLab/ASMv2);
 
@@ -447,7 +447,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[arXiv2025] Scaling Spatial Intelligence with Multimodal Foundation  (*SenseTime Research*) [\[paper\]](https://arxiv.org/pdf/2511.13719) [\[code\]](https://github.com/OpenSenseNova/SenseNova-SI) ⭐ 299 | 🐛 0 | 🌐 Python | 📅 2026-05-14 [\[checkpoint\]](https://huggingface.co/collections/sensenova/sensenova-si);
+* \[arXiv2025] Scaling Spatial Intelligence with Multimodal Foundation  (*SenseTime Research*) [\[paper\]](https://arxiv.org/pdf/2511.13719) [\[code\]](https://github.com/OpenSenseNova/SenseNova-SI) ⭐ 300 | 🐛 0 | 🌐 Python | 📅 2026-05-14 [\[checkpoint\]](https://huggingface.co/collections/sensenova/sensenova-si);
 
 * \[NeurIPS2025] Stitch and Tell: A Structured Multimodal Data Augmentation Method for Spatial Understanding (*Beijing Institute of Technology*) [\[paper\]](https://www.arxiv.org/pdf/2512.06769);
 
@@ -584,4 +584,4 @@ If you find this survey or repository useful for your research, please cite our 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
