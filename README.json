@@ -46,7 +46,7 @@
             "open_issues": 0,
             "owner": "chancharikmitra",
             "repo": "CCoT",
-            "stars": 142,
+            "stars": 143,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -256,7 +256,7 @@
             "open_issues": 1,
             "owner": "iris0329",
             "repo": "SeeGround",
-            "stars": 225,
+            "stars": 224,
             "topics": [
               "3d-scene-understanding",
               "3d-visual-grounding",
@@ -949,7 +949,7 @@
             "open_issues": 65,
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3545,
+            "stars": 3551,
             "topics": [
               "demo",
               "eagle",
@@ -1856,7 +1856,7 @@
             "open_issues": 685,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22212,
+            "stars": 22213,
             "topics": [
               "beit",
               "beit-3",
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T18:41:28.002Z",
+    "last_updated": "2026-09-12T17:46:46.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
