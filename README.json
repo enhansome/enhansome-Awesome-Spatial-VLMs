@@ -46,7 +46,7 @@
             "open_issues": 0,
             "owner": "chancharikmitra",
             "repo": "CCoT",
-            "stars": 143,
+            "stars": 144,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -949,7 +949,7 @@
             "open_issues": 65,
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3551,
+            "stars": 3553,
             "topics": [
               "demo",
               "eagle",
@@ -1482,7 +1482,7 @@
             "open_issues": 4,
             "owner": "manycore-research",
             "repo": "SpatialLM",
-            "stars": 4733,
+            "stars": 4734,
             "topics": [
               "mllm",
               "point-clouds",
@@ -1853,10 +1853,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-26T08:16:01Z",
-            "open_issues": 685,
+            "open_issues": 686,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22213,
+            "stars": 22214,
             "topics": [
               "beit",
               "beit-3",
@@ -2154,7 +2154,7 @@
             "open_issues": 0,
             "owner": "NVlabs",
             "repo": "RoboSpatial",
-            "stars": 150,
+            "stars": 151,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:46:46.410Z",
+    "last_updated": "2026-09-13T18:17:14.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
