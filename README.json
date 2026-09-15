@@ -564,7 +564,7 @@
             "open_issues": 1,
             "owner": "facebookresearch",
             "repo": "DepthLM_Official",
-            "stars": 367,
+            "stars": 368,
             "topics": [
               "3d",
               "depth-estimation",
@@ -589,7 +589,7 @@
             "open_issues": 3,
             "owner": "Haochen-Wang409",
             "repo": "ross",
-            "stars": 135,
+            "stars": 136,
             "topics": [
               "diffusion",
               "iclr",
@@ -612,7 +612,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2025-04-12T14:41:12Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "chengzu-li",
             "repo": "MVoT",
             "stars": 78,
@@ -821,7 +821,7 @@
             "open_issues": 1,
             "owner": "cambrian-mllm",
             "repo": "cambrian-s",
-            "stars": 567,
+            "stars": 568,
             "topics": [
               "computer-vision",
               "llm",
@@ -949,7 +949,7 @@
             "open_issues": 65,
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3563,
+            "stars": 3569,
             "topics": [
               "demo",
               "eagle",
@@ -1246,7 +1246,7 @@
             "open_issues": 26,
             "owner": "AnjieCheng",
             "repo": "SpatialRGPT",
-            "stars": 337,
+            "stars": 338,
             "topics": [
               "spatial-reasoning",
               "vision-language-model"
@@ -1482,7 +1482,7 @@
             "open_issues": 5,
             "owner": "manycore-research",
             "repo": "SpatialLM",
-            "stars": 4736,
+            "stars": 4739,
             "topics": [
               "mllm",
               "point-clouds",
@@ -1514,7 +1514,7 @@
             "open_issues": 8,
             "owner": "THU-SI",
             "repo": "Spatial-MLLM",
-            "stars": 486,
+            "stars": 487,
             "topics": [
               "aigc",
               "llm",
@@ -1541,7 +1541,7 @@
             "open_issues": 10,
             "owner": "VITA-Group",
             "repo": "VLM-3R",
-            "stars": 445,
+            "stars": 446,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1852,11 +1852,11 @@
             "id": 198350484,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-26T08:16:01Z",
+            "last_commit": "2026-09-15T10:47:48Z",
             "open_issues": 686,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22215,
+            "stars": 22218,
             "topics": [
               "beit",
               "beit-3",
@@ -2107,7 +2107,7 @@
             "open_issues": 1,
             "owner": "Yangr116",
             "repo": "VST",
-            "stars": 207,
+            "stars": 208,
             "topics": [
               "spatial-intelligence",
               "spatial-reasoning",
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:54:08.944Z",
+    "last_updated": "2026-09-15T19:08:19.880Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
