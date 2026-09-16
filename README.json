@@ -118,7 +118,7 @@
             "open_issues": 22,
             "owner": "microsoft",
             "repo": "SoM",
-            "stars": 1563,
+            "stars": 1564,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -160,7 +160,7 @@
             "open_issues": 47,
             "owner": "zhangzaibin",
             "repo": "spagent",
-            "stars": 222,
+            "stars": 223,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -403,27 +403,6 @@
         },
         {
           "node_type": "item",
-          "title": "[arXiv2025] ViLaSR: Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing (Institute of Automation, Chinese Academy of Sciences) [paper]",
-          "description": "[code] [checkpoint];",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[NeurIPS 2025] Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing",
-            "homepage": null,
-            "id": 994255937,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2025-07-27T03:38:38Z",
-            "open_issues": 4,
-            "owner": "AntResearchNLP",
-            "repo": "ViLaSR",
-            "stars": 99,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:03:16.525Z"
-        },
-        {
-          "node_type": "item",
           "title": "[arXiv2025] SpatialLadder: Progressive Training for Spatial Reasoning in Vision-Language Models (Zhejiang University) [paper]",
           "description": "[code] [checkpoint];",
           "children": [],
@@ -438,6 +417,27 @@
             "open_issues": 0,
             "owner": "ZJU-REAL",
             "repo": "SpatialLadder",
+            "stars": 100,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:03:16.525Z"
+        },
+        {
+          "node_type": "item",
+          "title": "[arXiv2025] ViLaSR: Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing (Institute of Automation, Chinese Academy of Sciences) [paper]",
+          "description": "[code] [checkpoint];",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[NeurIPS 2025] Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing",
+            "homepage": null,
+            "id": 994255937,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2025-07-27T03:38:38Z",
+            "open_issues": 4,
+            "owner": "AntResearchNLP",
+            "repo": "ViLaSR",
             "stars": 99,
             "topics": []
           },
@@ -480,7 +480,7 @@
             "open_issues": 5,
             "owner": "inclusionAI",
             "repo": "M2-Reasoning",
-            "stars": 47,
+            "stars": 46,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -821,7 +821,7 @@
             "open_issues": 1,
             "owner": "cambrian-mllm",
             "repo": "cambrian-s",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "computer-vision",
               "llm",
@@ -907,7 +907,7 @@
             "open_issues": 21,
             "owner": "TRI-ML",
             "repo": "prismatic-vlms",
-            "stars": 1016,
+            "stars": 1017,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -949,7 +949,7 @@
             "open_issues": 65,
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3569,
+            "stars": 3575,
             "topics": [
               "demo",
               "eagle",
@@ -1856,7 +1856,7 @@
             "open_issues": 686,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22218,
+            "stars": 22219,
             "topics": [
               "beit",
               "beit-3",
@@ -1973,7 +1973,7 @@
             "open_issues": 0,
             "owner": "OpenSenseNova",
             "repo": "SenseNova-SI",
-            "stars": 300,
+            "stars": 302,
             "topics": [
               "mllm",
               "mllm-for-3d",
@@ -2107,7 +2107,7 @@
             "open_issues": 1,
             "owner": "Yangr116",
             "repo": "VST",
-            "stars": 208,
+            "stars": 209,
             "topics": [
               "spatial-intelligence",
               "spatial-reasoning",
@@ -2154,7 +2154,7 @@
             "open_issues": 0,
             "owner": "NVlabs",
             "repo": "RoboSpatial",
-            "stars": 151,
+            "stars": 152,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T19:08:19.880Z",
+    "last_updated": "2026-09-16T18:59:56.129Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
