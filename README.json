@@ -285,7 +285,7 @@
             "open_issues": 1,
             "owner": "ziplab",
             "repo": "CoV",
-            "stars": 63,
+            "stars": 64,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -949,7 +949,7 @@
             "open_issues": 65,
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3575,
+            "stars": 3579,
             "topics": [
               "demo",
               "eagle",
@@ -1482,7 +1482,7 @@
             "open_issues": 5,
             "owner": "manycore-research",
             "repo": "SpatialLM",
-            "stars": 4739,
+            "stars": 4742,
             "topics": [
               "mllm",
               "point-clouds",
@@ -1514,7 +1514,7 @@
             "open_issues": 8,
             "owner": "THU-SI",
             "repo": "Spatial-MLLM",
-            "stars": 487,
+            "stars": 489,
             "topics": [
               "aigc",
               "llm",
@@ -1541,7 +1541,7 @@
             "open_issues": 10,
             "owner": "VITA-Group",
             "repo": "VLM-3R",
-            "stars": 446,
+            "stars": 447,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1635,7 +1635,7 @@
             "open_issues": 20,
             "owner": "Qi-Zhangyang",
             "repo": "GPT4Scene-and-VLN-R1",
-            "stars": 538,
+            "stars": 539,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1740,7 +1740,7 @@
             "open_issues": 23,
             "owner": "apple-aiml-research",
             "repo": "ml-cubifyanything",
-            "stars": 443,
+            "stars": 444,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T18:59:56.129Z",
+    "last_updated": "2026-09-17T19:09:19.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
