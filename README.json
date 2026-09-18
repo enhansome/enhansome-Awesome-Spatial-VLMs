@@ -118,7 +118,7 @@
             "open_issues": 22,
             "owner": "microsoft",
             "repo": "SoM",
-            "stars": 1564,
+            "stars": 1563,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -160,7 +160,7 @@
             "open_issues": 47,
             "owner": "zhangzaibin",
             "repo": "spagent",
-            "stars": 223,
+            "stars": 224,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -181,7 +181,7 @@
             "open_issues": 2,
             "owner": "UMass-Embodied-AGI",
             "repo": "MindJourney",
-            "stars": 152,
+            "stars": 153,
             "topics": [
               "3d",
               "embodied-ai",
@@ -375,7 +375,7 @@
             "open_issues": 1,
             "owner": "PzySeere",
             "repo": "MetaSpatial",
-            "stars": 322,
+            "stars": 321,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -417,7 +417,7 @@
             "open_issues": 0,
             "owner": "ZJU-REAL",
             "repo": "SpatialLadder",
-            "stars": 100,
+            "stars": 101,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -949,7 +949,7 @@
             "open_issues": 65,
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3579,
+            "stars": 3587,
             "topics": [
               "demo",
               "eagle",
@@ -1012,7 +1012,7 @@
             "open_issues": 1,
             "owner": "SpatialVision",
             "repo": "Spatial-CLIP",
-            "stars": 56,
+            "stars": 57,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1440,7 +1440,7 @@
             "open_issues": 1,
             "owner": "yliu-cs",
             "repo": "SSR",
-            "stars": 41,
+            "stars": 42,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1482,7 +1482,7 @@
             "open_issues": 5,
             "owner": "manycore-research",
             "repo": "SpatialLM",
-            "stars": 4742,
+            "stars": 4743,
             "topics": [
               "mllm",
               "point-clouds",
@@ -1761,7 +1761,7 @@
             "open_issues": 26,
             "owner": "ZCMax",
             "repo": "LLaVA-3D",
-            "stars": 387,
+            "stars": 390,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1856,7 +1856,7 @@
             "open_issues": 686,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22219,
+            "stars": 22220,
             "topics": [
               "beit",
               "beit-3",
@@ -1923,7 +1923,7 @@
             "open_issues": 0,
             "owner": "LeapLabTHU",
             "repo": "Pseudo-Q",
-            "stars": 153,
+            "stars": 154,
             "topics": [
               "computer-vision",
               "cvpr2022",
@@ -1973,7 +1973,7 @@
             "open_issues": 0,
             "owner": "OpenSenseNova",
             "repo": "SenseNova-SI",
-            "stars": 302,
+            "stars": 303,
             "topics": [
               "mllm",
               "mllm-for-3d",
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T19:09:19.401Z",
+    "last_updated": "2026-09-18T18:35:57.266Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
