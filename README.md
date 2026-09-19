@@ -209,7 +209,7 @@ This repository uses the framework from our survey paper to systematically organ
 
 * \[ICLR2025] Locality Alignment Improves Vision-Language Models (*Stanford University*) [\[paper\]](https://arxiv.org/pdf/2410.11087) [\[code\]](https://github.com/iancovert/locality-alignment/?tab=readme-ov-file) ⭐ 55 | 🐛 3 | 🌐 Python | 📅 2025-01-17;
 
-* \[CVPR2025] Perception Tokens Enhance Visual Reasoning in Multimodal Language Models (*University of Washington*) [\[paper\]](https://arxiv.org/pdf/2412.03548v1) [\[code\]](https://github.com/mahtabbigverdi/Aurora-perception) ⭐ 52 | 🐛 9 | 🌐 Python | 📅 2026-02-18 [\[checkpoint\]](https://drive.google.com/file/d/1r7WYQWYA6VDpzfxPIHP1zEUgBYQmwNIj/view);
+* \[CVPR2025] Perception Tokens Enhance Visual Reasoning in Multimodal Language Models (*University of Washington*) [\[paper\]](https://arxiv.org/pdf/2412.03548v1) [\[code\]](https://github.com/mahtabbigverdi/Aurora-perception) ⭐ 51 | 🐛 9 | 🌐 Python | 📅 2026-02-18 [\[checkpoint\]](https://drive.google.com/file/d/1r7WYQWYA6VDpzfxPIHP1zEUgBYQmwNIj/view);
 
 * \[NeurIPS2025] SpatialReasoner: Towards Explicit and Generalizable 3D Spatial Reasoning, (*Johns Hopkins University*) [\[paper\]](https://arxiv.org/pdf/2504.20024) [\[code\]](https://github.com/johnson111788/SpatialReasoner) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2026-04-05 [\[checkpoint\]](https://huggingface.co/collections/ccvl/spatialreasoner-68114caec81774edbf1781d3);
 
@@ -257,7 +257,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[ICLR2025] Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models (*NVIDIA*) [\[paper\]](https://arxiv.org/pdf/2501.14818) [\[code\]](https://github.com/NVlabs/EAGLE?tab=readme-ov-file) ⭐ 3,587 | 🐛 65 | 🌐 Python | 📅 2026-06-24 [\[checkpoint\]](https://huggingface.co/nvidia/Eagle2.5-8B);
+* \[ICLR2025] Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models (*NVIDIA*) [\[paper\]](https://arxiv.org/pdf/2501.14818) [\[code\]](https://github.com/NVlabs/EAGLE?tab=readme-ov-file) ⭐ 3,588 | 🐛 65 | 🌐 Python | 📅 2026-06-24 [\[checkpoint\]](https://huggingface.co/nvidia/Eagle2.5-8B);
 
 * \[arXiv2025] G2VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning (*Shanghai AI Lab*) [\[paper\]](https://arxiv.org/pdf/2511.21688) [\[code\]](https://github.com/InternRobotics/G2VLM) ⭐ 354 | 🐛 11 | 🌐 Python | 📅 2026-04-18 [\[checkpoint\]](https://huggingface.co/InternRobotics/G2VLM-2B-MoT)
 
@@ -371,7 +371,7 @@ This repository uses the framework from our survey paper to systematically organ
 
 * \[arXiv2025] Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence (*Tsinghua University*) [\[paper\]](https://arxiv.org/pdf/2505.23747) [\[code\]](https://github.com/diankun-wu/Spatial-MLLM) ⭐ 489 | 🐛 8 | 🌐 Python | 📅 2026-02-05;
 
-* \[arXiv2025] VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction (*UT Austin*) [\[paper\]](https://arxiv.org/pdf/2505.20279) [\[code\]](https://github.com/VITA-Group/VLM-3R) ⭐ 447 | 🐛 10 | 🌐 Python | 📅 2026-07-15;
+* \[arXiv2025] VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction (*UT Austin*) [\[paper\]](https://arxiv.org/pdf/2505.20279) [\[code\]](https://github.com/VITA-Group/VLM-3R) ⭐ 448 | 🐛 10 | 🌐 Python | 📅 2026-07-15;
 
   <!-- New paper, excluded in survey -->
 
@@ -584,4 +584,4 @@ If you find this survey or repository useful for your research, please cite our 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._

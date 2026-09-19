@@ -657,7 +657,7 @@
             "open_issues": 9,
             "owner": "mahtabbigverdi",
             "repo": "Aurora-perception",
-            "stars": 52,
+            "stars": 51,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -949,7 +949,7 @@
             "open_issues": 65,
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3587,
+            "stars": 3588,
             "topics": [
               "demo",
               "eagle",
@@ -1541,7 +1541,7 @@
             "open_issues": 10,
             "owner": "VITA-Group",
             "repo": "VLM-3R",
-            "stars": 447,
+            "stars": 448,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T18:35:57.266Z",
+    "last_updated": "2026-09-19T18:08:50.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
