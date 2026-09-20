@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "qizekun",
             "repo": "SoFar",
-            "stars": 253,
+            "stars": 254,
             "topics": [
               "3d-point-clouds",
               "navigation",
@@ -235,7 +235,7 @@
             "open_issues": 10,
             "owner": "Yushi-Hu",
             "repo": "VisualSketchpad",
-            "stars": 292,
+            "stars": 293,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -949,7 +949,7 @@
             "open_issues": 65,
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3588,
+            "stars": 3590,
             "topics": [
               "demo",
               "eagle",
@@ -1225,7 +1225,7 @@
             "open_issues": 5,
             "owner": "BAAI-DCAI",
             "repo": "SpatialBot",
-            "stars": 354,
+            "stars": 355,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1270,7 +1270,7 @@
             "open_issues": 19,
             "owner": "Open3DA",
             "repo": "LL3DA",
-            "stars": 319,
+            "stars": 320,
             "topics": [
               "3d",
               "3d-models",
@@ -1514,7 +1514,7 @@
             "open_issues": 8,
             "owner": "THU-SI",
             "repo": "Spatial-MLLM",
-            "stars": 489,
+            "stars": 490,
             "topics": [
               "aigc",
               "llm",
@@ -1541,7 +1541,7 @@
             "open_issues": 10,
             "owner": "VITA-Group",
             "repo": "VLM-3R",
-            "stars": 448,
+            "stars": 449,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1973,7 +1973,7 @@
             "open_issues": 0,
             "owner": "OpenSenseNova",
             "repo": "SenseNova-SI",
-            "stars": 303,
+            "stars": 304,
             "topics": [
               "mllm",
               "mllm-for-3d",
@@ -2107,7 +2107,7 @@
             "open_issues": 1,
             "owner": "Yangr116",
             "repo": "VST",
-            "stars": 209,
+            "stars": 210,
             "topics": [
               "spatial-intelligence",
               "spatial-reasoning",
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T18:08:50.568Z",
+    "last_updated": "2026-09-20T18:14:45.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
