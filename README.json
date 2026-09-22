@@ -949,7 +949,7 @@
             "open_issues": 65,
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3595,
+            "stars": 3599,
             "topics": [
               "demo",
               "eagle",
@@ -984,7 +984,7 @@
             "open_issues": 11,
             "owner": "InternRobotics",
             "repo": "G2VLM",
-            "stars": 355,
+            "stars": 357,
             "topics": [
               "3d-llms",
               "3d-reconstruction",
@@ -1183,7 +1183,7 @@
             "open_issues": 31,
             "owner": "UMass-Embodied-AGI",
             "repo": "3D-LLM",
-            "stars": 1216,
+            "stars": 1217,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1323,7 +1323,7 @@
             "open_issues": 16,
             "owner": "Zhoues",
             "repo": "RoboRefer",
-            "stars": 266,
+            "stars": 267,
             "topics": [
               "robotics",
               "spatial-reasoning",
@@ -1370,7 +1370,7 @@
             "open_issues": 11,
             "owner": "djiajunustc",
             "repo": "3D-LLaVA",
-            "stars": 101,
+            "stars": 102,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1856,7 +1856,7 @@
             "open_issues": 687,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22225,
+            "stars": 22227,
             "topics": [
               "beit",
               "beit-3",
@@ -1973,7 +1973,7 @@
             "open_issues": 0,
             "owner": "OpenSenseNova",
             "repo": "SenseNova-SI",
-            "stars": 304,
+            "stars": 305,
             "topics": [
               "mllm",
               "mllm-for-3d",
@@ -2107,7 +2107,7 @@
             "open_issues": 1,
             "owner": "Yangr116",
             "repo": "VST",
-            "stars": 210,
+            "stars": 211,
             "topics": [
               "spatial-intelligence",
               "spatial-reasoning",
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:05:06.070Z",
+    "last_updated": "2026-09-22T19:01:21.686Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
