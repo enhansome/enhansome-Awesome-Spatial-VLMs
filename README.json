@@ -160,7 +160,7 @@
             "open_issues": 47,
             "owner": "zhangzaibin",
             "repo": "spagent",
-            "stars": 223,
+            "stars": 224,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -438,7 +438,7 @@
             "open_issues": 4,
             "owner": "AntResearchNLP",
             "repo": "ViLaSR",
-            "stars": 99,
+            "stars": 100,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -543,7 +543,7 @@
             "open_issues": 0,
             "owner": "zhangquanchen",
             "repo": "3DThinker",
-            "stars": 255,
+            "stars": 256,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -949,7 +949,7 @@
             "open_issues": 65,
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3599,
+            "stars": 3603,
             "topics": [
               "demo",
               "eagle",
@@ -1482,7 +1482,7 @@
             "open_issues": 5,
             "owner": "manycore-research",
             "repo": "SpatialLM",
-            "stars": 4745,
+            "stars": 4742,
             "topics": [
               "mllm",
               "point-clouds",
@@ -1562,7 +1562,7 @@
             "open_issues": 18,
             "owner": "LaVi-Lab",
             "repo": "VG-LLM",
-            "stars": 258,
+            "stars": 259,
             "topics": [
               "3d-scene-understanding",
               "mllm",
@@ -1856,7 +1856,7 @@
             "open_issues": 687,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22227,
+            "stars": 22228,
             "topics": [
               "beit",
               "beit-3",
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T19:01:21.686Z",
+    "last_updated": "2026-09-23T19:08:49.296Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
