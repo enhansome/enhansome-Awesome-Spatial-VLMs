@@ -118,7 +118,7 @@
             "open_issues": 22,
             "owner": "microsoft",
             "repo": "SoM",
-            "stars": 1564,
+            "stars": 1566,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -235,7 +235,7 @@
             "open_issues": 10,
             "owner": "Yushi-Hu",
             "repo": "VisualSketchpad",
-            "stars": 293,
+            "stars": 294,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -949,7 +949,7 @@
             "open_issues": 65,
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3607,
+            "stars": 3611,
             "topics": [
               "demo",
               "eagle",
@@ -1482,7 +1482,7 @@
             "open_issues": 5,
             "owner": "manycore-research",
             "repo": "SpatialLM",
-            "stars": 4743,
+            "stars": 4744,
             "topics": [
               "mllm",
               "point-clouds",
@@ -1856,7 +1856,7 @@
             "open_issues": 687,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22226,
+            "stars": 22228,
             "topics": [
               "beit",
               "beit-3",
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T19:23:21.625Z",
+    "last_updated": "2026-09-25T19:24:02.870Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
