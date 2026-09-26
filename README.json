@@ -118,7 +118,7 @@
             "open_issues": 22,
             "owner": "microsoft",
             "repo": "SoM",
-            "stars": 1566,
+            "stars": 1567,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -160,7 +160,7 @@
             "open_issues": 47,
             "owner": "zhangzaibin",
             "repo": "spagent",
-            "stars": 224,
+            "stars": 225,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -564,7 +564,7 @@
             "open_issues": 1,
             "owner": "facebookresearch",
             "repo": "DepthLM_Official",
-            "stars": 368,
+            "stars": 369,
             "topics": [
               "3d",
               "depth-estimation",
@@ -907,7 +907,7 @@
             "open_issues": 21,
             "owner": "TRI-ML",
             "repo": "prismatic-vlms",
-            "stars": 1017,
+            "stars": 1019,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -949,7 +949,7 @@
             "open_issues": 65,
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3611,
+            "stars": 3615,
             "topics": [
               "demo",
               "eagle",
@@ -1856,7 +1856,7 @@
             "open_issues": 687,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22228,
+            "stars": 22227,
             "topics": [
               "beit",
               "beit-3",
@@ -1973,7 +1973,7 @@
             "open_issues": 0,
             "owner": "OpenSenseNova",
             "repo": "SenseNova-SI",
-            "stars": 306,
+            "stars": 307,
             "topics": [
               "mllm",
               "mllm-for-3d",
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T19:24:02.870Z",
+    "last_updated": "2026-09-26T18:40:02.220Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
@@ -2215,7 +2215,7 @@
       "language": "Python",
       "license": "MIT",
       "last_commit": "2026-07-30T03:14:46Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "vulab-AI",
       "repo": "Awesome-Spatial-VLMs",
       "stars": 471,
