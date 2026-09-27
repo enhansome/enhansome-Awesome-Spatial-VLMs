@@ -116,7 +116,7 @@ This repository uses the framework from our survey paper to systematically organ
 <details>
   <summary><b>Visual Prompting Methods</b></summary>
 
-* \[arXiv2023] Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V (*Microsoft Research, Redmond*) [\[paper\]](https://arxiv.org/pdf/2310.11441) [\[code\]](https://github.com/microsoft/SoM) ⭐ 1,567 | 🐛 22 | 🌐 Python | 📅 2024-08-19;
+* \[arXiv2023] Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V (*Microsoft Research, Redmond*) [\[paper\]](https://arxiv.org/pdf/2310.11441) [\[code\]](https://github.com/microsoft/SoM) ⭐ 1,568 | 🐛 22 | 🌐 Python | 📅 2024-08-19;
 
 * \[NeurIPS2023] Fine-Grained Visual Prompting (*Nanjing University of Science and Technology*) [\[paper\]](https://arxiv.org/pdf/2306.04356) [\[code\]](https://github.com/ylingfeng/FGVP) ⭐ 56 | 🐛 1 | 🌐 Python | 📅 2024-02-01;
 
@@ -140,7 +140,7 @@ This repository uses the framework from our survey paper to systematically organ
   - [arXiv2024] Image-of-Thought Prompting for Visual Reasoning Refinement in Multimodal Large Language Models (_Westlake University_) [[paper]](https://arxiv.org/pdf/2405.13872);
 
 * \[NeurIPS2024] Visual SKETCHPAD: Sketching as a visual chain of thought for multimodal language models (*University of Washington*) [\[paper\]](https://arxiv.org/pdf/2406.09403) [\[code\]](https://github.com/Yushi-Hu/VisualSketchpad) ⭐ 294 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2025-08-05;
-* \[CVPR2025] SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding (*HKUST(GZ)*) [\[paper\]](https://arxiv.org/pdf/2412.04383) [\[code\]](https://github.com/iris0329/SeeGround) ⭐ 224 | 🐛 1 | 🌐 Python | 📅 2025-04-21;
+* \[CVPR2025] SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding (*HKUST(GZ)*) [\[paper\]](https://arxiv.org/pdf/2412.04383) [\[code\]](https://github.com/iris0329/SeeGround) ⭐ 225 | 🐛 1 | 🌐 Python | 📅 2025-04-21;
 * \[arXiv2026] CoV: Chain-of-View Prompting for Spatial Reasoning (*Zhejiang University*) [\[paper\]](https://arxiv.org/pdf/2601.05172) [\[code\]](https://github.com/ziplab/CoV?tab=readme-ov-file) ⭐ 64 | 🐛 1 | 🌐 Python | 📅 2026-04-07;
 * \[COLING2025] Scaffolding coordinates to promote vision-language coordination in large multi-modal models (*Tsinghua University*) [\[paper\]](https://arxiv.org/pdf/2402.12058) [\[code\]](https://github.com/THUNLP-MT/Scaffold) ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2024-12-16;
 * \[NeurIPS2024] Mind's Eye of LLMs: Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models (*Microsoft Research*) [\[paper\]](https://phttps://arxiv.org/pdf/2405.13872roceedings.neurips.cc/paper_files/paper/2024/file/a45296e83b19f656392e0130d9e53cb1-Paper-Conference.pdf) [\[code\]](https://github.com/microsoft/visualization-of-thought/) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2024-10-23;
@@ -257,7 +257,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[ICLR2025] Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models (*NVIDIA*) [\[paper\]](https://arxiv.org/pdf/2501.14818) [\[code\]](https://github.com/NVlabs/EAGLE?tab=readme-ov-file) ⭐ 3,615 | 🐛 65 | 🌐 Python | 📅 2026-06-24 [\[checkpoint\]](https://huggingface.co/nvidia/Eagle2.5-8B);
+* \[ICLR2025] Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models (*NVIDIA*) [\[paper\]](https://arxiv.org/pdf/2501.14818) [\[code\]](https://github.com/NVlabs/EAGLE?tab=readme-ov-file) ⭐ 3,619 | 🐛 66 | 🌐 Python | 📅 2026-06-24 [\[checkpoint\]](https://huggingface.co/nvidia/Eagle2.5-8B);
 
 * \[arXiv2025] G2VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning (*Shanghai AI Lab*) [\[paper\]](https://arxiv.org/pdf/2511.21688) [\[code\]](https://github.com/InternRobotics/G2VLM) ⭐ 357 | 🐛 11 | 🌐 Python | 📅 2026-04-18 [\[checkpoint\]](https://huggingface.co/InternRobotics/G2VLM-2B-MoT)
 
@@ -435,7 +435,7 @@ This repository uses the framework from our survey paper to systematically organ
 <details>
   <summary><b>Manifesting Spatial Relations in 2D Images</b></summary>
 
-* \[ICLR2024] KOSMOS-2: Grounding Multimodal Large Language Models to the World (*Microsoft Research*) [\[paper\]](https://arxiv.org/pdf/2306.14824) [\[code\]](https://github.com/microsoft/unilm/tree/master/kosmos-2) ⭐ 22,227 | 🐛 687 | 🌐 Python | 📅 2026-09-21 [\[checkpoint\]](https://huggingface.co/microsoft/kosmos-2-patch14-224);
+* \[ICLR2024] KOSMOS-2: Grounding Multimodal Large Language Models to the World (*Microsoft Research*) [\[paper\]](https://arxiv.org/pdf/2306.14824) [\[code\]](https://github.com/microsoft/unilm/tree/master/kosmos-2) ⭐ 22,226 | 🐛 687 | 🌐 Python | 📅 2026-09-21 [\[checkpoint\]](https://huggingface.co/microsoft/kosmos-2-patch14-224);
 
 * \[ECCV2024] The All-Seeing Project V2: Towards General Relation Comprehension of the Open World (*Shanghai AI Laboratory*) [\[paper\]](https://arxiv.org/pdf/2402.19474) [\[code\]](https://github.com/OpenGVLab/all-seeing?tab=readme-ov-file) ⭐ 506 | 🐛 15 | 🌐 Python | 📅 2024-08-09 [\[checkpoint\]](https://huggingface.co/OpenGVLab/ASMv2);
 
@@ -584,4 +584,4 @@ If you find this survey or repository useful for your research, please cite our 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
