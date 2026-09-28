@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "qizekun",
             "repo": "SoFar",
-            "stars": 254,
+            "stars": 255,
             "topics": [
               "3d-point-clouds",
               "navigation",
@@ -46,7 +46,7 @@
             "open_issues": 0,
             "owner": "chancharikmitra",
             "repo": "CCoT",
-            "stars": 144,
+            "stars": 143,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -118,7 +118,7 @@
             "open_issues": 22,
             "owner": "microsoft",
             "repo": "SoM",
-            "stars": 1568,
+            "stars": 1567,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -256,7 +256,7 @@
             "open_issues": 1,
             "owner": "iris0329",
             "repo": "SeeGround",
-            "stars": 225,
+            "stars": 226,
             "topics": [
               "3d-scene-understanding",
               "3d-visual-grounding",
@@ -949,7 +949,7 @@
             "open_issues": 66,
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3619,
+            "stars": 3626,
             "topics": [
               "demo",
               "eagle",
@@ -1246,7 +1246,7 @@
             "open_issues": 26,
             "owner": "AnjieCheng",
             "repo": "SpatialRGPT",
-            "stars": 338,
+            "stars": 339,
             "topics": [
               "spatial-reasoning",
               "vision-language-model"
@@ -1514,7 +1514,7 @@
             "open_issues": 8,
             "owner": "THU-SI",
             "repo": "Spatial-MLLM",
-            "stars": 490,
+            "stars": 491,
             "topics": [
               "aigc",
               "llm",
@@ -1541,7 +1541,7 @@
             "open_issues": 10,
             "owner": "VITA-Group",
             "repo": "VLM-3R",
-            "stars": 449,
+            "stars": 450,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1856,7 +1856,7 @@
             "open_issues": 687,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22226,
+            "stars": 22225,
             "topics": [
               "beit",
               "beit-3",
@@ -1973,7 +1973,7 @@
             "open_issues": 0,
             "owner": "OpenSenseNova",
             "repo": "SenseNova-SI",
-            "stars": 307,
+            "stars": 309,
             "topics": [
               "mllm",
               "mllm-for-3d",
@@ -2001,7 +2001,7 @@
             "id": 758808044,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T14:55:00Z",
+            "last_commit": "2026-09-28T14:57:15Z",
             "open_issues": 3,
             "owner": "remyxai",
             "repo": "VQASynth",
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:08:27.716Z",
+    "last_updated": "2026-09-28T21:18:53.759Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
