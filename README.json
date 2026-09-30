@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "qizekun",
             "repo": "SoFar",
-            "stars": 255,
+            "stars": 254,
             "topics": [
               "3d-point-clouds",
               "navigation",
@@ -949,7 +949,7 @@
             "open_issues": 66,
             "owner": "NVlabs",
             "repo": "Eagle",
-            "stars": 3642,
+            "stars": 3660,
             "topics": [
               "demo",
               "eagle",
@@ -1323,7 +1323,7 @@
             "open_issues": 16,
             "owner": "Zhoues",
             "repo": "RoboRefer",
-            "stars": 267,
+            "stars": 268,
             "topics": [
               "robotics",
               "spatial-reasoning",
@@ -1856,7 +1856,7 @@
             "open_issues": 687,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22226,
+            "stars": 22227,
             "topics": [
               "beit",
               "beit-3",
@@ -2206,7 +2206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T20:05:47.285Z",
+    "last_updated": "2026-09-30T20:11:46.083Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",

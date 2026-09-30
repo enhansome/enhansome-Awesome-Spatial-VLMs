@@ -99,7 +99,7 @@ This repository uses the framework from our survey paper to systematically organ
 <details>
   <summary><b>Textual Prompting Methods</b></summary>
 
-* \[CoRR2025] SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation (*Tsinghua University*) [\[paper\]](https://arxiv.org/pdf/2502.13143) [\[code\]](https://github.com/qizekun/SoFar) ⭐ 255 | 🐛 12 | 🌐 Python | 📅 2025-06-30;
+* \[CoRR2025] SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation (*Tsinghua University*) [\[paper\]](https://arxiv.org/pdf/2502.13143) [\[code\]](https://github.com/qizekun/SoFar) ⭐ 254 | 🐛 12 | 🌐 Python | 📅 2025-06-30;
 
 * \[CVPR2024] Compositional Chain-of-Thought Prompting for Large Multimodal Models (*University of California, Berkeley*) [\[paper\]](https://arxiv.org/pdf/2311.17076) [\[code\]](https://github.com/chancharikmitra/CCoT) ⭐ 143 | 🐛 0 | 🌐 Python | 📅 2024-06-20;
 
@@ -257,7 +257,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[ICLR2025] Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models (*NVIDIA*) [\[paper\]](https://arxiv.org/pdf/2501.14818) [\[code\]](https://github.com/NVlabs/EAGLE?tab=readme-ov-file) ⭐ 3,642 | 🐛 66 | 🌐 Python | 📅 2026-06-24 [\[checkpoint\]](https://huggingface.co/nvidia/Eagle2.5-8B);
+* \[ICLR2025] Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models (*NVIDIA*) [\[paper\]](https://arxiv.org/pdf/2501.14818) [\[code\]](https://github.com/NVlabs/EAGLE?tab=readme-ov-file) ⭐ 3,660 | 🐛 66 | 🌐 Python | 📅 2026-06-24 [\[checkpoint\]](https://huggingface.co/nvidia/Eagle2.5-8B);
 
 * \[arXiv2025] G2VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning (*Shanghai AI Lab*) [\[paper\]](https://arxiv.org/pdf/2511.21688) [\[code\]](https://github.com/InternRobotics/G2VLM) ⭐ 357 | 🐛 11 | 🌐 Python | 📅 2026-04-18 [\[checkpoint\]](https://huggingface.co/InternRobotics/G2VLM-2B-MoT)
 
@@ -336,7 +336,7 @@ This repository uses the framework from our survey paper to systematically organ
 
 * \[CVPR2024] VCoder: Versatile Vision Encoders for Multimodal Large Language Models (*Georgia Tech*) [\[paper\]](https://arxiv.org/pdf/2312.14233) [\[code\]](https://github.com/SHI-Labs/VCoder) ⭐ 279 | 🐛 5 | 🌐 Python | 📅 2024-04-17 [\[checkpoint\]](https://huggingface.co/models?search=vcoder);
 
-* \[NeurIPS2025] RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics (*Beihang University*) [\[paper\]](https://arxiv.org/pdf/2506.04308) [\[code\]](https://github.com/Zhoues/RoboRefer) ⭐ 267 | 🐛 16 | 🌐 Python | 📅 2025-12-16 [\[checkpoint\]](https://huggingface.co/collections/Zhoues/roborefer-and-refspatial-6857c97848fab02271310b89);
+* \[NeurIPS2025] RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics (*Beihang University*) [\[paper\]](https://arxiv.org/pdf/2506.04308) [\[code\]](https://github.com/Zhoues/RoboRefer) ⭐ 268 | 🐛 16 | 🌐 Python | 📅 2025-12-16 [\[checkpoint\]](https://huggingface.co/collections/Zhoues/roborefer-and-refspatial-6857c97848fab02271310b89);
 
 * \[CVPR2022] ScanQA: 3D Question Answering for Spatial Scene Understanding (*Kyoto University*) [\[paper\]](https://arxiv.org/pdf/2112.10482) [\[code\]](https://github.com/ATR-DBI/ScanQA) ⭐ 164 | 🐛 12 | 🌐 Python | 📅 2023-08-23;
 
@@ -435,7 +435,7 @@ This repository uses the framework from our survey paper to systematically organ
 <details>
   <summary><b>Manifesting Spatial Relations in 2D Images</b></summary>
 
-* \[ICLR2024] KOSMOS-2: Grounding Multimodal Large Language Models to the World (*Microsoft Research*) [\[paper\]](https://arxiv.org/pdf/2306.14824) [\[code\]](https://github.com/microsoft/unilm/tree/master/kosmos-2) ⭐ 22,226 | 🐛 687 | 🌐 Python | 📅 2026-09-21 [\[checkpoint\]](https://huggingface.co/microsoft/kosmos-2-patch14-224);
+* \[ICLR2024] KOSMOS-2: Grounding Multimodal Large Language Models to the World (*Microsoft Research*) [\[paper\]](https://arxiv.org/pdf/2306.14824) [\[code\]](https://github.com/microsoft/unilm/tree/master/kosmos-2) ⭐ 22,227 | 🐛 687 | 🌐 Python | 📅 2026-09-21 [\[checkpoint\]](https://huggingface.co/microsoft/kosmos-2-patch14-224);
 
 * \[ECCV2024] The All-Seeing Project V2: Towards General Relation Comprehension of the Open World (*Shanghai AI Laboratory*) [\[paper\]](https://arxiv.org/pdf/2402.19474) [\[code\]](https://github.com/OpenGVLab/all-seeing?tab=readme-ov-file) ⭐ 506 | 🐛 15 | 🌐 Python | 📅 2024-08-09 [\[checkpoint\]](https://huggingface.co/OpenGVLab/ASMv2);
 
@@ -584,4 +584,4 @@ If you find this survey or repository useful for your research, please cite our 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
