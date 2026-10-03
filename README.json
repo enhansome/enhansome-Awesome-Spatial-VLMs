@@ -965,7 +965,7 @@
                     "open_issues": 66,
                     "owner": "NVlabs",
                     "repo": "Eagle",
-                    "stars": 3677,
+                    "stars": 3679,
                     "topics": [
                       "demo",
                       "eagle",
@@ -1899,7 +1899,7 @@
                     "open_issues": 687,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22227,
+                    "stars": 22226,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -2260,7 +2260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:27:01.144Z",
+    "last_updated": "2026-10-03T18:45:51.849Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
