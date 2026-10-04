@@ -165,7 +165,7 @@
                     "open_issues": 47,
                     "owner": "zhangzaibin",
                     "repo": "spagent",
-                    "stars": 224,
+                    "stars": 225,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1515,7 +1515,7 @@
                     "open_issues": 5,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 4744,
+                    "stars": 4745,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -1775,7 +1775,7 @@
                     "open_issues": 23,
                     "owner": "apple-aiml-research",
                     "repo": "ml-cubifyanything",
-                    "stars": 446,
+                    "stars": 447,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -2260,7 +2260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T18:45:51.849Z",
+    "last_updated": "2026-10-04T18:42:41.178Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
