@@ -428,7 +428,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2026-06-09T07:34:50Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "ZJU-REAL",
                     "repo": "SpatialLadder",
                     "stars": 102,
@@ -603,7 +603,7 @@
                     "open_issues": 3,
                     "owner": "Haochen-Wang409",
                     "repo": "ross",
-                    "stars": 136,
+                    "stars": 137,
                     "topics": [
                       "diffusion",
                       "iclr",
@@ -965,7 +965,7 @@
                     "open_issues": 66,
                     "owner": "NVlabs",
                     "repo": "Eagle",
-                    "stars": 3679,
+                    "stars": 3686,
                     "topics": [
                       "demo",
                       "eagle",
@@ -1216,7 +1216,7 @@
                     "open_issues": 31,
                     "owner": "UMass-Embodied-AGI",
                     "repo": "3D-LLM",
-                    "stars": 1216,
+                    "stars": 1215,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1515,7 +1515,7 @@
                     "open_issues": 5,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 4745,
+                    "stars": 4744,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -1548,7 +1548,7 @@
                     "open_issues": 8,
                     "owner": "THU-SI",
                     "repo": "Spatial-MLLM",
-                    "stars": 491,
+                    "stars": 492,
                     "topics": [
                       "aigc",
                       "llm",
@@ -1712,7 +1712,7 @@
                     "open_issues": 12,
                     "owner": "ZzZZCHS",
                     "repo": "Chat-Scene",
-                    "stars": 219,
+                    "stars": 218,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1896,10 +1896,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-21T03:27:00Z",
-                    "open_issues": 687,
+                    "open_issues": 688,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22226,
+                    "stars": 22227,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -2045,7 +2045,7 @@
                     "id": 758808044,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-28T14:57:15Z",
+                    "last_commit": "2026-10-05T15:33:01Z",
                     "open_issues": 3,
                     "owner": "remyxai",
                     "repo": "VQASynth",
@@ -2151,7 +2151,7 @@
                     "open_issues": 1,
                     "owner": "Yangr116",
                     "repo": "VST",
-                    "stars": 211,
+                    "stars": 212,
                     "topics": [
                       "spatial-intelligence",
                       "spatial-reasoning",
@@ -2260,7 +2260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:42:41.178Z",
+    "last_updated": "2026-10-05T22:06:35.561Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
