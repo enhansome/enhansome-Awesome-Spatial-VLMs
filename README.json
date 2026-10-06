@@ -123,7 +123,7 @@
                     "open_issues": 22,
                     "owner": "microsoft",
                     "repo": "SoM",
-                    "stars": 1567,
+                    "stars": 1568,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -291,7 +291,7 @@
                     "open_issues": 1,
                     "owner": "ziplab",
                     "repo": "CoV",
-                    "stars": 63,
+                    "stars": 64,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1515,7 +1515,7 @@
                     "open_issues": 5,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 4744,
+                    "stars": 4743,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -2260,7 +2260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:40:31.181Z",
+    "last_updated": "2026-10-06T20:28:13.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
