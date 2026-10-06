@@ -23,7 +23,7 @@
                     "open_issues": 12,
                     "owner": "qizekun",
                     "repo": "SoFar",
-                    "stars": 254,
+                    "stars": 255,
                     "topics": [
                       "3d-point-clouds",
                       "navigation",
@@ -262,7 +262,7 @@
                     "open_issues": 1,
                     "owner": "iris0329",
                     "repo": "SeeGround",
-                    "stars": 226,
+                    "stars": 224,
                     "topics": [
                       "3d-scene-understanding",
                       "3d-visual-grounding",
@@ -1216,7 +1216,7 @@
                     "open_issues": 31,
                     "owner": "UMass-Embodied-AGI",
                     "repo": "3D-LLM",
-                    "stars": 1215,
+                    "stars": 1214,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1258,7 +1258,7 @@
                     "open_issues": 5,
                     "owner": "BAAI-DCAI",
                     "repo": "SpatialBot",
-                    "stars": 355,
+                    "stars": 354,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -2049,7 +2049,7 @@
                     "open_issues": 3,
                     "owner": "remyxai",
                     "repo": "VQASynth",
-                    "stars": 590,
+                    "stars": 591,
                     "topics": [
                       "agent",
                       "dataset-generation",
@@ -2219,7 +2219,7 @@
                     "open_issues": 3,
                     "owner": "Endlinc",
                     "repo": "LLaVA-SpaceSGG",
-                    "stars": 30,
+                    "stars": 29,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -2260,7 +2260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T22:06:35.561Z",
+    "last_updated": "2026-10-06T10:40:31.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
