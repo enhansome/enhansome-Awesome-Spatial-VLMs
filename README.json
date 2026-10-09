@@ -741,7 +741,7 @@
                     "open_issues": 48,
                     "owner": "cambrian-mllm",
                     "repo": "cambrian",
-                    "stars": 2011,
+                    "stars": 2009,
                     "topics": [
                       "chatbot",
                       "clip",
@@ -836,7 +836,7 @@
                     "open_issues": 1,
                     "owner": "cambrian-mllm",
                     "repo": "cambrian-s",
-                    "stars": 571,
+                    "stars": 570,
                     "topics": [
                       "computer-vision",
                       "llm",
@@ -891,7 +891,7 @@
                     "open_issues": 48,
                     "owner": "cambrian-mllm",
                     "repo": "cambrian",
-                    "stars": 2011,
+                    "stars": 2009,
                     "topics": [
                       "chatbot",
                       "clip",
@@ -965,7 +965,7 @@
                     "open_issues": 66,
                     "owner": "NVlabs",
                     "repo": "Eagle",
-                    "stars": 3691,
+                    "stars": 3695,
                     "topics": [
                       "demo",
                       "eagle",
@@ -1216,7 +1216,7 @@
                     "open_issues": 31,
                     "owner": "UMass-Embodied-AGI",
                     "repo": "3D-LLM",
-                    "stars": 1214,
+                    "stars": 1213,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1515,7 +1515,7 @@
                     "open_issues": 5,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 4745,
+                    "stars": 4746,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -2260,7 +2260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T20:45:19.593Z",
+    "last_updated": "2026-10-09T20:12:34.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
