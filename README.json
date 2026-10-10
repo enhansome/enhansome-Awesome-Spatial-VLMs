@@ -123,7 +123,7 @@
                     "open_issues": 22,
                     "owner": "microsoft",
                     "repo": "SoM",
-                    "stars": 1568,
+                    "stars": 1569,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -410,7 +410,7 @@
                     "open_issues": 8,
                     "owner": "OuyangKun10",
                     "repo": "SpaceR",
-                    "stars": 111,
+                    "stars": 112,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -741,7 +741,7 @@
                     "open_issues": 48,
                     "owner": "cambrian-mllm",
                     "repo": "cambrian",
-                    "stars": 2009,
+                    "stars": 2010,
                     "topics": [
                       "chatbot",
                       "clip",
@@ -891,7 +891,7 @@
                     "open_issues": 48,
                     "owner": "cambrian-mllm",
                     "repo": "cambrian",
-                    "stars": 2009,
+                    "stars": 2010,
                     "topics": [
                       "chatbot",
                       "clip",
@@ -965,7 +965,7 @@
                     "open_issues": 66,
                     "owner": "NVlabs",
                     "repo": "Eagle",
-                    "stars": 3695,
+                    "stars": 3696,
                     "topics": [
                       "demo",
                       "eagle",
@@ -1216,7 +1216,7 @@
                     "open_issues": 31,
                     "owner": "UMass-Embodied-AGI",
                     "repo": "3D-LLM",
-                    "stars": 1213,
+                    "stars": 1214,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1258,7 +1258,7 @@
                     "open_issues": 5,
                     "owner": "BAAI-DCAI",
                     "repo": "SpatialBot",
-                    "stars": 355,
+                    "stars": 356,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1279,7 +1279,7 @@
                     "open_issues": 26,
                     "owner": "AnjieCheng",
                     "repo": "SpatialRGPT",
-                    "stars": 339,
+                    "stars": 340,
                     "topics": [
                       "spatial-reasoning",
                       "vision-language-model"
@@ -1382,7 +1382,7 @@
                     "open_issues": 12,
                     "owner": "ATR-DBI",
                     "repo": "ScanQA",
-                    "stars": 164,
+                    "stars": 165,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1515,7 +1515,7 @@
                     "open_issues": 5,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 4746,
+                    "stars": 4924,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -1548,7 +1548,7 @@
                     "open_issues": 8,
                     "owner": "THU-SI",
                     "repo": "Spatial-MLLM",
-                    "stars": 494,
+                    "stars": 495,
                     "topics": [
                       "aigc",
                       "llm",
@@ -1691,7 +1691,7 @@
                     "open_issues": 0,
                     "owner": "embodied-generalist",
                     "repo": "embodied-generalist",
-                    "stars": 489,
+                    "stars": 490,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1712,7 +1712,7 @@
                     "open_issues": 12,
                     "owner": "ZzZZCHS",
                     "repo": "Chat-Scene",
-                    "stars": 219,
+                    "stars": 220,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1796,7 +1796,7 @@
                     "open_issues": 26,
                     "owner": "ZCMax",
                     "repo": "LLaVA-3D",
-                    "stars": 390,
+                    "stars": 391,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1899,7 +1899,7 @@
                     "open_issues": 688,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22227,
+                    "stars": 22229,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -2049,7 +2049,7 @@
                     "open_issues": 3,
                     "owner": "remyxai",
                     "repo": "VQASynth",
-                    "stars": 591,
+                    "stars": 592,
                     "topics": [
                       "agent",
                       "dataset-generation",
@@ -2260,7 +2260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T20:12:34.393Z",
+    "last_updated": "2026-10-10T19:25:30.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
