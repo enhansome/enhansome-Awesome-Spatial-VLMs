@@ -123,7 +123,7 @@
                     "open_issues": 22,
                     "owner": "microsoft",
                     "repo": "SoM",
-                    "stars": 1569,
+                    "stars": 1568,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -965,7 +965,7 @@
                     "open_issues": 66,
                     "owner": "NVlabs",
                     "repo": "Eagle",
-                    "stars": 3696,
+                    "stars": 3698,
                     "topics": [
                       "demo",
                       "eagle",
@@ -1000,7 +1000,7 @@
                     "open_issues": 11,
                     "owner": "InternRobotics",
                     "repo": "G2VLM",
-                    "stars": 358,
+                    "stars": 359,
                     "topics": [
                       "3d-llms",
                       "3d-reconstruction",
@@ -1515,7 +1515,7 @@
                     "open_issues": 5,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 4924,
+                    "stars": 5015,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -1796,7 +1796,7 @@
                     "open_issues": 26,
                     "owner": "ZCMax",
                     "repo": "LLaVA-3D",
-                    "stars": 391,
+                    "stars": 392,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1899,7 +1899,7 @@
                     "open_issues": 688,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22229,
+                    "stars": 22230,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -2260,7 +2260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T19:25:30.895Z",
+    "last_updated": "2026-10-11T19:37:49.764Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
