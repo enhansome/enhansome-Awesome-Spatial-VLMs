@@ -241,7 +241,7 @@
                     "open_issues": 10,
                     "owner": "Yushi-Hu",
                     "repo": "VisualSketchpad",
-                    "stars": 294,
+                    "stars": 296,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -629,7 +629,7 @@
                     "open_issues": 2,
                     "owner": "chengzu-li",
                     "repo": "MVoT",
-                    "stars": 78,
+                    "stars": 77,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -836,7 +836,7 @@
                     "open_issues": 1,
                     "owner": "cambrian-mllm",
                     "repo": "cambrian-s",
-                    "stars": 570,
+                    "stars": 571,
                     "topics": [
                       "computer-vision",
                       "llm",
@@ -1515,7 +1515,7 @@
                     "open_issues": 5,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 5049,
+                    "stars": 5074,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -2244,6 +2244,33 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[arXiv2026] Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World (Zhejiang University & SAP) [paper]",
+                  "description": "[code] [checkpoint];",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Learning Spatial Reasoning through Interaction with the Observable Physical World",
+                    "homepage": "https://zju-omniai.github.io/Spatial-Interactor/",
+                    "id": 1368647527,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-09T17:16:54Z",
+                    "open_issues": 1,
+                    "owner": "ZJU-OmniAI",
+                    "repo": "Spatial-Interactor",
+                    "stars": 88,
+                    "topics": [
+                      "embodied-ai",
+                      "on-policy-distillation",
+                      "spatial-reasoning",
+                      "video-understanding",
+                      "vision-language-model"
+                    ]
+                  },
+                  "first_seen": "2026-10-14T19:33:38.488Z"
                 }
               ],
               "description": null,
@@ -2260,7 +2287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:45:58.671Z",
+    "last_updated": "2026-10-14T19:33:38.488Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
@@ -2268,11 +2295,11 @@
       "id": 1017314390,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-07-30T03:14:46Z",
-      "open_issues": 4,
+      "last_commit": "2026-10-14T12:53:42Z",
+      "open_issues": 3,
       "owner": "vulab-AI",
       "repo": "Awesome-Spatial-VLMs",
-      "stars": 471,
+      "stars": 472,
       "topics": [
         "awesome-list",
         "awesome-spatial-vlms",
@@ -2284,7 +2311,7 @@
         "vlm"
       ]
     },
-    "original_repository_sha": "72988f4f8d09325872f244b9cf893426e69d7b02",
+    "original_repository_sha": "f1c7f3497bba55661f3bcdcfecf92c415196ee06",
     "enhanced_repository": "enhansome/enhansome-Awesome-Spatial-VLMs",
     "enhanced_repository_description": null,
     "title": "Awesome Spatial VLMs with stars"
