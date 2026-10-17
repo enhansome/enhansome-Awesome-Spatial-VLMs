@@ -213,7 +213,7 @@
                     "open_issues": 1,
                     "owner": "Hoantrbl",
                     "repo": "SeeTrek",
-                    "stars": 119,
+                    "stars": 120,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -923,7 +923,7 @@
                     "open_issues": 21,
                     "owner": "TRI-ML",
                     "repo": "prismatic-vlms",
-                    "stars": 1020,
+                    "stars": 1021,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -965,7 +965,7 @@
                     "open_issues": 66,
                     "owner": "NVlabs",
                     "repo": "Eagle",
-                    "stars": 3704,
+                    "stars": 3706,
                     "topics": [
                       "demo",
                       "eagle",
@@ -1575,7 +1575,7 @@
                     "open_issues": 10,
                     "owner": "VITA-Group",
                     "repo": "VLM-3R",
-                    "stars": 450,
+                    "stars": 451,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1642,7 +1642,7 @@
                     "open_issues": 0,
                     "owner": "hustvl",
                     "repo": "Spa3R",
-                    "stars": 53,
+                    "stars": 54,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -2287,7 +2287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:53:54.254Z",
+    "last_updated": "2026-10-17T17:53:26.308Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
