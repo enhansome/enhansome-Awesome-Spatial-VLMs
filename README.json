@@ -165,7 +165,7 @@
                     "open_issues": 47,
                     "owner": "zhangzaibin",
                     "repo": "spagent",
-                    "stars": 226,
+                    "stars": 225,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -452,7 +452,7 @@
                     "open_issues": 4,
                     "owner": "AntResearchNLP",
                     "repo": "ViLaSR",
-                    "stars": 99,
+                    "stars": 100,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -965,7 +965,7 @@
                     "open_issues": 66,
                     "owner": "NVlabs",
                     "repo": "Eagle",
-                    "stars": 3707,
+                    "stars": 3708,
                     "topics": [
                       "demo",
                       "eagle",
@@ -1216,7 +1216,7 @@
                     "open_issues": 31,
                     "owner": "UMass-Embodied-AGI",
                     "repo": "3D-LLM",
-                    "stars": 1215,
+                    "stars": 1216,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1515,7 +1515,7 @@
                     "open_issues": 5,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 5093,
+                    "stars": 5094,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -1548,7 +1548,7 @@
                     "open_issues": 8,
                     "owner": "THU-SI",
                     "repo": "Spatial-MLLM",
-                    "stars": 495,
+                    "stars": 496,
                     "topics": [
                       "aigc",
                       "llm",
@@ -1899,7 +1899,7 @@
                     "open_issues": 689,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22239,
+                    "stars": 22237,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -2045,7 +2045,7 @@
                     "id": 758808044,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-05T15:33:01Z",
+                    "last_commit": "2026-10-19T14:13:35Z",
                     "open_issues": 3,
                     "owner": "remyxai",
                     "repo": "VQASynth",
@@ -2261,7 +2261,7 @@
                     "open_issues": 1,
                     "owner": "ZJU-OmniAI",
                     "repo": "Spatial-Interactor",
-                    "stars": 89,
+                    "stars": 90,
                     "topics": [
                       "embodied-ai",
                       "on-policy-distillation",
@@ -2287,7 +2287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T18:14:10.649Z",
+    "last_updated": "2026-10-19T20:40:02.791Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
@@ -2296,7 +2296,7 @@
       "language": "Python",
       "license": "MIT",
       "last_commit": "2026-10-14T12:53:42Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "vulab-AI",
       "repo": "Awesome-Spatial-VLMs",
       "stars": 473,
