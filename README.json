@@ -965,7 +965,7 @@
                     "open_issues": 66,
                     "owner": "NVlabs",
                     "repo": "Eagle",
-                    "stars": 3712,
+                    "stars": 3714,
                     "topics": [
                       "demo",
                       "eagle",
@@ -1000,7 +1000,7 @@
                     "open_issues": 11,
                     "owner": "InternRobotics",
                     "repo": "G2VLM",
-                    "stars": 360,
+                    "stars": 361,
                     "topics": [
                       "3d-llms",
                       "3d-reconstruction",
@@ -1279,7 +1279,7 @@
                     "open_issues": 26,
                     "owner": "AnjieCheng",
                     "repo": "SpatialRGPT",
-                    "stars": 340,
+                    "stars": 341,
                     "topics": [
                       "spatial-reasoning",
                       "vision-language-model"
@@ -1303,7 +1303,7 @@
                     "open_issues": 19,
                     "owner": "Open3DA",
                     "repo": "LL3DA",
-                    "stars": 320,
+                    "stars": 321,
                     "topics": [
                       "3d",
                       "3d-models",
@@ -1379,7 +1379,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2023-08-23T08:26:23Z",
-                    "open_issues": 12,
+                    "open_issues": 13,
                     "owner": "ATR-DBI",
                     "repo": "ScanQA",
                     "stars": 165,
@@ -1403,7 +1403,7 @@
                     "open_issues": 12,
                     "owner": "djiajunustc",
                     "repo": "3D-LLaVA",
-                    "stars": 101,
+                    "stars": 103,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1515,7 +1515,7 @@
                     "open_issues": 5,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 5094,
+                    "stars": 5095,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -2287,7 +2287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T19:27:35.605Z",
+    "last_updated": "2026-10-21T19:26:55.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
