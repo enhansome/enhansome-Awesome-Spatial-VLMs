@@ -965,7 +965,7 @@
                     "open_issues": 66,
                     "owner": "NVlabs",
                     "repo": "Eagle",
-                    "stars": 3722,
+                    "stars": 3726,
                     "topics": [
                       "demo",
                       "eagle",
@@ -1899,7 +1899,7 @@
                     "open_issues": 689,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22235,
+                    "stars": 22234,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -2261,7 +2261,7 @@
                     "open_issues": 1,
                     "owner": "ZJU-OmniAI",
                     "repo": "Spatial-Interactor",
-                    "stars": 85,
+                    "stars": 88,
                     "topics": [
                       "embodied-ai",
                       "on-policy-distillation",
@@ -2287,7 +2287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T19:25:27.061Z",
+    "last_updated": "2026-10-24T18:17:08.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
