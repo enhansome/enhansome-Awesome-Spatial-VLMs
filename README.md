@@ -168,7 +168,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[arXiv2025] MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse (*Northwestern University*) [\[paper\]](https://arxiv.org/pdf/2503.18470) [\[code\]](https://github.com/PzySeere/MetaSpatial) ⭐ 320 | 🐛 1 | 🌐 Python | 📅 2025-05-05;
+* \[arXiv2025] MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse (*Northwestern University*) [\[paper\]](https://arxiv.org/pdf/2503.18470) [\[code\]](https://github.com/PzySeere/MetaSpatial) ⭐ 321 | 🐛 1 | 🌐 Python | 📅 2025-05-05;
 
 * \[arXiv2025] SpaceR: Reinforcing MLLMs in Video Spatial Reasoning (*Peking University*) [\[paper\]](https://arxiv.org/pdf/2504.01805v2) [\[code\]](https://github.com/OuyangKun10/SpaceR?tab=readme-ov-file) ⭐ 112 | 🐛 8 | 🌐 Python | 📅 2025-07-09 [\[checkpoint\]](https://huggingface.co/RUBBISHLIKE/SpaceR);
 
@@ -193,7 +193,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[arXiv2025] Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views (*Tsinghua University*) [\[paper\]](https://arxiv.org/pdf/2510.18632) [\[code\]](https://github.com/zhangquanchen/3DThinker) ⭐ 257 | 🐛 0 | 🌐 Python | 📅 2026-05-07
+* \[arXiv2025] Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views (*Tsinghua University*) [\[paper\]](https://arxiv.org/pdf/2510.18632) [\[code\]](https://github.com/zhangquanchen/3DThinker) ⭐ 258 | 🐛 0 | 🌐 Python | 📅 2026-05-07
   <!-- ![RL-based](https://img.shields.io/badge/RL--based-blue?) -->
 
   <!-- New paper, excluded in survey -->
@@ -239,7 +239,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[arXiv2025] Cambrian-S: Towards Spatial Supersensing in Video (*New York University*) [\[paper\]](https://arxiv.org/pdf/2511.04670) [\[code\]](https://github.com/cambrian-mllm/cambrian-s) ⭐ 571 | 🐛 1 | 🌐 Python | 📅 2026-04-03 [\[checkpoint\]](https://huggingface.co/collections/nyu-visionx/cambrian-s-models);
+* \[arXiv2025] Cambrian-S: Towards Spatial Supersensing in Video (*New York University*) [\[paper\]](https://arxiv.org/pdf/2511.04670) [\[code\]](https://github.com/cambrian-mllm/cambrian-s) ⭐ 572 | 🐛 1 | 🌐 Python | 📅 2026-04-03 [\[checkpoint\]](https://huggingface.co/collections/nyu-visionx/cambrian-s-models);
 
 * \[ICML2025] Why is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas (*City University of Hong Kong*) [\[paper\]](https://arxiv.org/pdf/2503.01773) [\[code\]](https://github.com/shiqichen17/AdaptVis) ⭐ 76 | 🐛 5 | 🌐 Python | 📅 2025-05-02 [\[checkpoint\]](https://github.com/shiqichen17/AdaptVis) ⭐ 76 | 🐛 5 | 🌐 Python | 📅 2025-05-02;
 
@@ -357,7 +357,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[NeurIPS2025] SPATIALLM: Training Large Language Models for Structured Indoor Modeling (*Manycore Tech Inc.*) [\[paper\]](https://arxiv.org/pdf/2506.07491) [\[code\]](https://github.com/manycore-research/SpatialLM) ⭐ 5,095 | 🐛 5 | 🌐 Python | 📅 2026-06-26 [\[checkpoint\]](https://huggingface.co/manycore-research/SpatialLM1.1-Qwen-0.5B)
+* \[NeurIPS2025] SPATIALLM: Training Large Language Models for Structured Indoor Modeling (*Manycore Tech Inc.*) [\[paper\]](https://arxiv.org/pdf/2506.07491) [\[code\]](https://github.com/manycore-research/SpatialLM) ⭐ 5,101 | 🐛 5 | 🌐 Python | 📅 2026-06-26 [\[checkpoint\]](https://huggingface.co/manycore-research/SpatialLM1.1-Qwen-0.5B)
 
   <!-- New paper, excluded in survey -->
 
@@ -370,7 +370,7 @@ This repository uses the framework from our survey paper to systematically organ
 <details>
   <summary><b>Implicit 3D from Egocentric Views</b></summary>
 
-* \[arXiv2025] Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence (*Tsinghua University*) [\[paper\]](https://arxiv.org/pdf/2505.23747) [\[code\]](https://github.com/diankun-wu/Spatial-MLLM) ⭐ 496 | 🐛 8 | 🌐 Python | 📅 2026-02-05;
+* \[arXiv2025] Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence (*Tsinghua University*) [\[paper\]](https://arxiv.org/pdf/2505.23747) [\[code\]](https://github.com/diankun-wu/Spatial-MLLM) ⭐ 497 | 🐛 8 | 🌐 Python | 📅 2026-02-05;
 
 * \[arXiv2025] VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction (*UT Austin*) [\[paper\]](https://arxiv.org/pdf/2505.20279) [\[code\]](https://github.com/VITA-Group/VLM-3R) ⭐ 451 | 🐛 10 | 🌐 Python | 📅 2026-07-15;
 
@@ -436,7 +436,7 @@ This repository uses the framework from our survey paper to systematically organ
 <details>
   <summary><b>Manifesting Spatial Relations in 2D Images</b></summary>
 
-* \[ICLR2024] KOSMOS-2: Grounding Multimodal Large Language Models to the World (*Microsoft Research*) [\[paper\]](https://arxiv.org/pdf/2306.14824) [\[code\]](https://github.com/microsoft/unilm/tree/master/kosmos-2) ⭐ 22,234 | 🐛 689 | 🌐 Python | 📅 2026-09-21 [\[checkpoint\]](https://huggingface.co/microsoft/kosmos-2-patch14-224);
+* \[ICLR2024] KOSMOS-2: Grounding Multimodal Large Language Models to the World (*Microsoft Research*) [\[paper\]](https://arxiv.org/pdf/2306.14824) [\[code\]](https://github.com/microsoft/unilm/tree/master/kosmos-2) ⭐ 22,235 | 🐛 690 | 🌐 Python | 📅 2026-09-21 [\[checkpoint\]](https://huggingface.co/microsoft/kosmos-2-patch14-224);
 
 * \[ECCV2024] The All-Seeing Project V2: Towards General Relation Comprehension of the Open World (*Shanghai AI Laboratory*) [\[paper\]](https://arxiv.org/pdf/2402.19474) [\[code\]](https://github.com/OpenGVLab/all-seeing?tab=readme-ov-file) ⭐ 507 | 🐛 15 | 🌐 Python | 📅 2024-08-09 [\[checkpoint\]](https://huggingface.co/OpenGVLab/ASMv2);
 
@@ -589,4 +589,4 @@ If you find this survey or repository useful for your research, please cite our 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
