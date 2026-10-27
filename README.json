@@ -123,7 +123,7 @@
                     "open_issues": 22,
                     "owner": "microsoft",
                     "repo": "SoM",
-                    "stars": 1572,
+                    "stars": 1571,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -578,7 +578,7 @@
                     "open_issues": 1,
                     "owner": "facebookresearch",
                     "repo": "DepthLM_Official",
-                    "stars": 370,
+                    "stars": 371,
                     "topics": [
                       "3d",
                       "depth-estimation",
@@ -920,7 +920,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2024-07-04T13:08:39Z",
-                    "open_issues": 21,
+                    "open_issues": 20,
                     "owner": "TRI-ML",
                     "repo": "prismatic-vlms",
                     "stars": 1024,
@@ -965,7 +965,7 @@
                     "open_issues": 66,
                     "owner": "NVlabs",
                     "repo": "Eagle",
-                    "stars": 3727,
+                    "stars": 3729,
                     "topics": [
                       "demo",
                       "eagle",
@@ -1515,7 +1515,7 @@
                     "open_issues": 5,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 5101,
+                    "stars": 5103,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -1775,7 +1775,7 @@
                     "open_issues": 23,
                     "owner": "apple-aiml-research",
                     "repo": "ml-cubifyanything",
-                    "stars": 449,
+                    "stars": 450,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -2257,7 +2257,7 @@
                     "id": 1368647527,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-15T05:39:01Z",
+                    "last_commit": "2026-10-26T21:08:19Z",
                     "open_issues": 1,
                     "owner": "ZJU-OmniAI",
                     "repo": "Spatial-Interactor",
@@ -2287,7 +2287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:39:36.570Z",
+    "last_updated": "2026-10-27T20:09:46.390Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
