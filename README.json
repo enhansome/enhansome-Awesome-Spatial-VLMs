@@ -431,7 +431,7 @@
                     "open_issues": 0,
                     "owner": "ZJU-REAL",
                     "repo": "SpatialLadder",
-                    "stars": 102,
+                    "stars": 103,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -578,7 +578,7 @@
                     "open_issues": 1,
                     "owner": "facebookresearch",
                     "repo": "DepthLM_Official",
-                    "stars": 371,
+                    "stars": 372,
                     "topics": [
                       "3d",
                       "depth-estimation",
@@ -603,7 +603,7 @@
                     "open_issues": 3,
                     "owner": "Haochen-Wang409",
                     "repo": "ross",
-                    "stars": 137,
+                    "stars": 138,
                     "topics": [
                       "diffusion",
                       "iclr",
@@ -965,7 +965,7 @@
                     "open_issues": 66,
                     "owner": "NVlabs",
                     "repo": "Eagle",
-                    "stars": 3729,
+                    "stars": 3732,
                     "topics": [
                       "demo",
                       "eagle",
@@ -1515,7 +1515,7 @@
                     "open_issues": 5,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 5103,
+                    "stars": 5105,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -1899,7 +1899,7 @@
                     "open_issues": 690,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22237,
+                    "stars": 22235,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -2079,7 +2079,7 @@
                     "open_issues": 2,
                     "owner": "facebookresearch",
                     "repo": "Multi-SpatialMLLM",
-                    "stars": 179,
+                    "stars": 180,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -2287,7 +2287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T20:09:46.390Z",
+    "last_updated": "2026-10-28T20:26:57.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
