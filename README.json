@@ -741,7 +741,7 @@
                     "open_issues": 48,
                     "owner": "cambrian-mllm",
                     "repo": "cambrian",
-                    "stars": 2011,
+                    "stars": 2013,
                     "topics": [
                       "chatbot",
                       "clip",
@@ -891,7 +891,7 @@
                     "open_issues": 48,
                     "owner": "cambrian-mllm",
                     "repo": "cambrian",
-                    "stars": 2011,
+                    "stars": 2013,
                     "topics": [
                       "chatbot",
                       "clip",
@@ -965,7 +965,7 @@
                     "open_issues": 66,
                     "owner": "NVlabs",
                     "repo": "Eagle",
-                    "stars": 3737,
+                    "stars": 3741,
                     "topics": [
                       "demo",
                       "eagle",
@@ -1216,7 +1216,7 @@
                     "open_issues": 31,
                     "owner": "UMass-Embodied-AGI",
                     "repo": "3D-LLM",
-                    "stars": 1217,
+                    "stars": 1218,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1403,7 +1403,7 @@
                     "open_issues": 12,
                     "owner": "djiajunustc",
                     "repo": "3D-LLaVA",
-                    "stars": 104,
+                    "stars": 105,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1473,7 +1473,7 @@
                     "open_issues": 1,
                     "owner": "yliu-cs",
                     "repo": "SSR",
-                    "stars": 42,
+                    "stars": 43,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1512,10 +1512,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-06-26T18:14:20Z",
-                    "open_issues": 5,
+                    "open_issues": 4,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 5107,
+                    "stars": 5108,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -1596,7 +1596,7 @@
                     "open_issues": 18,
                     "owner": "LaVi-Lab",
                     "repo": "VG-LLM",
-                    "stars": 260,
+                    "stars": 261,
                     "topics": [
                       "3d-scene-understanding",
                       "mllm",
@@ -1691,7 +1691,7 @@
                     "open_issues": 0,
                     "owner": "embodied-generalist",
                     "repo": "embodied-generalist",
-                    "stars": 491,
+                    "stars": 492,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1899,7 +1899,7 @@
                     "open_issues": 690,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22233,
+                    "stars": 22235,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -2287,7 +2287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T20:25:31.309Z",
+    "last_updated": "2026-10-30T19:58:54.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
