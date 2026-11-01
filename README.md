@@ -258,7 +258,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[ICLR2025] Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models (*NVIDIA*) [\[paper\]](https://arxiv.org/pdf/2501.14818) [\[code\]](https://github.com/NVlabs/EAGLE?tab=readme-ov-file) ⭐ 3,746 | 🐛 66 | 🌐 Python | 📅 2026-06-24 [\[checkpoint\]](https://huggingface.co/nvidia/Eagle2.5-8B);
+* \[ICLR2025] Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models (*NVIDIA*) [\[paper\]](https://arxiv.org/pdf/2501.14818) [\[code\]](https://github.com/NVlabs/EAGLE?tab=readme-ov-file) ⭐ 3,752 | 🐛 66 | 🌐 Python | 📅 2026-06-24 [\[checkpoint\]](https://huggingface.co/nvidia/Eagle2.5-8B);
 
 * \[arXiv2025] G2VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning (*Shanghai AI Lab*) [\[paper\]](https://arxiv.org/pdf/2511.21688) [\[code\]](https://github.com/InternRobotics/G2VLM) ⭐ 362 | 🐛 11 | 🌐 Python | 📅 2026-04-18 [\[checkpoint\]](https://huggingface.co/InternRobotics/G2VLM-2B-MoT)
 
@@ -357,7 +357,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[NeurIPS2025] SPATIALLM: Training Large Language Models for Structured Indoor Modeling (*Manycore Tech Inc.*) [\[paper\]](https://arxiv.org/pdf/2506.07491) [\[code\]](https://github.com/manycore-research/SpatialLM) ⭐ 5,112 | 🐛 4 | 🌐 Python | 📅 2026-06-26 [\[checkpoint\]](https://huggingface.co/manycore-research/SpatialLM1.1-Qwen-0.5B)
+* \[NeurIPS2025] SPATIALLM: Training Large Language Models for Structured Indoor Modeling (*Manycore Tech Inc.*) [\[paper\]](https://arxiv.org/pdf/2506.07491) [\[code\]](https://github.com/manycore-research/SpatialLM) ⭐ 5,114 | 🐛 4 | 🌐 Python | 📅 2026-06-26 [\[checkpoint\]](https://huggingface.co/manycore-research/SpatialLM1.1-Qwen-0.5B)
 
   <!-- New paper, excluded in survey -->
 
@@ -589,4 +589,4 @@ If you find this survey or repository useful for your research, please cite our 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
