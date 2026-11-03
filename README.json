@@ -23,7 +23,7 @@
                     "open_issues": 12,
                     "owner": "qizekun",
                     "repo": "SoFar",
-                    "stars": 255,
+                    "stars": 256,
                     "topics": [
                       "3d-point-clouds",
                       "navigation",
@@ -741,7 +741,7 @@
                     "open_issues": 48,
                     "owner": "cambrian-mllm",
                     "repo": "cambrian",
-                    "stars": 2013,
+                    "stars": 2014,
                     "topics": [
                       "chatbot",
                       "clip",
@@ -836,7 +836,7 @@
                     "open_issues": 1,
                     "owner": "cambrian-mllm",
                     "repo": "cambrian-s",
-                    "stars": 572,
+                    "stars": 573,
                     "topics": [
                       "computer-vision",
                       "llm",
@@ -891,7 +891,7 @@
                     "open_issues": 48,
                     "owner": "cambrian-mllm",
                     "repo": "cambrian",
-                    "stars": 2013,
+                    "stars": 2014,
                     "topics": [
                       "chatbot",
                       "clip",
@@ -923,7 +923,7 @@
                     "open_issues": 20,
                     "owner": "TRI-ML",
                     "repo": "prismatic-vlms",
-                    "stars": 1025,
+                    "stars": 1026,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -965,7 +965,7 @@
                     "open_issues": 66,
                     "owner": "NVlabs",
                     "repo": "Eagle",
-                    "stars": 3753,
+                    "stars": 3755,
                     "topics": [
                       "demo",
                       "eagle",
@@ -1216,7 +1216,7 @@
                     "open_issues": 31,
                     "owner": "UMass-Embodied-AGI",
                     "repo": "3D-LLM",
-                    "stars": 1219,
+                    "stars": 1220,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1237,7 +1237,7 @@
                     "open_issues": 6,
                     "owner": "cpystan",
                     "repo": "SD-VLM",
-                    "stars": 408,
+                    "stars": 406,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1515,7 +1515,7 @@
                     "open_issues": 4,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 5116,
+                    "stars": 5118,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -1899,7 +1899,7 @@
                     "open_issues": 690,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22239,
+                    "stars": 22237,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -2177,7 +2177,7 @@
                     "open_issues": 13,
                     "owner": "SpatialVision",
                     "repo": "Orient-Anything",
-                    "stars": 409,
+                    "stars": 410,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -2287,7 +2287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:10:22.462Z",
+    "last_updated": "2026-11-03T21:10:39.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
@@ -2296,10 +2296,10 @@
       "language": "Python",
       "license": "MIT",
       "last_commit": "2026-10-14T12:53:42Z",
-      "open_issues": 4,
+      "open_issues": 1,
       "owner": "vulab-AI",
       "repo": "Awesome-Spatial-VLMs",
-      "stars": 471,
+      "stars": 470,
       "topics": [
         "awesome-list",
         "awesome-spatial-vlms",
