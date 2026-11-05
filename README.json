@@ -389,7 +389,7 @@
                     "open_issues": 1,
                     "owner": "PzySeere",
                     "repo": "MetaSpatial",
-                    "stars": 321,
+                    "stars": 320,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -965,7 +965,7 @@
                     "open_issues": 66,
                     "owner": "NVlabs",
                     "repo": "Eagle",
-                    "stars": 3758,
+                    "stars": 3772,
                     "topics": [
                       "demo",
                       "eagle",
@@ -1216,7 +1216,7 @@
                     "open_issues": 31,
                     "owner": "UMass-Embodied-AGI",
                     "repo": "3D-LLM",
-                    "stars": 1219,
+                    "stars": 1220,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1445,7 +1445,7 @@
                     "open_issues": 6,
                     "owner": "YunzeMan",
                     "repo": "Situation3D",
-                    "stars": 44,
+                    "stars": 45,
                     "topics": [
                       "3d-scene-understanding",
                       "deep-learning",
@@ -1899,7 +1899,7 @@
                     "open_issues": 690,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22239,
+                    "stars": 22240,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -2287,7 +2287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T21:23:45.542Z",
+    "last_updated": "2026-11-05T21:30:28.784Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
@@ -2299,7 +2299,7 @@
       "open_issues": 1,
       "owner": "vulab-AI",
       "repo": "Awesome-Spatial-VLMs",
-      "stars": 470,
+      "stars": 471,
       "topics": [
         "awesome-list",
         "awesome-spatial-vlms",
