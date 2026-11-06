@@ -123,7 +123,7 @@
                     "open_issues": 22,
                     "owner": "microsoft",
                     "repo": "SoM",
-                    "stars": 1571,
+                    "stars": 1572,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -186,7 +186,7 @@
                     "open_issues": 2,
                     "owner": "UMass-Embodied-AGI",
                     "repo": "MindJourney",
-                    "stars": 155,
+                    "stars": 156,
                     "topics": [
                       "3d",
                       "embodied-ai",
@@ -473,7 +473,7 @@
                     "open_issues": 0,
                     "owner": "EmbodiedCity",
                     "repo": "Embodied-R.code",
-                    "stars": 95,
+                    "stars": 94,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -578,7 +578,7 @@
                     "open_issues": 1,
                     "owner": "facebookresearch",
                     "repo": "DepthLM_Official",
-                    "stars": 372,
+                    "stars": 373,
                     "topics": [
                       "3d",
                       "depth-estimation",
@@ -741,7 +741,7 @@
                     "open_issues": 48,
                     "owner": "cambrian-mllm",
                     "repo": "cambrian",
-                    "stars": 2014,
+                    "stars": 2013,
                     "topics": [
                       "chatbot",
                       "clip",
@@ -891,7 +891,7 @@
                     "open_issues": 48,
                     "owner": "cambrian-mllm",
                     "repo": "cambrian",
-                    "stars": 2014,
+                    "stars": 2013,
                     "topics": [
                       "chatbot",
                       "clip",
@@ -962,10 +962,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-06-24T18:12:11Z",
-                    "open_issues": 66,
+                    "open_issues": 65,
                     "owner": "NVlabs",
                     "repo": "Eagle",
-                    "stars": 3772,
+                    "stars": 3799,
                     "topics": [
                       "demo",
                       "eagle",
@@ -1279,7 +1279,7 @@
                     "open_issues": 26,
                     "owner": "AnjieCheng",
                     "repo": "SpatialRGPT",
-                    "stars": 342,
+                    "stars": 343,
                     "topics": [
                       "spatial-reasoning",
                       "vision-language-model"
@@ -1356,7 +1356,7 @@
                     "open_issues": 16,
                     "owner": "Zhoues",
                     "repo": "RoboRefer",
-                    "stars": 269,
+                    "stars": 270,
                     "topics": [
                       "robotics",
                       "spatial-reasoning",
@@ -1515,7 +1515,7 @@
                     "open_issues": 4,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 5119,
+                    "stars": 5124,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -1613,14 +1613,14 @@
                   "repo_info": {
                     "archived": false,
                     "description": "[NeurIPS 2025] 3DRS: MLLMs Need 3D-Aware Representation Supervision for Scene Understanding",
-                    "homepage": null,
+                    "homepage": "https://visual-ai.github.io/3drs/",
                     "id": 994583646,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2025-12-09T15:59:26Z",
+                    "last_commit": "2026-11-06T06:26:22Z",
                     "open_issues": 5,
                     "owner": "Visual-AI",
-                    "repo": "3DRS",
+                    "repo": "3drs",
                     "stars": 161,
                     "topics": []
                   },
@@ -1712,7 +1712,7 @@
                     "open_issues": 12,
                     "owner": "ZzZZCHS",
                     "repo": "Chat-Scene",
-                    "stars": 223,
+                    "stars": 222,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -2016,7 +2016,7 @@
                     "open_issues": 0,
                     "owner": "OpenSenseNova",
                     "repo": "SenseNova-SI",
-                    "stars": 312,
+                    "stars": 313,
                     "topics": [
                       "mllm",
                       "mllm-for-3d",
@@ -2049,7 +2049,7 @@
                     "open_issues": 3,
                     "owner": "remyxai",
                     "repo": "VQASynth",
-                    "stars": 593,
+                    "stars": 594,
                     "topics": [
                       "agent",
                       "dataset-generation",
@@ -2287,7 +2287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:30:28.784Z",
+    "last_updated": "2026-11-06T20:58:36.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
@@ -2299,7 +2299,7 @@
       "open_issues": 1,
       "owner": "vulab-AI",
       "repo": "Awesome-Spatial-VLMs",
-      "stars": 471,
+      "stars": 472,
       "topics": [
         "awesome-list",
         "awesome-spatial-vlms",
