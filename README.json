@@ -965,7 +965,7 @@
                     "open_issues": 65,
                     "owner": "NVlabs",
                     "repo": "Eagle",
-                    "stars": 3811,
+                    "stars": 3815,
                     "topics": [
                       "demo",
                       "eagle",
@@ -1515,7 +1515,7 @@
                     "open_issues": 4,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 5124,
+                    "stars": 5125,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -1621,7 +1621,7 @@
                     "open_issues": 5,
                     "owner": "Visual-AI",
                     "repo": "3drs",
-                    "stars": 161,
+                    "stars": 162,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1670,7 +1670,7 @@
                     "open_issues": 20,
                     "owner": "Qi-Zhangyang",
                     "repo": "GPT4Scene-and-VLN-R1",
-                    "stars": 547,
+                    "stars": 546,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1899,7 +1899,7 @@
                     "open_issues": 691,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22240,
+                    "stars": 22242,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -2198,7 +2198,7 @@
                     "open_issues": 0,
                     "owner": "NVlabs",
                     "repo": "RoboSpatial",
-                    "stars": 153,
+                    "stars": 155,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -2287,7 +2287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:31:11.898Z",
+    "last_updated": "2026-11-08T19:51:17.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
@@ -2299,7 +2299,7 @@
       "open_issues": 2,
       "owner": "vulab-AI",
       "repo": "Awesome-Spatial-VLMs",
-      "stars": 472,
+      "stars": 473,
       "topics": [
         "awesome-list",
         "awesome-spatial-vlms",
