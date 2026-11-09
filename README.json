@@ -431,7 +431,7 @@
                     "open_issues": 0,
                     "owner": "ZJU-REAL",
                     "repo": "SpatialLadder",
-                    "stars": 104,
+                    "stars": 105,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -965,7 +965,7 @@
                     "open_issues": 65,
                     "owner": "NVlabs",
                     "repo": "Eagle",
-                    "stars": 3815,
+                    "stars": 3826,
                     "topics": [
                       "demo",
                       "eagle",
@@ -1279,7 +1279,7 @@
                     "open_issues": 26,
                     "owner": "AnjieCheng",
                     "repo": "SpatialRGPT",
-                    "stars": 343,
+                    "stars": 344,
                     "topics": [
                       "spatial-reasoning",
                       "vision-language-model"
@@ -1515,7 +1515,7 @@
                     "open_issues": 4,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 5125,
+                    "stars": 5127,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -2016,7 +2016,7 @@
                     "open_issues": 0,
                     "owner": "OpenSenseNova",
                     "repo": "SenseNova-SI",
-                    "stars": 313,
+                    "stars": 314,
                     "topics": [
                       "mllm",
                       "mllm-for-3d",
@@ -2045,7 +2045,7 @@
                     "id": 758808044,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-02T16:52:26Z",
+                    "last_commit": "2026-11-09T17:09:18Z",
                     "open_issues": 3,
                     "owner": "remyxai",
                     "repo": "VQASynth",
@@ -2287,7 +2287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T19:51:17.643Z",
+    "last_updated": "2026-11-09T23:49:07.148Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
