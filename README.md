@@ -258,7 +258,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[ICLR2025] Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models (*NVIDIA*) [\[paper\]](https://arxiv.org/pdf/2501.14818) [\[code\]](https://github.com/NVlabs/EAGLE?tab=readme-ov-file) ⭐ 3,826 | 🐛 65 | 🌐 Python | 📅 2026-11-07 [\[checkpoint\]](https://huggingface.co/nvidia/Eagle2.5-8B);
+* \[ICLR2025] Eagle 2: Building Post-Training Data Strategies from Scratch for Frontier Vision-Language Models (*NVIDIA*) [\[paper\]](https://arxiv.org/pdf/2501.14818) [\[code\]](https://github.com/NVlabs/EAGLE?tab=readme-ov-file) ⭐ 3,830 | 🐛 65 | 🌐 Python | 📅 2026-11-07 [\[checkpoint\]](https://huggingface.co/nvidia/Eagle2.5-8B);
 
 * \[arXiv2025] G2VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning (*Shanghai AI Lab*) [\[paper\]](https://arxiv.org/pdf/2511.21688) [\[code\]](https://github.com/InternRobotics/G2VLM) ⭐ 362 | 🐛 11 | 🌐 Python | 📅 2026-04-18 [\[checkpoint\]](https://huggingface.co/InternRobotics/G2VLM-2B-MoT)
 
@@ -357,7 +357,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[NeurIPS2025] SPATIALLM: Training Large Language Models for Structured Indoor Modeling (*Manycore Tech Inc.*) [\[paper\]](https://arxiv.org/pdf/2506.07491) [\[code\]](https://github.com/manycore-research/SpatialLM) ⭐ 5,127 | 🐛 4 | 🌐 Python | 📅 2026-06-26 [\[checkpoint\]](https://huggingface.co/manycore-research/SpatialLM1.1-Qwen-0.5B)
+* \[NeurIPS2025] SPATIALLM: Training Large Language Models for Structured Indoor Modeling (*Manycore Tech Inc.*) [\[paper\]](https://arxiv.org/pdf/2506.07491) [\[code\]](https://github.com/manycore-research/SpatialLM) ⭐ 5,129 | 🐛 4 | 🌐 Python | 📅 2026-06-26 [\[checkpoint\]](https://huggingface.co/manycore-research/SpatialLM1.1-Qwen-0.5B)
 
   <!-- New paper, excluded in survey -->
 
@@ -413,7 +413,7 @@ This repository uses the framework from our survey paper to systematically organ
 
 * \[ICCV2025] MM-Spatial: Exploring 3D Spatial Understanding in Multimodal LLMs (*Apple*) [\[paper\]](https://arxiv.org/pdf/2503.13111) [\[code\]](https://github.com/apple/ml-cubifyanything) ⭐ 450 | 🐛 23 | 🌐 Python | 📅 2026-09-11;
 
-* \[ICCV2025] LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D Capabilities (*The University of Hong Kong*) [\[paper\]](https://arxiv.org/pdf/2409.18125) [\[code\]](https://github.com/ZCMax/LLaVA-3D) ⭐ 393 | 🐛 26 | 🌐 Python | 📅 2025-10-21 [\[checkpoint\]](https://huggingface.co/ChaimZhu/LLaVA-3D-7B);
+* \[ICCV2025] LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D Capabilities (*The University of Hong Kong*) [\[paper\]](https://arxiv.org/pdf/2409.18125) [\[code\]](https://github.com/ZCMax/LLaVA-3D) ⭐ 394 | 🐛 26 | 🌐 Python | 📅 2025-10-21 [\[checkpoint\]](https://huggingface.co/ChaimZhu/LLaVA-3D-7B);
 
 * \[CVPR2025] Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning (*Zhejiang University*) [\[paper\]](https://arxiv.org/pdf/2503.00513) [\[code\]](https://github.com/hanxunyu/Inst3D-LMM) ⭐ 134 | 🐛 4 | 🌐 Python | 📅 2026-01-30;
 
@@ -477,7 +477,7 @@ This repository uses the framework from our survey paper to systematically organ
 
   <!-- New paper, excluded in survey -->
 
-* \[arXiv2025] Visual Spatial Tuning (*The University of Hong Kong*) [\[paper\]](https://arxiv.org/pdf/2511.05491) [\[code\]](https://github.com/Yangr116/VST) ⭐ 215 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-03-25 [\[checkpoint\]](https://huggingfgace.co/collections/rayruiyang/vst);
+* \[arXiv2025] Visual Spatial Tuning (*The University of Hong Kong*) [\[paper\]](https://arxiv.org/pdf/2511.05491) [\[code\]](https://github.com/Yangr116/VST) ⭐ 216 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-03-25 [\[checkpoint\]](https://huggingfgace.co/collections/rayruiyang/vst);
 
   <!-- New paper, excluded in survey -->
 
@@ -589,4 +589,4 @@ If you find this survey or repository useful for your research, please cite our 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._

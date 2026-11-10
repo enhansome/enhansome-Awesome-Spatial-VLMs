@@ -965,7 +965,7 @@
                     "open_issues": 65,
                     "owner": "NVlabs",
                     "repo": "Eagle",
-                    "stars": 3826,
+                    "stars": 3830,
                     "topics": [
                       "demo",
                       "eagle",
@@ -1515,7 +1515,7 @@
                     "open_issues": 4,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 5127,
+                    "stars": 5129,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -1796,7 +1796,7 @@
                     "open_issues": 26,
                     "owner": "ZCMax",
                     "repo": "LLaVA-3D",
-                    "stars": 393,
+                    "stars": 394,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -2151,7 +2151,7 @@
                     "open_issues": 1,
                     "owner": "Yangr116",
                     "repo": "VST",
-                    "stars": 215,
+                    "stars": 216,
                     "topics": [
                       "spatial-intelligence",
                       "spatial-reasoning",
@@ -2287,7 +2287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:49:07.148Z",
+    "last_updated": "2026-11-10T21:22:15.841Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
