@@ -671,7 +671,7 @@
                     "open_issues": 9,
                     "owner": "mahtabbigverdi",
                     "repo": "Aurora-perception",
-                    "stars": 51,
+                    "stars": 52,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -965,7 +965,7 @@
                     "open_issues": 65,
                     "owner": "NVlabs",
                     "repo": "Eagle",
-                    "stars": 3830,
+                    "stars": 3832,
                     "topics": [
                       "demo",
                       "eagle",
@@ -1000,7 +1000,7 @@
                     "open_issues": 11,
                     "owner": "InternRobotics",
                     "repo": "G2VLM",
-                    "stars": 362,
+                    "stars": 363,
                     "topics": [
                       "3d-llms",
                       "3d-reconstruction",
@@ -1515,7 +1515,7 @@
                     "open_issues": 4,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 5129,
+                    "stars": 5130,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -1941,7 +1941,7 @@
                     "open_issues": 15,
                     "owner": "OpenGVLab",
                     "repo": "all-seeing",
-                    "stars": 507,
+                    "stars": 506,
                     "topics": [
                       "all-seeing",
                       "dataset",
@@ -2016,7 +2016,7 @@
                     "open_issues": 0,
                     "owner": "OpenSenseNova",
                     "repo": "SenseNova-SI",
-                    "stars": 314,
+                    "stars": 315,
                     "topics": [
                       "mllm",
                       "mllm-for-3d",
@@ -2261,7 +2261,7 @@
                     "open_issues": 1,
                     "owner": "ZJU-OmniAI",
                     "repo": "Spatial-Interactor",
-                    "stars": 89,
+                    "stars": 90,
                     "topics": [
                       "embodied-ai",
                       "on-policy-distillation",
@@ -2287,7 +2287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:22:15.841Z",
+    "last_updated": "2026-11-11T22:05:41.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
