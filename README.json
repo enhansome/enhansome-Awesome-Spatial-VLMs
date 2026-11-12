@@ -123,7 +123,7 @@
                     "open_issues": 22,
                     "owner": "microsoft",
                     "repo": "SoM",
-                    "stars": 1572,
+                    "stars": 1573,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -557,7 +557,7 @@
                     "open_issues": 0,
                     "owner": "zhangquanchen",
                     "repo": "3DThinker",
-                    "stars": 260,
+                    "stars": 261,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -867,6 +867,27 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[arXiv2026] MJev-Spatial: System One Spatial Intelligence via Native Attention Matching (MindLab) [paper]",
+                  "description": "[code] [checkpoint];",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "MJev-Spatial: System One Spatial Intelligence via Native Attention Matching",
+                    "homepage": null,
+                    "id": 1384493797,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-16T06:53:29Z",
+                    "open_issues": 0,
+                    "owner": "Fr0zenCrane",
+                    "repo": "MJev-Spatial",
+                    "stars": 23,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-12T21:53:00.314Z"
                 }
               ],
               "description": null,
@@ -965,7 +986,7 @@
                     "open_issues": 65,
                     "owner": "NVlabs",
                     "repo": "Eagle",
-                    "stars": 3832,
+                    "stars": 3839,
                     "topics": [
                       "demo",
                       "eagle",
@@ -1000,7 +1021,7 @@
                     "open_issues": 11,
                     "owner": "InternRobotics",
                     "repo": "G2VLM",
-                    "stars": 363,
+                    "stars": 364,
                     "topics": [
                       "3d-llms",
                       "3d-reconstruction",
@@ -1515,7 +1536,7 @@
                     "open_issues": 4,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 5130,
+                    "stars": 5132,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -1670,7 +1691,7 @@
                     "open_issues": 20,
                     "owner": "Qi-Zhangyang",
                     "repo": "GPT4Scene-and-VLN-R1",
-                    "stars": 546,
+                    "stars": 547,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -2045,7 +2066,7 @@
                     "id": 758808044,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-09T17:09:18Z",
+                    "last_commit": "2026-11-12T21:47:54Z",
                     "open_issues": 3,
                     "owner": "remyxai",
                     "repo": "VQASynth",
@@ -2287,7 +2308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T22:05:41.241Z",
+    "last_updated": "2026-11-12T21:53:00.314Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
@@ -2295,11 +2316,11 @@
       "id": 1017314390,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-10-14T12:53:42Z",
-      "open_issues": 2,
+      "last_commit": "2026-11-12T03:50:01Z",
+      "open_issues": 0,
       "owner": "vulab-AI",
       "repo": "Awesome-Spatial-VLMs",
-      "stars": 473,
+      "stars": 474,
       "topics": [
         "awesome-list",
         "awesome-spatial-vlms",
@@ -2311,7 +2332,7 @@
         "vlm"
       ]
     },
-    "original_repository_sha": "f1c7f3497bba55661f3bcdcfecf92c415196ee06",
+    "original_repository_sha": "5b612db340ecda7faf54283149e71de3457f5c62",
     "enhanced_repository": "enhansome/enhansome-Awesome-Spatial-VLMs",
     "enhanced_repository_description": null,
     "title": "Awesome Spatial VLMs with stars"
