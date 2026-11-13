@@ -741,7 +741,7 @@
                     "open_issues": 48,
                     "owner": "cambrian-mllm",
                     "repo": "cambrian",
-                    "stars": 2013,
+                    "stars": 2011,
                     "topics": [
                       "chatbot",
                       "clip",
@@ -912,7 +912,7 @@
                     "open_issues": 48,
                     "owner": "cambrian-mllm",
                     "repo": "cambrian",
-                    "stars": 2013,
+                    "stars": 2011,
                     "topics": [
                       "chatbot",
                       "clip",
@@ -986,7 +986,7 @@
                     "open_issues": 65,
                     "owner": "NVlabs",
                     "repo": "Eagle",
-                    "stars": 3839,
+                    "stars": 3850,
                     "topics": [
                       "demo",
                       "eagle",
@@ -1084,7 +1084,7 @@
                     "open_issues": 30,
                     "owner": "jshilong",
                     "repo": "GPT4RoI",
-                    "stars": 555,
+                    "stars": 556,
                     "topics": [
                       "computer-vision",
                       "gpt",
@@ -1300,7 +1300,7 @@
                     "open_issues": 26,
                     "owner": "AnjieCheng",
                     "repo": "SpatialRGPT",
-                    "stars": 344,
+                    "stars": 345,
                     "topics": [
                       "spatial-reasoning",
                       "vision-language-model"
@@ -1445,7 +1445,7 @@
                     "open_issues": 2,
                     "owner": "Hoyyyaard",
                     "repo": "LSceneLLM",
-                    "stars": 74,
+                    "stars": 73,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1536,7 +1536,7 @@
                     "open_issues": 4,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 5132,
+                    "stars": 5134,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -1663,7 +1663,7 @@
                     "open_issues": 0,
                     "owner": "hustvl",
                     "repo": "Spa3R",
-                    "stars": 54,
+                    "stars": 55,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -2066,8 +2066,8 @@
                     "id": 758808044,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-12T21:47:54Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-11-13T18:30:45Z",
+                    "open_issues": 6,
                     "owner": "remyxai",
                     "repo": "VQASynth",
                     "stars": 594,
@@ -2308,7 +2308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:53:00.314Z",
+    "last_updated": "2026-11-13T21:28:50.177Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
