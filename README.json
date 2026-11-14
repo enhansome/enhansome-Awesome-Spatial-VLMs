@@ -986,7 +986,7 @@
                     "open_issues": 65,
                     "owner": "NVlabs",
                     "repo": "Eagle",
-                    "stars": 3850,
+                    "stars": 3851,
                     "topics": [
                       "demo",
                       "eagle",
@@ -1536,7 +1536,7 @@
                     "open_issues": 4,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 5134,
+                    "stars": 5135,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -1596,7 +1596,7 @@
                     "open_issues": 10,
                     "owner": "VITA-Group",
                     "repo": "VLM-3R",
-                    "stars": 454,
+                    "stars": 455,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -2308,7 +2308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T21:28:50.177Z",
+    "last_updated": "2026-11-14T20:00:03.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
