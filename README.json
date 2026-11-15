@@ -323,7 +323,7 @@
                   "description": "[code];",
                   "children": [],
                   "repo_info": {
-                    "archived": false,
+                    "archived": true,
                     "description": "[NeurIPS 2024]Repos for \"Visualization-of-Thought\" dataset, construction code and evaluation.",
                     "homepage": "https://microsoft.github.io/visualization-of-thought",
                     "id": 830812263,
@@ -536,7 +536,7 @@
                     "open_issues": 2,
                     "owner": "hunarbatra",
                     "repo": "SpatialThinker",
-                    "stars": 43,
+                    "stars": 44,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -880,7 +880,7 @@
                     "id": 1384493797,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-16T06:53:29Z",
+                    "last_commit": "2026-11-15T07:48:17Z",
                     "open_issues": 0,
                     "owner": "Fr0zenCrane",
                     "repo": "MJev-Spatial",
@@ -986,7 +986,7 @@
                     "open_issues": 65,
                     "owner": "NVlabs",
                     "repo": "Eagle",
-                    "stars": 3851,
+                    "stars": 3857,
                     "topics": [
                       "demo",
                       "eagle",
@@ -1917,7 +1917,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-21T03:27:00Z",
-                    "open_issues": 691,
+                    "open_issues": 692,
                     "owner": "microsoft",
                     "repo": "unilm",
                     "stars": 22242,
@@ -2172,7 +2172,7 @@
                     "open_issues": 1,
                     "owner": "Yangr116",
                     "repo": "VST",
-                    "stars": 216,
+                    "stars": 217,
                     "topics": [
                       "spatial-intelligence",
                       "spatial-reasoning",
@@ -2308,7 +2308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T20:00:03.118Z",
+    "last_updated": "2026-11-15T20:27:57.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
@@ -2320,7 +2320,7 @@
       "open_issues": 0,
       "owner": "vulab-AI",
       "repo": "Awesome-Spatial-VLMs",
-      "stars": 474,
+      "stars": 475,
       "topics": [
         "awesome-list",
         "awesome-spatial-vlms",
