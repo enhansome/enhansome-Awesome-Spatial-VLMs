@@ -741,7 +741,7 @@
                     "open_issues": 48,
                     "owner": "cambrian-mllm",
                     "repo": "cambrian",
-                    "stars": 2010,
+                    "stars": 2011,
                     "topics": [
                       "chatbot",
                       "clip",
@@ -912,7 +912,7 @@
                     "open_issues": 48,
                     "owner": "cambrian-mllm",
                     "repo": "cambrian",
-                    "stars": 2010,
+                    "stars": 2011,
                     "topics": [
                       "chatbot",
                       "clip",
@@ -986,7 +986,7 @@
                     "open_issues": 65,
                     "owner": "NVlabs",
                     "repo": "Eagle",
-                    "stars": 3860,
+                    "stars": 3861,
                     "topics": [
                       "demo",
                       "eagle",
@@ -1536,7 +1536,7 @@
                     "open_issues": 4,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 5163,
+                    "stars": 5166,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -1920,7 +1920,7 @@
                     "open_issues": 692,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22248,
+                    "stars": 22249,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -2308,7 +2308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:16:49.080Z",
+    "last_updated": "2026-11-21T20:58:01.750Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
