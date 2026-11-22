@@ -983,10 +983,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-07T10:14:42Z",
-                    "open_issues": 65,
+                    "open_issues": 66,
                     "owner": "NVlabs",
                     "repo": "Eagle",
-                    "stars": 3861,
+                    "stars": 3862,
                     "topics": [
                       "demo",
                       "eagle",
@@ -1536,7 +1536,7 @@
                     "open_issues": 4,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 5166,
+                    "stars": 5168,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -1920,7 +1920,7 @@
                     "open_issues": 692,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22249,
+                    "stars": 22250,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -2219,7 +2219,7 @@
                     "open_issues": 0,
                     "owner": "NVlabs",
                     "repo": "RoboSpatial",
-                    "stars": 156,
+                    "stars": 157,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -2308,7 +2308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:58:01.750Z",
+    "last_updated": "2026-11-22T21:08:24.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
