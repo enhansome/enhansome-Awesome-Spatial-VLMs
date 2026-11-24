@@ -557,7 +557,7 @@
                     "open_issues": 0,
                     "owner": "zhangquanchen",
                     "repo": "3DThinker",
-                    "stars": 263,
+                    "stars": 264,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -986,7 +986,7 @@
                     "open_issues": 66,
                     "owner": "NVlabs",
                     "repo": "Eagle",
-                    "stars": 3862,
+                    "stars": 3864,
                     "topics": [
                       "demo",
                       "eagle",
@@ -1019,7 +1019,7 @@
                     "license": "Apache-2.0",
                     "last_commit": "2026-04-18T22:20:48Z",
                     "open_issues": 11,
-                    "owner": "InternRobotics",
+                    "owner": "Sage-PhysicalAI",
                     "repo": "G2VLM",
                     "stars": 364,
                     "topics": [
@@ -1084,7 +1084,7 @@
                     "open_issues": 30,
                     "owner": "jshilong",
                     "repo": "GPT4RoI",
-                    "stars": 556,
+                    "stars": 555,
                     "topics": [
                       "computer-vision",
                       "gpt",
@@ -1258,7 +1258,7 @@
                     "open_issues": 6,
                     "owner": "cpystan",
                     "repo": "SD-VLM",
-                    "stars": 406,
+                    "stars": 405,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1536,7 +1536,7 @@
                     "open_issues": 4,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 5168,
+                    "stars": 5169,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -2066,11 +2066,11 @@
                     "id": 758808044,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-16T18:06:43Z",
+                    "last_commit": "2026-11-23T19:03:22Z",
                     "open_issues": 6,
                     "owner": "remyxai",
                     "repo": "VQASynth",
-                    "stars": 594,
+                    "stars": 595,
                     "topics": [
                       "agent",
                       "dataset-generation",
@@ -2308,7 +2308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T21:08:24.414Z",
+    "last_updated": "2026-11-24T02:27:42.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
