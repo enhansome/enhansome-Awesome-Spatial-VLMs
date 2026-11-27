@@ -836,7 +836,7 @@
                     "open_issues": 1,
                     "owner": "cambrian-mllm",
                     "repo": "cambrian-s",
-                    "stars": 573,
+                    "stars": 574,
                     "topics": [
                       "computer-vision",
                       "llm",
@@ -986,7 +986,7 @@
                     "open_issues": 65,
                     "owner": "NVlabs",
                     "repo": "Eagle",
-                    "stars": 3871,
+                    "stars": 3873,
                     "topics": [
                       "demo",
                       "eagle",
@@ -1021,7 +1021,7 @@
                     "open_issues": 11,
                     "owner": "Sage-PhysicalAI",
                     "repo": "G2VLM",
-                    "stars": 364,
+                    "stars": 363,
                     "topics": [
                       "3d-llms",
                       "3d-reconstruction",
@@ -1403,7 +1403,7 @@
                     "open_issues": 13,
                     "owner": "ATR-DBI",
                     "repo": "ScanQA",
-                    "stars": 165,
+                    "stars": 166,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:03:16.525Z"
@@ -1536,7 +1536,7 @@
                     "open_issues": 4,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 5170,
+                    "stars": 5171,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -2308,7 +2308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T23:56:16.622Z",
+    "last_updated": "2026-11-27T23:37:53.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Awesome-Spatial-VLMs] This repository is the official, community-maintained resource for the survey paper: Spatial Intelligence in Vision-Language Models: A Comprehensive Survey;",
